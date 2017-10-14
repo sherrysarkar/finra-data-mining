@@ -1,0 +1,2634 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<xsd:schema xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="qualified">
+	<xsd:annotation>
+		<xsd:documentation xml:lang="en">
+      ©2017 Financial Industry Regulatory Authority, Inc. (FINRA). All rights reserved. Materials may not be reprinted or republished without the express permission of FINRA. This document contains FINRA Confidential and Proprietary information. FINRA provides this information for internal assessment or use of the Investment Adviser Compilation Reports available through IAPD. Any other use is strictly prohibited by FINRA. FINRA reserves the right to seek all injunctive and equitable relief available to it in the event FINRA Confidential or Proprietary information is released to a third party. Use of this document demonstrates acknowledgement that this document contains FINRA Confidential and Proprietary information, agreement that the user will not reprint, republish or otherwise disclose this information to any third party and agreement that FINRA may protect its rights, including but not limited to intellectual property rights.
+      Version:  Release 2017.09 (last updated on 7/1/2017)
+    </xsd:documentation>
+	</xsd:annotation>
+	<xsd:element name="IAPDFirmSECReport" type="IAPDFirmSECReportType">
+		<xsd:annotation>
+			<xsd:documentation xml:lang="en">
+        The Compilation Report contains information for any firm that currently holds an approved-equivalent registration with the SEC, or currently hold an ERA-Active status with the SEC, and has filed a Form ADV.The question numbers correspond to Form ADV version 10/2017.
+      </xsd:documentation>
+		</xsd:annotation>
+	</xsd:element>
+	<xsd:complexType name="IAPDFirmSECReportType">
+		<xsd:sequence>
+			<xsd:element name="Firms" maxOccurs="1">
+				<xsd:complexType>
+					<xsd:sequence>
+						<xsd:element name="Firm" type="SECFirmType" maxOccurs="unbounded">
+							<xsd:annotation>
+								<xsd:documentation xml:lang="en">
+                  This node contains the list of firms information.
+                </xsd:documentation>
+							</xsd:annotation>
+						</xsd:element>
+					</xsd:sequence>
+				</xsd:complexType>
+			</xsd:element>
+		</xsd:sequence>
+		<xsd:attribute name="GenOn" type="xsd:date" use="required">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node contains the report generated date information.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+	</xsd:complexType>
+	<xsd:complexType name="SECFirmType">
+		<xsd:sequence>
+			<xsd:element name="Info" type="SECOrgInfoType" minOccurs="1" maxOccurs="1">
+				<xsd:annotation>
+					<xsd:documentation xml:lang="en">
+            This node contains the organization's information.
+          </xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+			<xsd:element name="MainAddr" type="AddrType" minOccurs="0" maxOccurs="1">
+				<xsd:annotation>
+					<xsd:documentation xml:lang="en">
+            This node has the Item 1F Principal Main office address info.
+          </xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+			<xsd:element name="MailingAddr" type="AddrType" minOccurs="0" maxOccurs="1">
+				<xsd:annotation>
+					<xsd:documentation xml:lang="en">
+            This node has the Item 1G mailing address info.
+          </xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+			<xsd:element name="Rgstn" type="RgstnType" minOccurs="1" maxOccurs="unbounded">
+				<xsd:annotation>
+					<xsd:documentation xml:lang="en">
+            This node has the firm registration type.
+          </xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+			<xsd:element name="NoticeFiled" type="NoticeFiledType" minOccurs="0" maxOccurs="1">
+				<xsd:annotation>
+					<xsd:documentation xml:lang="en">
+            This node has the active notice filing statuses.
+          </xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+			<xsd:element name="Filing" type="FilingType" minOccurs="1" maxOccurs="unbounded">
+				<xsd:annotation>
+					<xsd:documentation xml:lang="en">
+            This node has the firm filing info.
+          </xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+			<xsd:element name="FormInfo" type="SECFormInfoType" minOccurs="0" maxOccurs="1">
+				<xsd:annotation>
+					<xsd:documentation xml:lang="en">
+            This node has the firm forminfo.
+          </xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:complexType name="SECOrgInfoType">
+		<xsd:attribute name="SECRgnCD" type="SECRgnCdType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has the SEC Region Acronym. 
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="FirmCrdNb" type="Int8" use="required">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has the SEC firm's CRD number. This maps to Form ADV-Item 1 - Q1.e
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="SECNb" type="Str10" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has the firm's 801# or 802# from the IARD composite record. This maps to Form ADV-Item 1 - Q1.d
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="BusNm" type="Str64" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has the Firm's primary business name from the IARD composite record. This maps to Form ADV-Item 1 - Q1.b(1)
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="LegalNm" type="Str64" use="required">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has the Firm's legal name from the IARD composite record. This maps to Form ADV-Item 1 - Q1.a
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="UmbrRgstn" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+				This node has the Flag indicating if this firm registers more than 1 investment adviser under an umbrella registration. This maps to ADV- Item 1 - Q1.b(2)
+			</xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+	</xsd:complexType>
+	<xsd:complexType name="AddrType">
+		<xsd:attribute name="Strt1" type="Str50" use="optional"/>
+		<xsd:attribute name="Strt2" type="Str50" use="optional"/>
+		<xsd:attribute name="City" type="Str50" use="optional"/>
+		<xsd:attribute name="State" type="StateCdType" use="optional"/>
+		<xsd:attribute name="Cntry" type="Str50" use="optional"/>
+		<xsd:attribute name="PostlCd" type="Str11" use="optional"/>
+		<xsd:attribute name="PhNb" type="Str27" use="optional"/>
+		<xsd:attribute name="FaxNb" type="Str27" use="optional"/>
+	</xsd:complexType>
+	<xsd:complexType name="RgstnType">
+		<xsd:attribute name="FirmType" type="FirmCdType" use="required">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          The FirmType node has the detail if firm is Registered or an ERA. 
+          Displays Registered for registered firms. Displays ERA for Exempt Reporting Adviser firms.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="St" type="SecRgstnStType" use="required">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          The st node has the firm's registration status with the SEC or the firm's ERA 'status' at the time of report generation
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Dt" type="xsd:date" use="required">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          The dt node has the firm's effective date of their SEC registration or the firm's ERA reporting filing date at the time of report generation.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+	</xsd:complexType>
+	<xsd:complexType name="NoticeFiledType">
+		<xsd:sequence>
+			<xsd:element name="States" type="NtcType" minOccurs="0" maxOccurs="unbounded">
+				<xsd:annotation>
+					<xsd:documentation xml:lang="en">
+            The States node has the List of states the firm is notice filed in.
+          </xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:complexType name="FilingType">
+		<xsd:attribute name="Dt" type="xsd:date" use="required">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This has the date the organization's most recent Form ADV filing was processed.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="FormVrsn" type="Str20" use="required">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has the version of the latest form ADV submitted.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+	</xsd:complexType>
+	<xsd:complexType name="NtcType">
+		<xsd:annotation>
+			<xsd:documentation xml:lang="en">
+        This has regulator, NTC status and date
+      </xsd:documentation>
+		</xsd:annotation>
+		<xsd:attribute name="RgltrCd" type="StateCdType" use="required">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has the regulator code.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="St" type="NtcFiledType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          The st node has the Notice filed status of the state.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Dt" type="xsd:date" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          The Dt node has the effective date of the notice filed status.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+	</xsd:complexType>
+	<xsd:complexType name="SECFormInfoType">
+		<xsd:sequence>
+			<xsd:element name="Part1A" type="Part1AType">
+				<xsd:annotation>
+					<xsd:documentation xml:lang="en">
+            This has the form ADV Part1 details
+          </xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:complexType name="Part1AType">
+		<xsd:sequence>
+			<xsd:element name="Item1" type="Item1Type" minOccurs="0" maxOccurs="1">
+				<xsd:annotation>
+					<xsd:documentation xml:lang="en">
+            This node has the firm Identifying Information.This maps to Form ADV - Item 1
+          </xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+			<xsd:element name="Item2A" type="Item2AType" minOccurs="0" maxOccurs="1">
+				<xsd:annotation>
+					<xsd:documentation xml:lang="en">
+            This node has the SEC Registration.This maps to Form ADV - Item 2A
+          </xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+			<xsd:element name="Item2B" type="Item2BType" minOccurs="0" maxOccurs="1">
+				<xsd:annotation>
+					<xsd:documentation xml:lang="en">
+            This node has the SEC Registration.This maps to Form ADV - Item 2B
+          </xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+			<xsd:element name="Item3A" type="Item3AType" minOccurs="0" maxOccurs="1">
+				<xsd:annotation>
+					<xsd:documentation xml:lang="en">
+           This node has the Form of Organization - How are you organized?. This maps to Form ADV - Item 3 -  Q.A
+         </xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+			<xsd:element name="Item3B" type="Item3BType" minOccurs="0" maxOccurs="1">
+				<xsd:annotation>
+					<xsd:documentation xml:lang="en">
+            This node has the Form of Organization - In what month does your fiscal year end each year?. This maps to Form ADV - Item 3 -  Q.B
+          </xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+			<xsd:element name="Item3C" type="Item3CType" minOccurs="0" maxOccurs="1">
+				<xsd:annotation>
+					<xsd:documentation xml:lang="en">
+            This node has the Form of Organization - Under the laws of what state or country are you organized?. This maps to Form ADV - Item 3 -  Q.C
+          </xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+			<xsd:element name="Item5A" type="Item5AType" minOccurs="0" maxOccurs="1">
+				<xsd:annotation>
+					<xsd:documentation xml:lang="en">
+            This node has the Information About Your Advisory Business - Approximately how many employees do you have? Include full- and part-time employees but do not include any clerical workers. This maps to Form ADV - Item 5 -  Q.A
+          </xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+			<xsd:element name="Item5B" type="Item5BType" minOccurs="0" maxOccurs="1">
+				<xsd:annotation>
+					<xsd:documentation xml:lang="en">
+            This node has the Information About Your Advisory Business - Approximately how many of the employees reported in 5.A.This maps to Form ADV - Item 5 -  Q.B
+          </xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+			<xsd:element name="Item5C" type="Item5CType" minOccurs="0" maxOccurs="1">
+				<xsd:annotation>
+					<xsd:documentation xml:lang="en">
+            This node has the Information About Your Advisory Business - Clients.This maps to Form ADV - Item 5 -  Q.C.1 and Q.C.2
+          </xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+			<xsd:element name="Item5D" type="Item5DType" minOccurs="0" maxOccurs="1">
+				<xsd:annotation>
+					<xsd:documentation xml:lang="en">
+            This node has the Information About Your Advisory Business - Clients.This maps to Form ADV - Item 5 -  Q.D.
+          </xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+			<xsd:element name="Item5E" type="Item5EType" minOccurs="0" maxOccurs="1">
+				<xsd:annotation>
+					<xsd:documentation xml:lang="en">
+            This node has the Information About Your Advisory Business - Compensation Arrangements.This maps to Form ADV - Item 5 -  Q.E
+          </xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+			<xsd:element name="Item5F" type="Item5FType" minOccurs="0" maxOccurs="1">
+				<xsd:annotation>
+					<xsd:documentation xml:lang="en">
+            This node has the Information About Your Advisory Business - Regulatory Assets Under Management.This maps to Form ADV - Item 5 -  Q.F
+          </xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+			<xsd:element name="Item5G" type="Item5GType" minOccurs="0" maxOccurs="1">
+				<xsd:annotation>
+					<xsd:documentation xml:lang="en">
+            This node has the Information About Your Advisory Business - What type(s) of advisory services do you provide?.This maps to Form ADV - Item 5 -  Q.G
+          </xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+			<xsd:element name="Item5H" type="Item5HType" minOccurs="0" maxOccurs="1">
+				<xsd:annotation>
+					<xsd:documentation xml:lang="en">
+            This node has the Information About Your Advisory Business - If you provide financial planning services, to how many clients did you provide these services during your last fiscal year?.This maps to Form ADV - Item 5 -  Q.H
+          </xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+			<xsd:element name="Item5I" type="Item5IType" minOccurs="0" maxOccurs="1">
+				<xsd:annotation>
+					<xsd:documentation xml:lang="en">
+            This node has the Information About Your Advisory Business - wrap fee program.This maps to Form ADV - Item 5 -  Q.I
+          </xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+			<xsd:element name="Item5J" type="Item5JType" minOccurs="0" maxOccurs="1">
+				<xsd:annotation>
+					<xsd:documentation xml:lang="en">
+            This node has the Information About Your Advisory Business - In response to Item 4.B. of Part 2A of Form ADV, do you indicate that you provide investment advice only with respect to limited types of investments? .This maps to Form ADV - Item 5 -  Q.J
+          </xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+			<xsd:element name="Item6A" type="Item6AType" minOccurs="0" maxOccurs="1">
+				<xsd:annotation>
+					<xsd:documentation xml:lang="en">
+            This node has the Other Business Activities - You are actively engaged in business as a?.This maps to Form ADV - Item 6 -  Q.A
+          </xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+			<xsd:element name="Item6B" type="Item6BType" minOccurs="0" maxOccurs="1">
+				<xsd:annotation>
+					<xsd:documentation xml:lang="en">
+            This node has the Other Business Activities.This maps to Form ADV - Item 6 -  Q.B.1 to  Q.B.3
+          </xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+			<xsd:element name="Item7A" type="Item7AType" minOccurs="0" maxOccurs="1">
+				<xsd:annotation>
+					<xsd:documentation xml:lang="en">
+            This node has the Financial Industry Affiliations -
+            This part of Item 7 requires you to provide information about you and your related persons, including foreign affiliates. Your related persons are all of your advisory affiliates and any person that is under common control with you.
+            You have a related person that is a?. This maps to Form ADV - Item 7 - Q.A
+          </xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+			<xsd:element name="Item7B" type="Item7BType" minOccurs="0" maxOccurs="1">
+				<xsd:annotation>
+					<xsd:documentation xml:lang="en">
+    	    This node has the Financial Industry Affiliations - Are you an adviser to any private fund?
+            This maps to Form ADV - Item 7 - Q.B
+          </xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+			<xsd:element name="Item8A" type="Item8AType" minOccurs="0" maxOccurs="1">
+				<xsd:annotation>
+					<xsd:documentation xml:lang="en">
+            This node has the Participation or Interest in Client Transactions - Proprietary Interest in Client Transactions. This maps to Form ADV - Item 8 - Q.A.1 to Q.A.3
+          </xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+			<xsd:element name="Item8B" type="Item8BType" minOccurs="0" maxOccurs="1">
+				<xsd:annotation>
+					<xsd:documentation xml:lang="en">
+            This node has the Participation or Interest in Client Transactions - Sales Interest in Client Transactions. This maps to Form ADV - Item 8 - Q.B.1 to Q.B.3   
+          </xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+			<xsd:element name="Item8C" type="Item8CType" minOccurs="0" maxOccurs="1">
+				<xsd:annotation>
+					<xsd:documentation xml:lang="en">
+            This node has the Participation or Interest in Client Transactions - Investment or Brokerage Discretion. This maps to Form ADV - Item 8 - Q.C.1 to Q.C.4
+          </xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+			<xsd:element name="Item8D" type="Item8DType" minOccurs="0" maxOccurs="1">
+				<xsd:annotation>
+					<xsd:documentation xml:lang="en">
+            This node has the Participation or Interest in Client Transactions - Investment or Brokerage Discretion. This maps to Form ADV - Item 8 - Q.D
+          </xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+			<xsd:element name="Item8E" type="Item8EType" minOccurs="0" maxOccurs="1">
+				<xsd:annotation>
+					<xsd:documentation xml:lang="en">
+            This node has the Participation or Interest in Client Transactions - Investment or Brokerage Discretion. This maps to Form ADV - Item 8 - Q.E
+          </xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+			<xsd:element name="Item8F" type="Item8FType" minOccurs="0" maxOccurs="1">
+				<xsd:annotation>
+					<xsd:documentation xml:lang="en">
+            This node has the Participation or Interest in Client Transactions - Investment or Brokerage Discretion. This maps to Form ADV - Item 8 - Q.F
+          </xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+			<xsd:element name="Item8G" type="Item8GType" minOccurs="0" maxOccurs="1">
+				<xsd:annotation>
+					<xsd:documentation xml:lang="en">
+            This node has the Participation or Interest in Client Transactions - Investment or Brokerage Discretion. This maps to Form ADV - Item 8 - Q.G.1 to Q.G.2
+          </xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+			<xsd:element name="Item8H" type="Item8HType" minOccurs="0" maxOccurs="1">
+				<xsd:annotation>
+					<xsd:documentation xml:lang="en">
+            This node has the Participation or Interest in Client Transactions- Investment or Brokerage Discretion. This maps to Form ADV - Item 8 - Q.H
+          </xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+			<xsd:element name="Item8I" type="Item8IType" minOccurs="0" maxOccurs="1">
+				<xsd:annotation>
+					<xsd:documentation xml:lang="en">
+            This node has the Participation or Interest in Client Transactions - Investment or Brokerage Discretion. This maps to Form ADV - Item 8 - Q.I
+          </xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+			<xsd:element name="Item9A" type="Item9A1Type" minOccurs="0" maxOccurs="1">
+				<xsd:annotation>
+					<xsd:documentation xml:lang="en">
+            This node has the Custody.This maps to Form ADV - Item 9 - Q.A.1 and Q.A.2
+          </xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+			<xsd:element name="Item9B" type="Item9BType" minOccurs="0" maxOccurs="1">
+				<xsd:annotation>
+					<xsd:documentation xml:lang="en">
+            This node has the Custody.This maps to Form ADV - Item 9 - Q.B.1 and Q.B.2
+          </xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+			<xsd:element name="Item9C" type="Item9CType" minOccurs="0" maxOccurs="1">
+				<xsd:annotation>
+					<xsd:documentation xml:lang="en">
+            This node has the Custody.This maps to Form ADV - Item 9 - Q.C.1 to Q.C.4
+          </xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+			<xsd:element name="Item9D" type="Item9DType" minOccurs="0" maxOccurs="1">
+				<xsd:annotation>
+					<xsd:documentation xml:lang="en">
+            This node has the Custody.This maps to Form ADV - Item 9 - Q.D.1 and Q.D.2
+          </xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+			<xsd:element name="Item9E" type="Item9EType" minOccurs="0" maxOccurs="1">
+				<xsd:annotation>
+					<xsd:documentation xml:lang="en">
+            This node has the Custody.This maps to Form ADV - Item 9 - Q.E
+          </xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+			<xsd:element name="Item9F" type="Item9FType" minOccurs="0" maxOccurs="1">
+				<xsd:annotation>
+					<xsd:documentation xml:lang="en">
+            This node has the Custody.This maps to Form ADV - Item 9 - Q.F
+          </xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+			<xsd:element name="Item10A" type="Item10AType" minOccurs="0" maxOccurs="1">
+				<xsd:annotation>
+					<xsd:documentation xml:lang="en">
+            This node has Control Persons details.This maps to Form ADV - Item 10 - Q.A and Q.B
+          </xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+			<xsd:element name="Item11" type="Item11Type" minOccurs="0" maxOccurs="1">
+				<xsd:annotation>
+					<xsd:documentation xml:lang="en">
+            This node has Disclosure Information.This maps to Form ADV - Item 11
+          </xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+			<xsd:element name="Item11A" type="Item11AType" minOccurs="0" maxOccurs="1">
+				<xsd:annotation>
+					<xsd:documentation xml:lang="en">
+            This node has Disclosure Information - Criminal Action DRP.This maps to Form ADV - Item 11 - Q.A
+          </xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+			<xsd:element name="Item11B" type="Item11BType" minOccurs="0" maxOccurs="1">
+				<xsd:annotation>
+					<xsd:documentation xml:lang="en">
+            This node has Disclosure Information - advisory affiliate.This maps to Form ADV - Item 11 - Q.B
+          </xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+			<xsd:element name="Item11C" type="Item11CType" minOccurs="0" maxOccurs="1">
+				<xsd:annotation>
+					<xsd:documentation xml:lang="en">
+            This node has Disclosure Information - Regulatory Action DRP - Has the SEC or the Commodity Futures Trading Commission (CFTC) ever.This maps to Form ADV - Item 11 - Q.C
+          </xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+			<xsd:element name="Item11D" type="Item11DType" minOccurs="0" maxOccurs="1">
+				<xsd:annotation>
+					<xsd:documentation xml:lang="en">
+            This node has Disclosure Information - Regulatory Action DRP - Has any other federal regulatory agency, any state regulatory agency, or any foreign financial regulatory authority.This maps to Form ADV - Item 11 - Q.D
+          </xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+			<xsd:element name="Item11E" type="Item11EType" minOccurs="0" maxOccurs="1">
+				<xsd:annotation>
+					<xsd:documentation xml:lang="en">
+            This node has Disclosure Information - Regulatory Action DRP - Has any self-regulatory organization or commodities exchange ever.This maps to Form ADV - Item 11 - Q.E
+          </xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+			<xsd:element name="Item11F" type="Item11FType" minOccurs="0" maxOccurs="1">
+				<xsd:annotation>
+					<xsd:documentation xml:lang="en">
+            This node has Disclosure Information - Regulatory Action DRP - Has an authorization to act as an attorney, accountant, or federal contractor granted to you or any advisory affiliate ever been revoked or suspended.This maps to Form ADV - Item 11 - Q.F
+          </xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+			<xsd:element name="Item11G" type="Item11GType" minOccurs="0" maxOccurs="1">
+				<xsd:annotation>
+					<xsd:documentation xml:lang="en">
+            This node has Disclosure Information - Regulatory Action DRP - advisory affiliate .This maps to Form ADV - Item 11 - Q.G
+          </xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+			<xsd:element name="Item11H" type="Item11HType" minOccurs="0" maxOccurs="1">
+				<xsd:annotation>
+					<xsd:documentation xml:lang="en">
+            This node has Disclosure Information - Civil Judicial Action DRP.This maps to Form ADV - Item 11 - Q.H
+          </xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:complexType name="Item1Type">
+		<xsd:sequence>
+			<xsd:element name="WebAddrs" maxOccurs="1">
+				<xsd:annotation>
+					<xsd:documentation xml:lang="en">
+            This node has Firm's response to Schedule D Section 1I Website Address-include all if there are multiple reported.
+          </xsd:documentation>
+				</xsd:annotation>
+				<xsd:complexType>
+					<xsd:sequence>
+						<xsd:element name="WebAddr" type="Str128" minOccurs="0" maxOccurs="unbounded"/>
+					</xsd:sequence>
+				</xsd:complexType>
+			</xsd:element>
+		</xsd:sequence>
+		<xsd:attribute name="Q1F5" type="Int5" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+				  This node has Firm's response to Part1A Item 1F5- Total number of offices, other than your Principal Office and place of business.
+			  </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q1I" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 1I-Do you have one or more websites (Y/N/null).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q1M" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 1M -Are you registered with a foreign financial regulatory authority (Y/N/null).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q1N" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 1N-Are you a public reporting company under Sections 12 or 15(d) of the Securities Exchange Act of 1934 (Y/N/null).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q1O" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 1O-Did you have $1 billion or more in assets on the last day of your most recent fiscal year.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q1ODesc" type="Str128" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+				  This node has Firm's response to Part1A Item 1O-If yes, approx. amount of assets.
+			  </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q1P" type="Str20" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 1P- Legal Entity Identifier.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+	</xsd:complexType>
+	<xsd:complexType name="Item2AType">
+		<xsd:attribute name="Q2A1" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 2A(1)- are a large advisory firm that either:
+          (a) has regulatory assets under management of $100 million (in U.S. dollars) or more, or
+          (b) is SEC-registered and is submitting an annual updating amendment and has regulatory assets under management of $90 million (in U.S. dollars) or more (Y/N) Display a 'Y' when the checkbox is selected.
+              Display an 'N' when the checkbox is not selected.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q2A2" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 2A(2)-are a mid-sized advisory firm that has regulatory assets under management of $25 million (in U.S. dollars) or more but less than $100 million (in U.S. dollars) and you are either:
+          (a) not required to be registered as an adviser with the state securities authority of the state where you maintain your principal office and place of business, or
+          (b) not subject to examination by the state securities authority of the state where you maintain your principal office and place of business (Y/N) Display a 'Y' when the checkbox is selected. 
+              Display an 'N' when the checkbox is not selected.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q2A4" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 2A(4)-have your principal office and place of business outside the United States (Y/N) Display a 'Y' when the checkbox is selected. Display an 'N' when the checkbox is not selected.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q2A5" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 2A(5)-are an investment adviser (or sub-adviser) to an investment company registered under the Investment Company Act of 1940 (Y/N) Display a 'Y' when the checkbox is selected. Display an 'N' when the checkbox is not selected.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q2A6" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 2A(6)-are an investment adviser to a company which has elected to be a business development company pursuant to section 54 of the Investment Company Act of 1940 and has not withdrawn the election, and you have at least $25 million of regulatory assets under management (Y/N).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q2A7" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 2A(7)-are a pension consultant with respect to assets of plans having an aggregate value of at least $200,000,000 that qualifies for the exemption in rule 203A-2 (Y/N) Display a 'Y' when the checkbox is selected. Display an 'N' when the checkbox is not selected.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q2A8" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 2A(8)-are a related adviser under rule 203A-2(b) that controls, is controlled by, or is under common control with, an investment adviser that is registered with the SEC, and your principal office and place of business is the same as the registered adviser (Y/N) Display a 'Y' when the checkbox is selected. Display an 'N' when the checkbox is not selected.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q2A9" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 2A(9)-are a newly formed adviser relying on rule 203A-2(c) because you expect to be eligible for SEC registration within 120 days (Y/N) Display a 'Y' when the checkbox is selected. Display an 'N' when the checkbox is not selected.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q2A10" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 2A(10) are a multi-state adviser that is required to register in 15 or more states and is relying on rule 203A-2(d) (Y/N) Display a 'Y' when the checkbox is selected. Display an 'N' when the checkbox is not selected.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q2A11" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 2A(11)-are an Internet adviser relying on rule 203A-2(e) (Y/N) Display a 'Y' when the checkbox is selected. Display an 'N' when the checkbox is not selected.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q2A12" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 2A(12)-have received an SEC order exempting you from the prohibition against registration with the SEC (Y/N) Display a 'Y' when the checkbox is selected. Display an 'N' when the checkbox is not selected.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q2A13" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 2A(13)-are no longer eligible to remain registered with the SEC (Y/N) Display a 'Y' when the checkbox is selected. Display an 'N' when the checkbox is not selected.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+	</xsd:complexType>
+	<xsd:complexType name="Item2BType">
+		<xsd:attribute name="Q2B1" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 2B(1)-qualify for the exemption from registration as an adviser solely to one or more venture capital funds (Y/N).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q2B2" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 2B(2)-qualify for the exemption from registration because you act solely as an adviser to private funds and have assets under management in the United States of less than $150 million (Y/N).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q2B3" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Item to Part1A 2B(3)-act solely as an adviser to private funds but you are no longer eligible to check box 2.B.(2) because you have assets under management in the United States of $150 million or more (Y/N).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+	</xsd:complexType>
+	<xsd:complexType name="Item3AType">
+		<xsd:attribute name="OrgFormNm" type="Str128" use="required">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 3A-How are you organized (Description).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="OrgFormOthNm" type="Str50" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 3A Other textbox-How are you organized Other (specify).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+	</xsd:complexType>
+	<xsd:complexType name="Item3BType">
+		<xsd:attribute name="Q3B" type="Str128" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part 1A Item 3B-In what month does your fiscal year end each year?.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+	</xsd:complexType>
+	<xsd:complexType name="Item3CType">
+		<xsd:attribute name="StateCD" type="StateCdType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 3C-State Drop-down-Under the laws of what state or country are you organized (Code).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="CntryNm" type="Str50" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 3C-Country Drop-down-Under the laws of what state or country are you organized.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+	</xsd:complexType>
+	<xsd:complexType name="Item5AType">
+		<xsd:attribute name="TtlEmp" type="Int10" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5A-Approximately how many employees do you have.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+	</xsd:complexType>
+	<xsd:complexType name="Item5BType">
+		<xsd:attribute name="Q5B1" type="Int10" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5B(1)-Approximately how many of the employees reported in 5.A. perform investment advisory functions (including research).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5B2" type="Int10" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5B(2)-Approximately how many of the employees reported in 5.A. are registered representatives of a broker-dealer.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5B3" type="Int10" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5B(3)-Approximately how many of the employees reported in 5.A. are registered with one or more state securities authorities as investment adviser representatives.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5B4" type="Int10" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5B(4)-Approximately how many of the employees reported in 5.A. are registered with one or more state securities authorities as investment adviser representatives for an investment adviser other than you.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5B5" type="Int10" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5B(5)-Approximately how many of the employees reported in 5.A. are licensed agents of an insurance company or agency.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5B6" type="Int10" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5B(6)-Approximately how many firms or other persons solicit advisory clients on your behalf.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+	</xsd:complexType>
+	<xsd:complexType name="Item5CType">
+		<xsd:attribute name="Q5C1" type="Str128" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5C(1)-To approximately how many clients did you provide investment advisory services during your most recently completed fiscal year.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5C1Oth" type="Int10" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5C(1)-If more than 100, how many (round to the nearest 100).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5C2" type="Int3" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5C(2)-Approximately what percentage of your clients are non-United States persons.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+	</xsd:complexType>
+	<xsd:complexType name="Item5DType">
+		<xsd:attribute name="Q5D1A" type="Str128" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5D(1)(a)-Individuals (other than high net worth individuals) in 10/2012 version
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5D1B" type="Str128" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5D(1)(b)-High net worth individualsin 10/2012 version
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5D1C" type="Str128" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5D(1)(c)-Banking or thrift institutions in 10/2012 version
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5D1D" type="Str128" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5D(1)(d)-Investment companies in 10/2012 version
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5D1E" type="Str128" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5D(1)(e)-Business development companies in 10/2012 version
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5D1F" type="Str128" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5D(1)(f)-Pooled investment vehicles (other than investment companies) in 10/2012 version
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5D1G" type="Str128" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5D(1)(g)-Pension and profit sharing plans (but not the plan participants) in 10/2012 version
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5D1H" type="Str128" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5D(1)(h)-Charitable organizations in 10/2012 version
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5D1I" type="Str128" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5D(1)(i)-Corporations or other businesses not listed above in 10/2012 version
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5D1J" type="Str128" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5D(1)(j)-State or municipal government entities in 10/2012 version
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5D1K" type="Str128" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5D(1)(k)-Other investment advisers in 10/2012 version
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5D1L" type="Str128" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5D(1)(l)-Insurance companies in 10/2012 version
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5D1M" type="Str128" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5D(1)(m)-Other in 10/2012 version
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5D1MOth" type="Str128" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5D(1)(m)-Other textbox in 10/2012 version
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5D2A" type="Str128" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5D(2)(a)-Individuals (other than high net worth individuals) in 10/2012 version
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5D2B" type="Str128" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5D(2)(b)-High net worth individuals in 10/2012 version
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5D2C" type="Str128" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5D(2)(c)-Banking or thrift institutions in 10/2012 version
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5D2D" type="Str128" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5D(2)(d)-Investment companies in 10/2012 version
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5D2E" type="Str128" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5D(2)(e)-Business development companies in 10/2012 version
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5D2F" type="Str128" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5D(2)(f)-Pooled investment vehicles (other than investment companies) in 10/2012 version
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5D2G" type="Str128" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5D(2)(g)-Pension and profit sharing plans (but not the plan participants) in 10/2012 version
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5D2H" type="Str128" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5D(2)(h)-Charitable organizations in 10/2012 version
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5D2I" type="Str128" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5D(2)(i)-Corporations or other businesses not listed above in 10/2012 version
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5D2J" type="Str128" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5D(2)(j)-State or municipal government entities in 10/2012 version
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5D2K" type="Str128" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5D(2)(k)-Other investment advisers in 10/2012 version
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5D2L" type="Str128" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5D(2)(l)-Insurance companies in 10/2012 version
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5D2M" type="Str128" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5D(2)(m)-Other in 10/2012 version
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5D2MOth" type="Str128" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5D(2)(m)-Other textbox in 10/2012 version
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5DA1" type="Int10" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+				  This node has Firm's response to Part1A Item 5D(a)(1)- Number of clients -Individuals (other than high net worth individuals) 
+			  </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5DA2" type="Str128" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+				  This node has Firm's response to Part1A Item 5D(a)(2)- Fewer than 5 clients -Individuals (other than high net worth individuals)
+			  </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5DA3" type="Decimal17P2" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+				  This node has Firm's response to Part1A Item 5D(1)(a)(3)- Regulatory Assets under Management -Individuals (other than high net worth individuals) 
+			  </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5DB1" type="Int10" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+				  This node has Firm's response to Part1A Item 5D(b)(1)- Number of clients -Individuals high net worth individuals
+			  </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5DB2" type="Str128" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+				  This node has Firm's response to Part1A Item 5D(b)(2)- Fewer than 5 clients - high net worth individuals
+			  </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5DB3" type="Decimal17P2" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+				  This node has Firm's response to Part1A Item 5D(b)(3)- Regulatory Assets under Management -Individuals high net worth individuals
+			  </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5DC1" type="Int10" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+				  This node has Firm's response to Part1A Item 5D(c)(1)-Banking or thrift institutions
+			  </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5DC2" type="Str128" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+				  This node has Firm's response to Part1A Item 5D(c)(2)-Banking or thrift institutions
+			  </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5DC3" type="Decimal17P2" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+				  This node has Firm's response to Part1A Item 5D(c)(3)-Banking or thrift institutions
+			  </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5DD1" type="Int10" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+				  This node has Firm's response to Part1A Item 5D(d)(1)- Investment companies
+			  </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5DD3" type="Decimal17P2" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+				  This node has Firm's response to Part1A Item 5D(d)(3)- Investment companies
+			  </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5DE1" type="Int10" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+				  This node has Firm's response to Part1A Item 5D(e)(1)- Business development companies
+			  </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5DE3" type="Decimal17P2" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+				  This node has Firm's response to Part1A Item 5D(e)(3)- Business development companies
+			  </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5DF1" type="Int10" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+				  This node has Firm's response to Part1A Item 5D(f)(1)- Pooled investment vehicles (other than investment companies and Business development companies)
+			  </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5DF3" type="Decimal17P2" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+				  This node has Firm's response to Part1A Item 5D(f)(3)- Pooled investment vehicles (other than investment companies and Business development companies)
+			  </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5DG1" type="Int10" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+				  This node has Firm's response to Part1A Item 5D(1)(g)(1)- Pension and profit sharing plans (but not the plan participants)
+			  </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5DG2" type="Str128" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+				  This node has Firm's response to Part1A Item 5D(g)(2)- Pension and profit sharing plans (but not the plan participants)
+			  </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5DG3" type="Decimal17P2" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+				  This node has Firm's response to Part1A Item 5D(1)(g)(3)- Pension and profit sharing plans (but not the plan participants)
+			  </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5DH1" type="Int10" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+				  This node has Firm's response to Part1A Item 5D(h)(1)- Charitable organizations
+			  </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5DH2" type="Str128" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+				  This node has Firm's response to Part1A Item 5D(1)(h)(2)- Charitable organizations
+			  </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5DH3" type="Decimal17P2" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+				  This node has Firm's response to Part1A Item 5D(h)(3)- Charitable organizations
+			  </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5DI1" type="Int10" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+				  This node has Firm's response to Part1A Item 5D(i)(1)- State or municipal government entities (including government pension plans)
+			  </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5DI2" type="Str128" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+				  This node has Firm's response to Part1A Item 5D(1)(i)(2)- State or municipal government entities (including government pension plans)
+			  </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5DI3" type="Decimal17P2" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+				  This node has Firm's response to Part1A Item 5D(i)(3)- State or municipal government entities (including government pension plans)
+			  </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5DJ1" type="Int10" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+				  This node has Firm's response to Part1A Item 5D(j)(1)- Other investment advisers
+			  </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5DJ2" type="Str128" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+				  This node has Firm's response to Part1A Item 5D(j)(2)- Other investment advisers
+			  </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5DJ3" type="Decimal17P2" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+				  This node has Firm's response to Part1A Item 5D(j)(3)- Other investment advisers
+			  </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5DK1" type="Int10" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+				  This node has Firm's response to Part1A Item 5D(k)(1)- Insurance companies
+			  </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5DK2" type="Str128" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+				  This node has Firm's response to Part1A Item 5D(k)(2)- Insurance companies
+			  </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5DK3" type="Decimal17P2" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+				  This node has Firm's response to Part1A Item 5D(k)(3)- Insurance companies
+			  </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5DL1" type="Int10" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+				  This node has Firm's response to Part1A Item 5D(l)(1)- Sovereign wealth funds and foreign official institutions
+			  </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5DL2" type="Str128" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+				  This node has Firm's response to Part1A Item 5D(l)(2)- Sovereign wealth funds and foreign official institutions
+			  </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5DL3" type="Decimal17P2" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+				  This node has Firm's response to Part1A Item 5D(l)(3)- Sovereign wealth funds and foreign official institutions
+			  </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5DM1" type="Int10" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+				  This node has Firm's response to Part1A Item 5D(m)(1)- Corporations or other businesses not listed above
+			  </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5DM2" type="Str128" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+				  This node has Firm's response to Part1A Item 5D(m)(2)- Corporations or other businesses not listed above
+			  </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5DM3" type="Decimal17P2" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+				  This node has Firm's response to Part1A Item 5D(m)(3)- Corporations or other businesses not listed above
+			  </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5DN1" type="Int10" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+				  This node has Firm's response to Part1A Item 5D(n)(1)- Other
+			  </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5DN2" type="Str128" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+				  This node has Firm's response to Part1A Item 5D(n)(2)- Other
+			  </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5DN3" type="Decimal17P2" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+				  This node has Firm's response to Part1A Item 5D(n)(3)- Other
+			  </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5DN3Oth" type="Str128" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+				  This node has Firm's response to Part1A Item 5D(n)(3)- Other text box
+			  </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+	</xsd:complexType>
+	<xsd:complexType name="Item5EType">
+		<xsd:attribute name="Q5E1" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5E(1)-A percentage of assets under your management (Y/N) Display a 'Y' when the checkbox is selected. Display an 'N' when the checkbox is not selected.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5E2" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5E(2)-Hourly charges (Y/N) Display a 'Y' when the checkbox is selected. Display an 'N' when the checkbox is not selected.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5E3" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5E(3)-Subscription fees (for a newsletter or periodical) (Y/N) Display a 'Y' when the checkbox is selected. Display an 'N' when the checkbox is not selected.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5E4" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5E(4)-Fixed fees (other than subscription fees) (Y/N) Display a 'Y' when the checkbox is selected. Display an 'N' when the checkbox is not selected.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5E5" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5E(5)-Commissions (Y/N) Display a 'Y' when the checkbox is selected. Display an 'N' when the checkbox is not selected.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5E6" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5E(6)-Performance-based fees (Y/N) Display a 'Y' when the checkbox is selected. Display an 'N' when the checkbox is not selected.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5E7" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5E(7)-Other (Y/N) Display a 'Y' when the checkbox is selected. Display an 'N' when the checkbox is not selected.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5E7Oth" type="Str64" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5E(7)-Other (specify).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+	</xsd:complexType>
+	<xsd:complexType name="Item5FType">
+		<xsd:attribute name="Q5F1" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5F(1)-Do you provide continuous and regular supervisory or management services to securities portfolios (Y/N/null).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5F2A" type="Decimal17P2" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5F2a-Discretionary U.S. Dollar Amount.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5F2B" type="Decimal17P2" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5F2b-Non-Discretionary U. S. Dollar Amount.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5F2C" type="Decimal17P2" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5F2c-Total U.S. Dollar Amount.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5F2D" type="Int10" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5F2d-Discretionary Total Number of Accounts.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5F2E" type="Int10" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5F2e-Non-Discretionary Total Number of Accounts.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5F2F" type="Int10" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5F2f-Total Number of Accounts.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5F3" type="Decimal17P2" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+			  This node has Firm's response to Part1A Item 5F(3)- Approximate amount of total regulatory assets under management (reported in Item 5.F.(2)(c) ) attributable to clients who are non-United States persons
+		  </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+	</xsd:complexType>
+	<xsd:complexType name="Item5GType">
+		<xsd:attribute name="Q5G1" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5G(1)-Financial planning services (Y/N) Display a 'Y' when the checkbox is selected. Display an 'N' when the checkbox is not selected.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5G2" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5G(2)-Portfolio management for individuals and/or small businesses (Y/N) Display a 'Y' when the checkbox is selected. Display an 'N' when the checkbox is not selected.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5G3" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5G(3)-Portfolio management for investment companies (Y/N) Display a 'Y' when the checkbox is selected. Display an 'N' when the checkbox is not selected.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5G4" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5G(4)-Portfolio management for pooled investment vehicles (other than investment companies) (Y/N) Display a 'Y' when the checkbox is selected. Display an 'N' when the checkbox is not selected.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5G5" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5G(5)-Portfolio management for businesses (other than small businesses) or institutional clients (other than registered investment companies and other pooled investment vehicles and) (Y/N) Display a 'Y' when the checkbox is selected. Display an 'N' when the checkbox is not selected.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5G6" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5G(6)-Pension consulting services (Y/N) Display a 'Y' when the checkbox is selected. Display an 'N' when the checkbox is not selected.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5G7" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5G(7)-Selection of other advisers (Y/N) Display a 'Y' when the checkbox is selected. Display an 'N' when the checkbox is not selected.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5G8" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5G(8)-Publication of periodicals or newsletters (Y/N) Display a 'Y' when the checkbox is selected. Display an 'N' when the checkbox is not selected.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5G9" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5G(9)-Security ratings or pricing services (Y/N) Display a 'Y' when the checkbox is selected. Display an 'N' when the checkbox is not selected.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5G10" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5G(10)-Market timing services (Y/N) Display a 'Y' when the checkbox is selected. Display an 'N' when the checkbox is not selected.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5G11" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5G(11)-Educational seminars/workshops (Y/N) Display a 'Y' when the checkbox is selected. Display an 'N' when the checkbox is not selected.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5G12" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5G(12)-Other (Y/N) Display a 'Y' when the checkbox is selected. Display an 'N' when the checkbox is not selected.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5G12Oth" type="Str128" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5G(12) Other (specify).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+	</xsd:complexType>
+	<xsd:complexType name="Item5HType">
+		<xsd:attribute name="Q5H" type="Str128" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5H-If you provide financial planning services, to how many clients did you provide these services during your last fiscal year.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5HMT500" type="Int10" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5H-If more than 500, how many (round to the nearest 500).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+	</xsd:complexType>
+	<xsd:complexType name="Item5IType">
+		<xsd:attribute name="Q5I1" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5I(1)-sponsor the wrap fee program (Y/N) Display a 'Y' when the checkbox is selected. Display an 'N' when the checkbox is not selected.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5I2A" type="Decimal17P2" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+				  This node has Firm's response to Part1A Item 5I(2)(a) - amount of your regulatory assets under management attributable to acting as sponsor to a wrap fee program
+			  </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5I2B" type="Decimal17P2" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+				  This node has Firm's response to Part1A Item 5I(2)(b) - amount of your regulatory assets under management attributable to acting as portfolio manager for a wrap fee program
+			  </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5I2C" type="Decimal17P2" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+				  This node has Firm's response to Part1A Item 5I(2)(c) - amount of your regulatory assets under management attributable to acting as sponsor to and portfolio manager for the same wrap fee program
+			  </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+	</xsd:complexType>
+	<xsd:complexType name="Item5JType">
+		<xsd:attribute name="Q5J1" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 5J-In response to Item 4.B. of Part 2A of Form ADV, do you indicate that you provide investment advice only with respect to limited types of investments (Y/N/null).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q5J2" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+			  This node has Firm's response to Part1A Item 5J(2)- Do you report client assets in Item 4.E. of Part 2A that are computed using a different method than the method used to compute your regulatory assets under management? (Y/N/null)
+		  </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+	</xsd:complexType>
+	<xsd:complexType name="Item6AType">
+		<xsd:attribute name="Q6A1" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 6A(1)- broker-dealer (registered or unregistered) (Y/N) Display a 'Y' when the checkbox is selected. Display an 'N' when the checkbox is not selected.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q6A2" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 6A(2)-registered representative of a broker-dealer (Y/N) Display a 'Y' when the checkbox is selected. Display an 'N' when the checkbox is not selected.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q6A3" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 6A(3)- commodity pool operator or commodity trading advisor (whether registered or exempt from registration) (Y/N) Display a 'Y' when the checkbox is selected. Display an 'N' when the checkbox is not selected.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q6A4" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 6A(4)-futures commission merchant (Y/N) Display a 'Y' when the checkbox is selected. Display an 'N' when the checkbox is not selected.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q6A5" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 6A(5)-real estate broker, dealer, or agent (Y/N) Display a 'Y' when the checkbox is selected. Display an 'N' when the checkbox is not selected.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q6A6" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 6A(6)-insurance broker or agent (Y/N) Display a 'Y' when the checkbox is selected. Display an 'N' when the checkbox is not selected.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q6A7" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 6A(7)-bank (including a separately identifiable department or division of a bank) (Y/N) Display a 'Y' when the checkbox is selected. Display an 'N' when the checkbox is not selected.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q6A8" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 6A(8)-trust company (Y/N) Display a 'Y' when the checkbox is selected. Display an 'N' when the checkbox is not selected.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q6A9" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 6A(9)-registered municipal advisor (Y/N) Display a 'Y' when the checkbox is selected. Display an 'N' when the checkbox is not selected.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q6A10" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 6A(10)-registered security-based swap dealer (Y/N) Display a 'Y' when the checkbox is selected. Display an 'N' when the checkbox is not selected.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q6A11" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 6A(11)-major security-based swap participant (Y/N) Display a 'Y' when the checkbox is selected. Display an 'N' when the checkbox is not selected.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q6A12" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 6A(12)-accountant or accounting firm (Y/N) Display a 'Y' when the checkbox is selected. Display an 'N' when the checkbox is not selected.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q6A13" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 6A(13)-lawyer or law firm (Y/N) Display a 'Y' when the checkbox is selected. Display an 'N' when the checkbox is not selected.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q6A14" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 6A(14)-Other financial product salesperson Display a 'Y' when the checkbox is selected. Display an 'N' when the checkbox is not selected.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q6A14Oth" type="Str50" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 6A(14)-Other text when financial product salesperson is selected 'Y'.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+	</xsd:complexType>
+	<xsd:complexType name="Item6BType">
+		<xsd:attribute name="Q6B1" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 6B(1)-Are you actively engaged in any other business not listed in Item 6.A. (other than giving investment advice) (Y/N).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q6B3" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 6B(3)-Do you sell products or provide services other than investment advice to your advisory clients (Y/N).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q6B2" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 6B(2)-If yes, is this other business your primary business (Y/N/null).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+	</xsd:complexType>
+	<xsd:complexType name="Item7AType">
+		<xsd:attribute name="Q7A1" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 7A(1)-broker-dealer, municipal securities dealer, or government securities broker or dealer (registered or unregistered) (Y/N).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q7A2" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 7A(2)-other investment adviser (including financial planners) (Y/N).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q7A3" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 7A(3)-registered municipal advisor.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q7A4" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 7A(4)-registered security-based swap dealer.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q7A5" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 7A(5)-major security-based swap participant.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q7A6" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 7A(6)- commodity pool operator or commodity trading advisor (whether registered or exempt from registration) (Y/N).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q7A7" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 7A(7)-futures commission merchant.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q7A8" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 7A(8)-banking or thrift institution (Y/N).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q7A9" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 7A(9)-trust company.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q7A10" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 7A(10)-accountant or accounting firm (Y/N).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q7A11" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 7A(11)-lawyer or law firm (Y/N).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q7A12" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 7A(12)-insurance company or agency (Y/N).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q7A13" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 7A(13)-pension consultant (Y/N).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q7A14" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 7A(14)-real estate broker or dealer (Y/N).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q7A15" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 7A(15)-sponsor or syndicator of limited partnerships (or equivalent), excluding pooled investment vehicles (Y/N).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q7A16" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 7A(16)-sponsor, general partner, managing member (or equivalent) of pooled investment vehicles (Y/N).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+	</xsd:complexType>
+	<xsd:complexType name="Item7BType">
+		<xsd:attribute name="Q7B" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 7B-Are you an adviser to any private fund (Y/N/null).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+	</xsd:complexType>
+	<xsd:complexType name="Item8AType">
+		<xsd:attribute name="Q8A1" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 8A(1)-buy securities for yourself from advisory clients, or sell securities you own to advisory clients (principal transactions) (Y/N/null).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q8A2" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 8A(2)-buy or sell for yourself securities (other than shares of mutual funds) that you also recommend to advisory clients (Y/N/null).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q8A3" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 8A(3)-recommend securities (or other investment products) to advisory clients in which you or any related person has some other proprietary (ownership) interest (other than those mentioned in Items 8.A(1) or (2)) (Y/N/null).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+	</xsd:complexType>
+	<xsd:complexType name="Item8BType">
+		<xsd:attribute name="Q8B1" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 8B(1)-as a broker-dealer or registered representative of a broker-dealer, execute securities trades for brokerage customers in which advisory client securities are sold to or bought from the brokerage customer (agency cross transactions) (Y/N/null).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q8B2" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 8B(2)-recommend purchase of securities to advisory clients for which you or any related person serves as underwriter, general or managing partner, or purchaser representative (Y/N/null).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q8B3" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 8B(3)-recommend purchase or sale of securities to advisory clients for which you or any related person has any other sales interest (other than the receipt of sales commissions as a broker or registered representative of a broker-dealer) (Y/N/null).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+	</xsd:complexType>
+	<xsd:complexType name="Item8CType">
+		<xsd:attribute name="Q8C1" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 8C(1)-securities to be bought or sold for a client's account (Y/N/null).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q8C2" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 8C(2)-amount of securities to be bought or sold for a client's account (Y/N/null).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q8C3" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 8C(3)-broker or dealer to be used for a purchase or sale of securities for a client's account (Y/N/null).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q8C4" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 8C(4)-commission rates to be paid to a broker or dealer for a client's securities transactions (Y/N/null).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+	</xsd:complexType>
+	<xsd:complexType name="Item8DType">
+		<xsd:attribute name="Q8D" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 8D-If you answer "yes" to 8C.(3), are any of the brokers or dealers related persons (Y/N/null).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+	</xsd:complexType>
+	<xsd:complexType name="Item8EType">
+		<xsd:attribute name="Q8E" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 8E -Do you or any related person recommend brokers or dealers to clients (Y/N/null).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+	</xsd:complexType>
+	<xsd:complexType name="Item8FType">
+		<xsd:attribute name="Q8F" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 8F-If you answer "yes" to 8E, are any of the brokers or dealers related persons (Y/N/null).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+	</xsd:complexType>
+	<xsd:complexType name="Item8GType">
+		<xsd:attribute name="Q8G1" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 8G(1)-Do you or any related person receive research or other products or services other than execution from a broker-dealer or a third party ("soft dollar benefits") in connection with client securities transactions (Y/N/null).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q8G2" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 8G(2)-If "yes" to G.(1), are all the "soft dollar benefits" you or any related persons receive eligible "research or brokerage services" under section 28(e) of the Securities Exchange Act of 1934 (Y/N/null).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+	</xsd:complexType>
+	<xsd:complexType name="Item8HType">
+		<xsd:attribute name="Q8H" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 8H-Do you or any related person, directly or indirectly, compensate any person for client referrals (Y/N/null) in 10/2012 version
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q8H1" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+			  This node has Firm's response to Part1A Item 8H(1) (new revision)
+		  </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q8H2" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+			  This node has Firm's response to Part1A Item 8H(2) (new revision)
+		  </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+	</xsd:complexType>
+	<xsd:complexType name="Item8IType">
+		<xsd:attribute name="Q8I" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 8I-Do you or any related person, directly or indirectly, receive compensation from any person for client referrals(Y/N/null).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+	</xsd:complexType>
+	<xsd:complexType name="Item9A1Type">
+		<xsd:attribute name="Q9A1A" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 9A(1)(a)-cash or bank accounts (Y/N/null).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q9A1B" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 9A(1)(b)-securities (Y/N/null).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q9A2A" type="Decimal17P2" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+            This node has Firm's response to Part1A Item  9A(2)(a)-U.S. Dollar Amount.
+          </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q9A2B" type="Int38" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 9A(2)(b)-Total Number of Clients.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+	</xsd:complexType>
+	<xsd:complexType name="Item9BType">
+		<xsd:attribute name="Q9B1A" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 9B(1)(a)-cash or bank accounts (Y/N/null).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q9B1B" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 9B(1)(b)-securities (Y/N/null).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q9B2A" type="Decimal17P2" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item  9B(2)(a)-U.S. Dollar Amount.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q9B2B" type="Int38" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 9B(2)(b)-Total Number of Clients.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+	</xsd:complexType>
+	<xsd:complexType name="Item9CType">
+		<xsd:attribute name="Q9C1" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 9C(1)- A qualified custodian(s) sends account statements at least quarterly to the investors in the pooled investment vehicle(s) you manage.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q9C2" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 9C(2)- An independent public accountant audits annually the pooled investment vehicle(s) that you manage and the audited financial statements are distributed to the investors in the pools.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q9C3" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 9C(3)- An independent public accountant conducts an annual surprise examination of client funds and securities.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q9C4" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 9C(4)- An independent public accountant prepares an internal control report with respect to custodial services when you or your related persons are qualified custodians for client funds and securities.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+	</xsd:complexType>
+	<xsd:complexType name="Item9DType">
+		<xsd:attribute name="Q9D1" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 9D(1)-you act as a qualified custodian (Y/N/null).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q9D2" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 9D(2)-Do you or your related persons act as qualified custodians for your clients in connection with advisory services you provide to clients your related persons act as qualified custodians (Y/N/null).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+	</xsd:complexType>
+	<xsd:complexType name="Item9EType">
+		<xsd:attribute name="Q9E" type="xsd:gYearMonth" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 9E-If you are filing your annual updating amendment and you were subject to a surprise examination by an independent public accountant during your last fiscal year, provide the date (YYYY-MM) the examination commenced.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+	</xsd:complexType>
+	<xsd:complexType name="Item9FType">
+		<xsd:attribute name="Q9F" type="Int38" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 9F-If you or your related persons have custody of client funds or securities, how many persons, including, but not limited to, you and your related persons, act as qualified custodians for your clients in connection with advisory services you provide to clients (Y/N/null).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+	</xsd:complexType>
+	<xsd:complexType name="Item10AType">
+		<xsd:attribute name="Q10A" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 10A -Does any person not named in Item 1.A. or Schedules A, B, or C, directly or indirectly, control your management or policies (Y/N/null).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+	</xsd:complexType>
+	<xsd:complexType name="Item11Type">
+		<xsd:attribute name="Q11" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 11-Do any of the events below involve you or any of your supervised persons (Y/N/null).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+	</xsd:complexType>
+	<xsd:complexType name="Item11AType">
+		<xsd:attribute name="Q11A1" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 11A(1)-been convicted of or plead guilty or nolo contendere ("no contest") in a domestic, foreign, or military court to any felony (Y/N/null).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q11A2" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 11A(2)-been charged with any felony (Y/N/null).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+	</xsd:complexType>
+	<xsd:complexType name="Item11BType">
+		<xsd:attribute name="Q11B1" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 11B(1)-been convicted of or plead guilty or nolo contendere ("no contest") in a domestic, foreign, or military court to a misdemeanor involving: investments or an investment-related business, or any fraud, false statements, or omissions, wrongful taking of property, bribery, perjury, forgery, counterfeiting, extortion, or a conspiracy to commit any of these offenses (Y/N/null).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q11B2" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 11B(2)-been charged with a misdemeanor listed in 11.B(1) (Y/N/null).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+	</xsd:complexType>
+	<xsd:complexType name="Item11CType">
+		<xsd:attribute name="Q11C1" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 11C(1)-found you or any advisory affiliate to have made a false statement or omission (Y/N/null).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q11C2" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 11C(2)-found you or any advisory affiliate to have been involved in a violation of SEC or CFTC regulations or statutes (Y/N).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q11C3" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 11C(3)-found you or any advisory affiliate to have been a cause of an investment-related business having its authorization to do business denied, suspended, revoked, or restricted (Y/N/null).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q11C4" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 11C(4)-entered an order against you or any advisory affiliate in connection with investment-related activity (Y/N/null).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q11C5" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 11C(5)-imposed a civil money penalty on you or any advisory affiliate, or ordered you or any advisory affiliate to cease and desist from any activity (Y/N/null).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+	</xsd:complexType>
+	<xsd:complexType name="Item11DType">
+		<xsd:attribute name="Q11D1" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 11D(1)-ever found you or any advisory affiliate to have made a false statement or omission, or been dishonest, unfair, or unethical (Y/N/null).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q11D2" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 11D(2)-ever found you or any advisory affiliate to have been involved in a violation of investment-related regulations or statutes (Y/N/null).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q11D3" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 11D(3)-ever found you or any advisory affiliate to have been a cause of an investment-related business having its authorization to do business denied, suspended, revoked, or restricted (Y/N/null).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q11D4" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 11D(4)-in the past ten years, entered an order against you or any advisory affiliate in connection with an investment-related activity (Y/N/null).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q11D5" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Item 11D(5)-ever denied, suspended, or revoked your or any advisory affiliate's registration or license, or otherwise prevented you or any advisory affiliate, by order, from associating with an investment-related business or restricted your or any advisory affiliate's activity (Y/N/null).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+	</xsd:complexType>
+	<xsd:complexType name="Item11EType">
+		<xsd:attribute name="Q11E1" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 11E(1)-found you or any advisory affiliate to have made a false statement or omission (Y/N/null).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q11E2" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Item 11E(2)-found you or any advisory affiliate to have been involved in a violation of its rules (other than a violation designated as a "minor rule violation" under a plan approved by the SEC) (Y/N/null).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q11E3" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 11E(3)-found you or any advisory affiliate to have been the cause of an investment-related business having its authorization to do business denied, suspended, revoked, or restricted (Y/N/null).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q11E4" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 11E(4)-disciplined you or any advisory affiliate by expelling or suspending you or the advisory affiliate from membership, barring or suspending you or the advisory affiliate from association with other members, or otherwise restricting your or the advisory affiliate's activities (Y/N/null).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+	</xsd:complexType>
+	<xsd:complexType name="Item11FType">
+		<xsd:attribute name="Q11F" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 11F-Has an authorization to act as an attorney, accountant, or federal contractor granted to you or any advisory affiliate ever been revoked or suspended (Y/N/null).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+	</xsd:complexType>
+	<xsd:complexType name="Item11GType">
+		<xsd:attribute name="Q11G" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 11G-Are you or any advisory affiliate now the subject of any regulatory proceeding that could result in a "yes" answer to any part of Item 11.C., 11.D., or 11.E. (Y/N/null).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+	</xsd:complexType>
+	<xsd:complexType name="Item11HType">
+		<xsd:attribute name="Q11H1A" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 11H(1)(a)-the past ten years, enjoined you or any advisory affiliate in connection with any investment-related activity (Y/N/null).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q11H1B" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 11H(1)(b)-ever found that you or any advisory affiliate were involved in a violation of investment-related statutes or regulations (Y/N/null).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q11H1C" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 11H(1)(c)-ever dismissed, pursuant to a settlement agreement, an investment-related civil action brought against you or any advisory affiliate by a state or foreign financial regulatory authority (Y/N/null).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Q11H2" type="answerYNType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has Firm's response to Part1A Item 11H(2)-Are you or any advisory affiliate now the subject of any civil proceeding that could result in a "yes" answer to any part of Item 11.H(1) (Y/N/null).
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+	</xsd:complexType>
+	<xsd:complexType name="ItemAType">
+		<xsd:complexContent>
+			<xsd:extension base="AddrType">
+				<xsd:attribute name="Nm" type="Str128" use="optional"/>
+				<xsd:attribute name="TitleNm" type="Str128" use="optional"/>
+				<xsd:attribute name="Email" type="Str128" use="optional"/>
+				<xsd:attribute name="PrvtAdrsFl" type="answerYNType" use="optional"/>
+			</xsd:extension>
+		</xsd:complexContent>
+	</xsd:complexType>
+	<xsd:simpleType name="Str10">
+		<xsd:restriction base="xsd:string">
+			<xsd:maxLength value="10"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:simpleType name="Str11">
+		<xsd:restriction base="xsd:string">
+			<xsd:maxLength value="11"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:simpleType name="Str20">
+		<xsd:restriction base="xsd:string">
+			<xsd:maxLength value="20"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:simpleType name="Str27">
+		<xsd:restriction base="xsd:string">
+			<xsd:maxLength value="27"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:simpleType name="Str50">
+		<xsd:restriction base="xsd:string">
+			<xsd:maxLength value="50"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:simpleType name="Str64">
+		<xsd:restriction base="xsd:string">
+			<xsd:maxLength value="64"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:simpleType name="Str512">
+		<xsd:restriction base="xsd:string">
+			<xsd:maxLength value="512"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:simpleType name="Str4000">
+		<xsd:restriction base="xsd:string">
+			<xsd:maxLength value="4000"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:simpleType name="Int8">
+		<xsd:restriction base="xsd:integer">
+			<xsd:totalDigits value="8"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:simpleType name="Int10">
+		<xsd:restriction base="xsd:integer">
+			<xsd:totalDigits value="10"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:simpleType name="Int3">
+		<xsd:restriction base="xsd:integer">
+			<xsd:totalDigits value="3"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:simpleType name="Int5">
+		<xsd:restriction base="xsd:integer">
+			<xsd:totalDigits value="5"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:simpleType name="Int38">
+		<xsd:restriction base="xsd:integer">
+			<xsd:totalDigits value="38"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:simpleType name="answerYNType">
+		<xsd:restriction base="xsd:string">
+			<xsd:enumeration value="Y"/>
+			<xsd:enumeration value="N"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:simpleType name="Str128">
+		<xsd:restriction base="xsd:string">
+			<xsd:maxLength value="128"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:simpleType name="Decimal17P2">
+		<xsd:restriction base="xsd:decimal">
+			<xsd:totalDigits value="17"/>
+			<xsd:fractionDigits value="2"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:simpleType name="Decimal14P2">
+		<xsd:restriction base="xsd:decimal">
+			<xsd:totalDigits value="14"/>
+			<xsd:fractionDigits value="2"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:simpleType name="SECRgnCdType">
+		<xsd:annotation>
+			<xsd:documentation xml:lang="en">
+        Elements of this type represent the business type.
+        Allowed values (code-Name) are:
+        ARO-Atlanta Regional Office.
+        BRO-Boston Regional Office.
+        DRO-Denver Regional Office.
+        FWRO-Fort Worth Regional Office.
+        CHRO-Chicago Regional Office.
+        NYRO-New York Regional Office.
+        LARO-Los Angeles Regional Office.
+        PLRO-Philadelphia Regional Office.
+        SFRO-San Francisco Regional Office.
+        MIRO-Miami Regional Office.
+        HQ-Headquarters.
+      </xsd:documentation>
+		</xsd:annotation>
+		<xsd:restriction base="xsd:NMTOKEN">
+			<xsd:maxLength value="6"/>
+			<xsd:enumeration value="ARO"/>
+			<xsd:enumeration value="BRO"/>
+			<xsd:enumeration value="DRO"/>
+			<xsd:enumeration value="FWRO"/>
+			<xsd:enumeration value="CHRO"/>
+			<xsd:enumeration value="NYRO"/>
+			<xsd:enumeration value="LARO"/>
+			<xsd:enumeration value="PLRO"/>
+			<xsd:enumeration value="SFRO"/>
+			<xsd:enumeration value="MIRO"/>
+			<xsd:enumeration value="HQ"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:simpleType name="FirmCdType">
+		<xsd:annotation>
+			<xsd:documentation xml:lang="en">
+        Elements of this type represent the business type.
+        Allowed values (code-Name) are:
+        Registered-Registered Firms.
+        ERA-Exempt Reporting Adviser firms.
+      </xsd:documentation>
+		</xsd:annotation>
+		<xsd:restriction base="xsd:NMTOKEN">
+			<xsd:maxLength value="10"/>
+			<xsd:enumeration value="Registered"/>
+			<xsd:enumeration value="ERA"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:simpleType name="StateCdType">
+		<xsd:annotation>
+			<xsd:documentation xml:lang="en">
+        Elements of this type represent the allowed State Codes.
+        Allowed values (code-Name) are:
+        AK-Alaska
+        AL-Alabama
+        AR-Arkansas
+        AZ-Arizona
+        CA-California
+        CO-Colorado
+        CT-Connecticut
+        DC-District of Columbia
+        DE-Delaware
+        FL-Florida
+        GA-Georgia
+        GU-Guam
+        HI-Hawaii
+        IA-Iowa
+        ID-Idaho
+        IL-Illinois
+        IN-Indiana
+        KS-Kansas
+        KY-Kentucky
+        LA-Louisiana
+        MA-Massachusetts
+        MD-Maryland
+        ME-Maine
+        MI-Michigan
+        MN-Minnesota
+        MO-Missouri
+        MS-Mississippi
+        MT-Montana
+        NC-North Carolina
+        ND-North Dakota
+        NE-Nebraska
+        NH-New Hampshire
+        NJ-New Jersey
+        NM-New Mexico
+        NV-Nevada
+        NY-New York
+        OH-Ohio
+        OK-Oklahoma
+        OR-Oregon
+        PA-Pennsylvania
+        PR-Puerto Rico
+        RI-Rhode Island
+        SC-South Carolina
+        SD-South Dakota
+        TN-Tennessee
+        TX-Texas
+        UT-Utah
+        VA-Virginia
+        VT-Vermont
+        WA-Washington
+        WI-Wisconsin
+        WV-West Virginia
+        WY-Wyoming
+        VI-Virgin Islands
+      </xsd:documentation>
+		</xsd:annotation>
+		<xsd:restriction base="xsd:NMTOKEN">
+			<xsd:maxLength value="2"/>
+			<xsd:enumeration value="AK"/>
+			<xsd:enumeration value="AL"/>
+			<xsd:enumeration value="AR"/>
+			<xsd:enumeration value="AZ"/>
+			<xsd:enumeration value="CA"/>
+			<xsd:enumeration value="CO"/>
+			<xsd:enumeration value="CT"/>
+			<xsd:enumeration value="DC"/>
+			<xsd:enumeration value="DE"/>
+			<xsd:enumeration value="FL"/>
+			<xsd:enumeration value="GA"/>
+			<xsd:enumeration value="GU"/>
+			<xsd:enumeration value="HI"/>
+			<xsd:enumeration value="IA"/>
+			<xsd:enumeration value="ID"/>
+			<xsd:enumeration value="IL"/>
+			<xsd:enumeration value="IN"/>
+			<xsd:enumeration value="KS"/>
+			<xsd:enumeration value="KY"/>
+			<xsd:enumeration value="LA"/>
+			<xsd:enumeration value="MA"/>
+			<xsd:enumeration value="MD"/>
+			<xsd:enumeration value="ME"/>
+			<xsd:enumeration value="MI"/>
+			<xsd:enumeration value="MN"/>
+			<xsd:enumeration value="MO"/>
+			<xsd:enumeration value="MS"/>
+			<xsd:enumeration value="MT"/>
+			<xsd:enumeration value="NC"/>
+			<xsd:enumeration value="ND"/>
+			<xsd:enumeration value="NE"/>
+			<xsd:enumeration value="NH"/>
+			<xsd:enumeration value="NJ"/>
+			<xsd:enumeration value="NM"/>
+			<xsd:enumeration value="NV"/>
+			<xsd:enumeration value="NY"/>
+			<xsd:enumeration value="OH"/>
+			<xsd:enumeration value="OK"/>
+			<xsd:enumeration value="OR"/>
+			<xsd:enumeration value="PA"/>
+			<xsd:enumeration value="PR"/>
+			<xsd:enumeration value="RI"/>
+			<xsd:enumeration value="SC"/>
+			<xsd:enumeration value="SD"/>
+			<xsd:enumeration value="TN"/>
+			<xsd:enumeration value="TX"/>
+			<xsd:enumeration value="UT"/>
+			<xsd:enumeration value="VA"/>
+			<xsd:enumeration value="VT"/>
+			<xsd:enumeration value="WA"/>
+			<xsd:enumeration value="WI"/>
+			<xsd:enumeration value="WV"/>
+			<xsd:enumeration value="WY"/>
+			<xsd:enumeration value="VI"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:simpleType name="NtcFiledType">
+		<xsd:annotation>
+			<xsd:documentation xml:lang="en">
+        Elements of this type represent the business type.
+        Allowed values (code-Name) are:
+        FILED-Notice Filed.
+        PENDSEC-Pending.
+      </xsd:documentation>
+		</xsd:annotation>
+		<xsd:restriction base="xsd:NMTOKEN">
+			<xsd:maxLength value="20"/>
+			<xsd:enumeration value="FILED"/>
+			<xsd:enumeration value="PENDSEC"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:simpleType name="SecRgstnStType">
+		<xsd:annotation>
+			<xsd:documentation xml:lang="en">
+        Elements of this type represent the business type.
+        Allowed values (code-Name) are:
+        APPROVED-Approved.
+        APPROVED-120-120-Day Approval.
+        SUSPENDED-Suspended.
+        ACTIVE-Active.
+      </xsd:documentation>
+		</xsd:annotation>
+		<xsd:restriction base="xsd:NMTOKEN">
+			<xsd:maxLength value="20"/>
+			<xsd:enumeration value="APPROVED"/>
+			<xsd:enumeration value="APPROVED-120"/>
+			<xsd:enumeration value="SUSPENDED"/>
+			<xsd:enumeration value="ACTIVE"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+</xsd:schema>

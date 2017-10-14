@@ -1,0 +1,950 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xsd:schema xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="qualified">
+	<xsd:annotation>
+		<xsd:documentation xml:lang="en">
+      ©2013 Financial Industry Regulatory Authority, Inc. (FINRA). All rights reserved. Materials may not be reprinted or republished without the express permission of FINRA. 
+      This document contains FINRA Confidential and Proprietary information. FINRA provides this information for internal assessment or use of the Investment Adviser Compilation 
+      Reports available through IAPD. Any other use is strictly prohibited by FINRA. FINRA reserves the right to seek all injunctive and equitable relief 
+      available to it in the event FINRA Confidential or Proprietary information is released to a third party. Use of this document demonstrates acknowledgement 
+      that this document contains FINRA Confidential and Proprietary information, agreement that the user will not reprint, republish or otherwise disclose this information 
+      to any third party and agreement that FINRA may protect its rights, including but not limited to intellectual property rights.
+      Version:  Release 2013.4 (last updated on 09/18/2013)
+    </xsd:documentation>
+	</xsd:annotation>
+	<xsd:element name="IAPDIndividualReport" type="IAPDIndividualReportType">
+		<xsd:annotation>
+			<xsd:documentation xml:lang="en">
+        The compilation Report contains information for any individual that currently hold an approved equivalent registration status with at least one Regulator in the IAPD compilation.
+      </xsd:documentation>
+		</xsd:annotation>
+	</xsd:element>
+	<xsd:complexType name="IAPDIndividualReportType">
+		<xsd:sequence>
+			<xsd:element name="Indvls" type="IndvlsType"/>
+		</xsd:sequence>
+		<xsd:attribute name="GenOn" type="xsd:date" use="required">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+            This node contains the report generated date information.
+          </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+	</xsd:complexType>
+	<xsd:complexType name="IndvlsType">
+		<xsd:annotation>
+			<xsd:documentation>
+        The Individuals node contains a collection of individuals for the firm.
+      </xsd:documentation>
+		</xsd:annotation>
+		<xsd:sequence>
+			<xsd:element name="Indvl" type="IndvlType" minOccurs="0" maxOccurs="unbounded"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:complexType name="IndvlType">
+		<xsd:annotation>
+			<xsd:documentation>
+        The Individual node contains Administrative and/or Disclosure information for one of many individuals requested by this report.
+      </xsd:documentation>
+		</xsd:annotation>
+		<xsd:sequence>
+			<xsd:element name="Info" type="InfoType"/>
+			<xsd:element name="OthrNms" type="OthrNmsType" minOccurs="0"/>
+			<xsd:element name="CrntEmps" type="CrntEmpsType" minOccurs="0"/>
+			<xsd:element name="Exms" type="ExmsType" minOccurs="0"/>
+			<xsd:element name="Dsgntns" type="DsgntnsType" minOccurs="0"/>
+			<xsd:element name="PrevRgstns" type="PrevRgstnsType" minOccurs="0"/>
+			<xsd:element name="EmpHss" type="EmpHistsType" minOccurs="0"/>
+			<xsd:element name="OthrBuss" type="OthrBussType" minOccurs="0"/>
+			<xsd:element name="DRPs" type="DRPsType" minOccurs="0"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:complexType name="InfoType">
+		<xsd:annotation>
+			<xsd:documentation>
+        The Info node contains basic information describing the individual.
+      </xsd:documentation>
+		</xsd:annotation>
+		<xsd:attribute name="lastNm" type="Str25">
+			<xsd:annotation>
+				<xsd:documentation>
+          Individual's Last Name
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="firstNm" type="Str25">
+			<xsd:annotation>
+				<xsd:documentation>
+          Individual's First Name
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="midNm" type="Str20">
+			<xsd:annotation>
+				<xsd:documentation>
+          Individual's Middle Name
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="sufNm" type="Str5">
+			<xsd:annotation>
+				<xsd:documentation>
+          Individual's Suffix Name
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="indvlPK" type="Int10" use="required">
+			<xsd:annotation>
+				<xsd:documentation>
+          Individual's CRD #
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="actvAGReg" type="answerYNType" use="required">
+			<xsd:annotation>
+				<xsd:documentation>
+          Identifies if individual has Active AG Registration.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="link" type="Str128">
+			<xsd:annotation>
+				<xsd:documentation>
+          Link URL to the individual’s composite in IAPD.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+	</xsd:complexType>
+	<xsd:complexType name="OthrNmsType">
+		<xsd:annotation>
+			<xsd:documentation>
+        The OtherNames node contains a collection of names that an individual has used or is using, or by which they are known or have been known, other their legal name, since the age of 18. This would include, for example, nicknames, aliases, and names used before or after marriage.
+      </xsd:documentation>
+		</xsd:annotation>
+		<xsd:sequence>
+			<xsd:element name="OthrNm" type="OthrNmType" minOccurs="0" maxOccurs="unbounded">
+				<xsd:annotation>
+					<xsd:documentation>
+            The OtherName node contains one of many other names if Other Names have been provided.
+          </xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:complexType name="OthrNmType">
+		<xsd:attribute name="lastNm" type="Str25">
+			<xsd:annotation>
+				<xsd:documentation>
+          Individual's Last Name of Other name
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="firstNm" type="Str25">
+			<xsd:annotation>
+				<xsd:documentation>
+          Individual's First Name of Other name
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="midNm" type="Str20">
+			<xsd:annotation>
+				<xsd:documentation>
+          Individual's Middle Name of Other name
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="sufNm" type="Str5">
+			<xsd:annotation>
+				<xsd:documentation>
+          Individual's Suffix Name of Other name
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+	</xsd:complexType>
+	<xsd:complexType name="CrntEmpsType">
+		<xsd:annotation>
+			<xsd:documentation>
+        The Current Employment node contains collection of active employment details
+      </xsd:documentation>
+		</xsd:annotation>
+		<xsd:sequence>
+			<xsd:element name="CrntEmp" type="CrntEmpType" minOccurs="0" maxOccurs="unbounded">
+				<xsd:annotation>
+					<xsd:documentation>
+					The Current Employment node contains a collection of active employment details
+          </xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:complexType name="CrntEmpType">
+		<xsd:sequence>
+			<xsd:element name="CrntRgstns" type="CrntRgstnsType" minOccurs="0"/>
+			<xsd:element name="BrnchOfLocs" type="BrnchOfLocsType" minOccurs="0"/>
+		</xsd:sequence>
+		<xsd:attribute name="orgNm" type="Str64" use="required">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has the Firm's business name from the IARD composite record
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="orgPK" type="Int10" use="required">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has the firm's CRD number. 
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="str1" type="Str50" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has the firm's address - street1.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="str2" type="Str50" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has the firm's address - street2
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="city" type="Str50" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has the firm's address - City
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="state" type="StateCdType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has the firm's address - State
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="cntry" type="Str50" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has the firm's address - Country
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="postlCd" type="Str11" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has the firm's address - Postal Code
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+	</xsd:complexType>
+	<xsd:complexType name="CrntRgstnsType">
+		<xsd:annotation>
+			<xsd:documentation>
+        The CurrentRegistrations node contains a collection of registration details for the individual.
+      </xsd:documentation>
+		</xsd:annotation>
+		<xsd:sequence>
+			<xsd:element name="CrntRgstn" type="CrntRgstnType" minOccurs="0" maxOccurs="unbounded"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:complexType name="CrntRgstnType">
+		<xsd:annotation>
+			<xsd:documentation>
+        The CurrentRegistration node contains one of many registration details for the individual.
+      </xsd:documentation>
+		</xsd:annotation>
+		<xsd:attribute name="regAuth" type="StateCdType" use="required">
+			<xsd:annotation>
+				<xsd:documentation>
+          The regulatory Authority.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="regCat" type="registrationCategoryType" use="required">
+			<xsd:annotation>
+				<xsd:documentation>
+          The Registration Category.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="st" type="registrationStatusCode" use="required">
+			<xsd:annotation>
+				<xsd:documentation>
+          The current registration status.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="stDt" type="xs:date" use="required">
+			<xsd:annotation>
+				<xsd:documentation>
+          The date a status change was posted to the system. (YYYY-MM-DD)
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+	</xsd:complexType>
+	<xsd:simpleType name="registrationCategoryType">
+		<xsd:annotation>
+			<xsd:documentation xml:lang="en">
+        Representative Registration Category/Position with the Regulator.
+        Allowed values(Code-Description) are:
+        RA-Investment Advisor Representative
+      </xsd:documentation>
+		</xsd:annotation>
+		<xsd:restriction base="xs:string">
+			<xsd:maxLength value="16"/>
+			<xsd:enumeration value="RA"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:simpleType name="registrationStatusCode">
+		<xsd:annotation>
+			<xsd:documentation xml:lang="en">
+        The registration status type.
+        Allowed values(Code-Description) are:
+        ABANDONED-Abandoned
+        ADMTERM-Administrative Termination
+        APPRNT-Approved Pending Prints
+        APPROVED-Approved
+        APPROVED_RES-Restricted Approval
+        APRSLTS-Approved Pending Results
+        BAR-Bar
+        CE2_YEAR_TRMD-Termed CE Two Year Inactive
+        CE_INACTIVE-Inactive - Continuing Education
+        DEFICIENT-Deficient
+        DENIED-Denied
+        FTR-Terminated Failure to Renew
+        INACTIVE_PRINTS-Inactive - Prints
+        MASS_TRNSF-Termed Mass Transfer
+        PENDING-Pending
+        PURGED-Purged
+        REJECTED-Rejected
+        REQUAL-Requalification
+        REQUEST_TERM-Termination Requested
+        REVOKED-Revoked
+        SUSPENSION-Suspended
+        T_NOREG-Termed Without Registration
+        T_NOREG_FTR-Terminated no registration Renewals
+        T_NOREG_MT-Terminated no registration Mass Transfer
+        T_NOU5-Terminated Without U5
+        T_NOMT-Termed-Did Not Mass Transfer
+        T_NOMTNOREG-Terminated no reg.-Did Not Mass Transfer
+        TEMPREG-Temporary Registration
+        TEMP_WD-Temporary Withdrawal
+        TERMED-Termed
+        TRANS_RQST-Transition Requested
+        TRANS_TERM-Transition Terminated
+        TRANS_ERROR-Not Transitioned - Filed In Error
+      </xsd:documentation>
+		</xsd:annotation>
+		<xsd:restriction base="xs:string">
+			<xsd:maxLength value="16"/>
+			<xsd:enumeration value="ADMTERM"/>
+			<xsd:enumeration value="APPRNT"/>
+			<xsd:enumeration value="APPROVED"/>
+			<xsd:enumeration value="APPROVED_RES"/>
+			<xsd:enumeration value="BAR"/>
+			<xsd:enumeration value="CE2_YEAR_TRMD"/>
+			<xsd:enumeration value="CE_INACTIVE"/>
+			<xsd:enumeration value="DEFICIENT"/>
+			<xsd:enumeration value="DENIED"/>
+			<xsd:enumeration value="FTR"/>
+			<xsd:enumeration value="INACTIVE_PRINTS"/>
+			<xsd:enumeration value="MASS_TRNSF"/>
+			<xsd:enumeration value="PENDING"/>
+			<xsd:enumeration value="PURGED"/>
+			<xsd:enumeration value="REJECTED"/>
+			<xsd:enumeration value="REQUAL"/>
+			<xsd:enumeration value="REQUEST_TERM"/>
+			<xsd:enumeration value="REVOKED"/>
+			<xsd:enumeration value="SUSPENSION"/>
+			<xsd:enumeration value="TEMPREG"/>
+			<xsd:enumeration value="TERMED"/>
+			<xsd:enumeration value="T_NOREG"/>
+			<xsd:enumeration value="T_NOREG_FTR"/>
+			<xsd:enumeration value="T_NOREG_MT"/>
+			<xsd:enumeration value="T_NOU5"/>
+			<xsd:enumeration value="ABANDONED"/>
+			<xsd:enumeration value="TEMP_WD"/>
+			<xsd:enumeration value="T_NOMT"/>
+			<xsd:enumeration value="T_NOMTNOREG"/>
+			<xsd:enumeration value="APRSLTS"/>
+			<xsd:enumeration value="TRANS_RQST"/>
+			<xsd:enumeration value="TRANS_TERM"/>
+			<xsd:enumeration value="TRANS_ERROR"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:complexType name="BrnchOfLocsType">
+		<xsd:annotation>
+			<xsd:documentation>
+        The Employment Location node contains a collection of Employment Location details for the individual.
+      </xsd:documentation>
+		</xsd:annotation>
+		<xsd:sequence>
+			<xsd:element name="BrnchOfLoc" type="BrnchOfLocType" minOccurs="0" maxOccurs="unbounded"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:complexType name="BrnchOfLocType">
+		<xsd:attribute name="str1" type="Str50" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has the firm's Branch Office address - street1.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="str2" type="Str50" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has the firm's Branch Office address - street2
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="city" type="Str50" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has the firm's Branch Office address - City
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="state" type="StateCdType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has the firm's Branch Office address - State
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="cntry" type="Str50" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has the firm's Branch Office address - Country
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="postlCd" type="Str11" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has the firm's Branch Office address - Postal Code
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+	</xsd:complexType>
+	<xsd:complexType name="ExmsType">
+		<xsd:annotation>
+			<xsd:documentation>
+        The Exams node contains a collection of exam nodes each describing details about an individual's Passed State Exams (S63,S64,S65,S66).
+      </xsd:documentation>
+		</xsd:annotation>
+		<xsd:sequence>
+			<xsd:element name="Exm" type="ExmType" minOccurs="0" maxOccurs="unbounded"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:complexType name="ExmType">
+		<xsd:annotation>
+			<xsd:documentation>
+        The Exam node contains one of many state exam details for the individual.
+      </xsd:documentation>
+		</xsd:annotation>
+		<xsd:attribute name="exmCd" type="examCodeType" use="required">
+			<xsd:annotation>
+				<xsd:documentation>
+          The Exam Code.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="exmNm" type="Str128" use="required">
+			<xsd:annotation>
+				<xsd:documentation>
+          The Exam Name.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="exmDt" type="xs:date">
+			<xsd:annotation>
+				<xsd:documentation>
+          The date the exam was taken.(YYYY-MM-DD)
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+	</xsd:complexType>
+	<xsd:simpleType name="examCodeType">
+		<xsd:annotation>
+			<xsd:documentation xml:lang="en">
+        The Exam Code.
+        Allowed values(Code-Description) are:
+        S63-Uniform Securities Agent State Law Examination
+        S64-NASAA Real Estate Securities Exam
+        S65-Uniform Investment Adviser Law Examination
+        S66-Uniform Combined State Law Examination
+      </xsd:documentation>
+		</xsd:annotation>
+		<xsd:restriction base="xs:string">
+			<xsd:maxLength value="16"/>
+			<xsd:enumeration value="S63"/>
+			<xsd:enumeration value="S64"/>
+			<xsd:enumeration value="S65"/>
+			<xsd:enumeration value="S66"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:complexType name="DsgntnsType">
+		<xsd:annotation>
+			<xsd:documentation>
+        This node describes a collection of professional designations information for the individual.
+      </xsd:documentation>
+		</xsd:annotation>
+		<xsd:sequence>
+			<xsd:element name="Dsgntn" type="DsgntnType" minOccurs="0" maxOccurs="unbounded">
+				<xsd:annotation>
+					<xsd:documentation>
+            Specifies the designation(s) an individual currently maintains.
+          </xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:complexType name="DsgntnType">
+		<xsd:annotation>
+			<xsd:documentation>
+        This node describes a one of many designations information for the individual.
+      </xsd:documentation>
+		</xsd:annotation>
+		<xsd:attribute name="dsgntnNm" type="Str128" use="required">
+			<xsd:annotation>
+				<xsd:documentation>
+          The designation code.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+	</xsd:complexType>
+	<xsd:complexType name="PrevRgstnsType">
+		<xsd:annotation>
+			<xsd:documentation>
+			The PreviousRegistration node contains registrations previously held by the individual.
+      </xsd:documentation>
+		</xsd:annotation>
+		<xsd:sequence>
+			<xsd:element name="PrevRgstn" type="PrevRgstnType" minOccurs="0" maxOccurs="unbounded"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:complexType name="PrevRgstnType">
+		<xsd:annotation>
+			<xsd:documentation>
+        The PreviousRegistration node contains one of many registration for the individual previously held.
+      </xsd:documentation>
+		</xsd:annotation>
+		<xsd:sequence>
+			<xsd:element name="BrnchOfLocs" type="PrevBrnchOfLocsType" minOccurs="0" maxOccurs="unbounded">
+				<xsd:annotation>
+					<xsd:documentation>
+            The BranchOfficeLocs node contains one of many deficiencies for the individual registration.
+          </xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+		</xsd:sequence>
+		<xsd:attribute name="orgNm" type="Str64" use="required">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has the Firm's business name from the IARD composite record
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="orgPK" type="Int10" use="required">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has the firm's CRD number.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="regBeginDt" type="xs:date">
+			<xsd:annotation>
+				<xsd:documentation>
+          The Registration Begin date.   (YYYY-MM-DD)
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="regEndDt" type="xs:date">
+			<xsd:annotation>
+				<xsd:documentation>
+          The Registration End date.   (YYYY-MM-DD)
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+	</xsd:complexType>
+	<xsd:complexType name="PrevBrnchOfLocsType">
+		<xsd:annotation>
+			<xsd:documentation>
+        The Employment Location node contains a collection of Employment Location details for the individual. 
+      </xsd:documentation>
+		</xsd:annotation>
+		<xsd:sequence>
+			<xsd:element name="BrnchOfLoc" type="PrevBrnchOfLocType" minOccurs="0" maxOccurs="unbounded"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:complexType name="PrevBrnchOfLocType">
+		<xsd:attribute name="city" type="Str50" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has the firm's Branch Office address - City
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="state" type="StateCdType" use="optional">
+			<xsd:annotation>
+				<xsd:documentation xml:lang="en">
+          This node has the firm's Branch Office address - State
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+	</xsd:complexType>
+	<xsd:complexType name="EmpHistsType">
+		<xsd:annotation>
+			<xsd:documentation>
+        The EmploymentHistories node contains a collection of employment history details for the individual.
+      </xsd:documentation>
+		</xsd:annotation>
+		<xsd:sequence>
+			<xsd:element name="EmpHs" type="EmpHistType" minOccurs="0" maxOccurs="unbounded"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:complexType name="EmpHistType">
+		<xsd:annotation>
+			<xsd:documentation>
+        The EmploymentHistory node contains one of many employment history details for the individual.
+      </xsd:documentation>
+		</xsd:annotation>
+		<xsd:attribute name="fromDt" type="Str7">
+			<xsd:annotation>
+				<xsd:documentation>
+          The Employment Begin date.   (MM/YYYY)
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="toDt" type="Str7">
+			<xsd:annotation>
+				<xsd:documentation>
+          The Employment End date.   (MM/YYYY)
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="orgNm" type="Str64">
+			<xsd:annotation>
+				<xsd:documentation>
+          The organization name
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="city" type="Str50">
+			<xsd:annotation>
+				<xsd:documentation>
+          City of Employment.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="state" type="StateCdType">
+			<xsd:annotation>
+				<xsd:documentation>
+          State of Employment.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+	</xsd:complexType>
+	<xsd:complexType name="OthrBussType">
+		<xsd:annotation>
+			<xsd:documentation>
+        This node describes a collection of other businesses for the individual.
+      </xsd:documentation>
+		</xsd:annotation>
+		<xsd:sequence>
+			<xsd:element name="OthrBus" type="OthrBusType" minOccurs="0">
+				<xsd:annotation>
+					<xsd:documentation>
+            This node identifies if the individual is engaged in any other business, either as a proprietor, partner, officer, director, employee, trustee, agent, or otherwise.
+          </xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:complexType name="OthrBusType">
+		<xsd:attribute name="desc" type="Str4000" use="required">
+			<xsd:annotation>
+				<xsd:documentation>
+          Description for other business.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+	</xsd:complexType>
+	<xsd:complexType name="DRPsType">
+		<xsd:annotation>
+			<xsd:documentation>
+        The DRPs node contains a collection of reportable and disclosable DRPs for the individual.
+      </xsd:documentation>
+		</xsd:annotation>
+		<xsd:sequence>
+			<xsd:element name="DRP" type="DRPType" minOccurs="0" maxOccurs="9">
+				<xsd:annotation>
+					<xsd:documentation>
+            The OccurrenceDisclosureInformation node contains other information associated with the DRP.
+          </xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:complexType name="DRPType">
+		<xsd:annotation>
+			<xsd:documentation>
+        The DRPs node contains one of many reportable and disclosable DRPs for the individual.
+      </xsd:documentation>
+		</xsd:annotation>
+		<xsd:attribute name="hasRegAction" type="answerYNType">
+			<xsd:annotation>
+				<xsd:documentation>
+          Flag to indicate the indvl has RegAction DRP.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="hasCriminal" type="answerYNType">
+			<xsd:annotation>
+				<xsd:documentation>
+          Flag to indicate the indvl has Criminal DRP.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="hasBankrupt" type="answerYNType">
+			<xsd:annotation>
+				<xsd:documentation>
+          Flag to indicate the indvl has Bankrupt DRP.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="hasCivilJudc" type="answerYNType">
+			<xsd:annotation>
+				<xsd:documentation>
+          Flag to indicate the indvl has CivilJudc DRP.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="hasBond" type="answerYNType">
+			<xsd:annotation>
+				<xsd:documentation>
+          Flag to indicate the indvl has Bond DRP.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="hasJudgment" type="answerYNType">
+			<xsd:annotation>
+				<xsd:documentation>
+          Flag to indicate the indvl has Judgment DRP.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="hasInvstgn" type="answerYNType">
+			<xsd:annotation>
+				<xsd:documentation>
+          Flag to indicate the indvl has Invstgn DRP.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="hasCustComp" type="answerYNType">
+			<xsd:annotation>
+				<xsd:documentation>
+          Flag to indicate the indvl has CustComp DRP.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="hasTermination" type="answerYNType">
+			<xsd:annotation>
+				<xsd:documentation>
+          Flag to indicate the indvl has Termination DRP.
+        </xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+	</xsd:complexType>
+	<xsd:simpleType name="Str5">
+		<xsd:restriction base="xsd:string">
+			<xsd:maxLength value="5"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:simpleType name="Str7">
+		<xsd:restriction base="xsd:string">
+			<xsd:maxLength value="7"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:simpleType name="Str10">
+		<xsd:restriction base="xsd:string">
+			<xsd:maxLength value="10"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:simpleType name="Str11">
+		<xsd:restriction base="xsd:string">
+			<xsd:maxLength value="11"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:simpleType name="Str20">
+		<xsd:restriction base="xsd:string">
+			<xsd:maxLength value="20"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:simpleType name="Str25">
+		<xsd:restriction base="xsd:string">
+			<xsd:maxLength value="25"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:simpleType name="Str50">
+		<xsd:restriction base="xsd:string">
+			<xsd:maxLength value="50"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:simpleType name="Str64">
+		<xsd:restriction base="xsd:string">
+			<xsd:maxLength value="64"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:simpleType name="Str128">
+		<xsd:restriction base="xsd:string">
+			<xsd:maxLength value="512"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:simpleType name="Str4000">
+		<xsd:restriction base="xsd:string">
+			<xsd:maxLength value="4000"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:simpleType name="Int8">
+		<xsd:restriction base="xsd:integer">
+			<xsd:totalDigits value="8"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:simpleType name="Int10">
+		<xsd:restriction base="xsd:integer">
+			<xsd:totalDigits value="10"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:simpleType name="Int64">
+		<xsd:restriction base="xsd:integer">
+			<xsd:totalDigits value="38"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:simpleType name="answerYNType">
+		<xsd:restriction base="xsd:string">
+			<xsd:enumeration value="Y"/>
+			<xsd:enumeration value="N"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:simpleType name="StateCdType">
+		<xsd:annotation>
+			<xsd:documentation xml:lang="en">
+        Elements of this type represent the allowed State Codes.
+        Allowed values (code-Name) are:
+        AK-Alaska
+        AL-Alabama
+        AR-Arkansas
+        AZ-Arizona
+        CA-California
+        CO-Colorado
+        CT-Connecticut
+        DC-District of Columbia
+        DE-Delaware
+        FL-Florida
+        GA-Georgia
+        GU-Guam
+        HI-Hawaii
+        IA-Iowa
+        ID-Idaho
+        IL-Illinois
+        IN-Indiana
+        KS-Kansas
+        KY-Kentucky
+        LA-Louisiana
+        MA-Massachusetts
+        MD-Maryland
+        ME-Maine
+        MI-Michigan
+        MN-Minnesota
+        MO-Missouri
+        MS-Mississippi
+        MT-Montana
+        NC-North Carolina
+        ND-North Dakota
+        NE-Nebraska
+        NH-New Hampshire
+        NJ-New Jersey
+        NM-New Mexico
+        NV-Nevada
+        NY-New York
+        OH-Ohio
+        OK-Oklahoma
+        OR-Oregon
+        PA-Pennsylvania
+        PR-Puerto Rico
+        RI-Rhode Island
+        SC-South Carolina
+        SD-South Dakota
+        TN-Tennessee
+        TX-Texas
+        UT-Utah
+        VA-Virginia
+        VT-Vermont
+        WA-Washington
+        WI-Wisconsin
+        WV-West Virginia
+        WY-Wyoming
+        VI-Virgin Islands
+      </xsd:documentation>
+		</xsd:annotation>
+		<xsd:restriction base="xsd:NMTOKEN">
+			<xsd:maxLength value="2"/>
+			<xsd:enumeration value="AK"/>
+			<xsd:enumeration value="AL"/>
+			<xsd:enumeration value="AR"/>
+			<xsd:enumeration value="AZ"/>
+			<xsd:enumeration value="CA"/>
+			<xsd:enumeration value="CO"/>
+			<xsd:enumeration value="CT"/>
+			<xsd:enumeration value="DC"/>
+			<xsd:enumeration value="DE"/>
+			<xsd:enumeration value="FL"/>
+			<xsd:enumeration value="GA"/>
+			<xsd:enumeration value="GU"/>
+			<xsd:enumeration value="HI"/>
+			<xsd:enumeration value="IA"/>
+			<xsd:enumeration value="ID"/>
+			<xsd:enumeration value="IL"/>
+			<xsd:enumeration value="IN"/>
+			<xsd:enumeration value="KS"/>
+			<xsd:enumeration value="KY"/>
+			<xsd:enumeration value="LA"/>
+			<xsd:enumeration value="MA"/>
+			<xsd:enumeration value="MD"/>
+			<xsd:enumeration value="ME"/>
+			<xsd:enumeration value="MI"/>
+			<xsd:enumeration value="MN"/>
+			<xsd:enumeration value="MO"/>
+			<xsd:enumeration value="MS"/>
+			<xsd:enumeration value="MT"/>
+			<xsd:enumeration value="NC"/>
+			<xsd:enumeration value="ND"/>
+			<xsd:enumeration value="NE"/>
+			<xsd:enumeration value="NH"/>
+			<xsd:enumeration value="NJ"/>
+			<xsd:enumeration value="NM"/>
+			<xsd:enumeration value="NV"/>
+			<xsd:enumeration value="NY"/>
+			<xsd:enumeration value="OH"/>
+			<xsd:enumeration value="OK"/>
+			<xsd:enumeration value="OR"/>
+			<xsd:enumeration value="PA"/>
+			<xsd:enumeration value="PR"/>
+			<xsd:enumeration value="RI"/>
+			<xsd:enumeration value="SC"/>
+			<xsd:enumeration value="SD"/>
+			<xsd:enumeration value="TN"/>
+			<xsd:enumeration value="TX"/>
+			<xsd:enumeration value="UT"/>
+			<xsd:enumeration value="VA"/>
+			<xsd:enumeration value="VT"/>
+			<xsd:enumeration value="WA"/>
+			<xsd:enumeration value="WI"/>
+			<xsd:enumeration value="WV"/>
+			<xsd:enumeration value="WY"/>
+			<xsd:enumeration value="VI"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+</xsd:schema>
