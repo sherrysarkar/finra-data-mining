@@ -1,0 +1,26 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/199158/",
+  "absolute_url": "/opinion/199158/united-states-v-doe/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/199158/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:25:32Z",
+  "date_modified": "2017-03-24T11:01:05.970298Z",
+  "type": "010combined",
+  "sha1": "c87abb247f53ef40d924e1e674abe18bccd59a70",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/99-1501-01A.pdf",
+  "local_path": "pdf/2000/11/29/US_v._Doe.pdf",
+  "plain_text": "Error: May not be a PDF file (continuing anyway)\nError: PDF file is damaged - attempting to reconstruct xref table...\nError: Couldn't find trailer dictionary\nError: Couldn't read xref table\n",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/160846/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/775880/"
+  ]
+}

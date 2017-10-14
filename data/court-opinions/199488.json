@@ -1,0 +1,31 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/199488/",
+  "absolute_url": "/opinion/199488/united-states-v-oconnell/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/199488/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:31:38Z",
+  "date_modified": "2017-03-24T11:02:02.521846Z",
+  "type": "010combined",
+  "sha1": "6ce4a2b9405a47ba43d58aef67865f2e7eff712f",
+  "page_count": 1,
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/99-1904A-01A.pdf",
+  "local_path": "pdf/2001/07/09/US_v._OConnell.pdf",
+  "plain_text": "           UNITED STATES COURT OF APPEALS\n                FOR THE FIRST CIRCUIT\n\n\n\n\nNo. 99-1904\n\n                    UNITED STATES OF AMERICA,\n\n                             Appellee,\n\n                                 v.\n\n                      MICHAEL M. O'CONNELL,\n\n                      Defendant, Appellant.\n\n\n\n                           ERRATA SHEET\n\n\n     The opinion of this Court issued on June 12, 2001, is amended as\nfollows:\n\n     On page 5, line 11, should read \". . . .        In conclusion,\nO'Connell's attorney stated: . . .\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/174049/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/199682/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/199738/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/200710/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/201337/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/202436/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/203944/"
+  ]
+}

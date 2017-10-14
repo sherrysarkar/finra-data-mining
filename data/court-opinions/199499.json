@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/199499/",
+  "absolute_url": "/opinion/199499/united-states-v-acosta-martinez/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/199499/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:31:48Z",
+  "date_modified": "2017-03-24T11:02:03.413270Z",
+  "type": "010combined",
+  "sha1": "c91ab4eeb9ec103faabbd783db0c76c93dd9c928",
+  "page_count": 1,
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/00-2088A-01A.pdf",
+  "local_path": "pdf/2001/07/17/US_v._Acosta-Martinez.pdf",
+  "plain_text": "         United States Court of Appeals\n                    For the First Circuit\n\n\nNo. 00-2088\n\n                  UNITED STATES OF AMERICA,\n\n                    Plaintiff, Appellant,\n\n                              v.\n\n        HECTOR OSCAR ACOSTA-MARTINEZ, A/K/A GORDO, AND\n                    JOEL RIVERA-ALEJANDRO,\n\n                    Defendants, Appellees.\n\n\n\n\n                        ERRATA SHEET\n\n     The opinion of this court, issued June 5, 2001, should be\namended as follows:\n\n     On the cover page, \"Of the District of Northern\nCalifornia,\" is replaced with \"Of the Northern District of\nCalifornia,\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

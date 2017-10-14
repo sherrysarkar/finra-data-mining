@@ -1,0 +1,25 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/199971/",
+  "absolute_url": "/opinion/199971/cashmere-camel-v-saks-fifth-avenue/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/199971/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:41:10Z",
+  "date_modified": "2017-03-24T11:04:26.963053Z",
+  "type": "010combined",
+  "sha1": "e501330f8d99cf6d9e932c2f90f2f887ceb64e71",
+  "page_count": 2,
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/00-2341A-01A.pdf",
+  "local_path": "pdf/2002/05/22/Cashmere__Camel_v._Saks_Fifth_Avenue.pdf",
+  "plain_text": "              United States Court of Appeals\n                         For the First Circuit\n\n\n\n\nNo. 00-2341\n\n\n        CASHMERE & CAMEL HAIR MANUFACTURERS INSTITUTE,\n   F/K/A CAMEL HAIR & CASHMERE INSTITUTE OF AMERICA, INC.,\n                 AND L.W. PACKARD & CO., INC.,\n\n                      Plaintiffs, Appellants,\n\n                                  v.\n\n                         SAKS FIFTH AVENUE,\n              HARVE BENARD, LTD. AND FILENES BASEMENT,\n\n                       Defendants, Appellees.\n\n\n\n\n                            ERRATA SHEET\n\n\n     The opinion of this Court issued on April 1, 2002, is amended\nas follows:\n\n\n    On page 28, line 2: Insert a one-sentence paragraph that reads:\n\n    \"Nothing in this opinion, however, is meant to preclude\n    defendants from rebutting the presumption of consumer\n    deception at trial by showing that the labeling did not\n    actually deceive consumers.\"\n\f\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/211858/"
+  ]
+}

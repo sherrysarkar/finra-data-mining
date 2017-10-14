@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/199850/",
+  "absolute_url": "/opinion/199850/united-states-v-vasquez/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/199850/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:38:47Z",
+  "date_modified": "2017-03-24T11:03:35.185930Z",
+  "type": "010combined",
+  "sha1": "93be2ccaa65d4196c85632715fcde2e4c21d3b10",
+  "page_count": 2,
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/01-1695A-01A.pdf",
+  "local_path": "pdf/2002/02/26/US_v._Vasquez.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\n\nNo. 01-1695\n\n                    UNITED STATES OF AMERICA,\n\n                            Appellee,\n\n                               v.\n\n                     ROMULO EMILIO VASQUEZ,\n\n                      Defendant, Appellant.\n\n\n                          ERRATA SHEET\n\n     The opinion of this Court issued on February 6, 2002 is\ncorrected as follows:\n\n     On page 8, line 7, change \"and\" to \"but\"; change \"agreed\" to\n\"disagreed\"\n\n     On page 8, line 9, change \"reversed\" to \"affirmed\"\n\f\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

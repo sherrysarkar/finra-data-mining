@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/199816/",
+  "absolute_url": "/opinion/199816/bastien-v-city-of-worcester/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/199816/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:38:05Z",
+  "date_modified": "2017-03-24T11:03:31.411463Z",
+  "type": "010combined",
+  "sha1": "78420c37b3ec23f18c7ef72cf99070a389fff10a",
+  "page_count": 1,
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/00-2224A-01A.pdf",
+  "local_path": "pdf/2002/02/07/Bastien_v._City_of_Worcester.pdf",
+  "plain_text": "         United States Court of Appeals\n                   For the First Circuit\n\n\nNo. 00-2224\n\n                      DELANOT BASTIEN,\n\n                   Plaintiff, Appellant,\n\n                             v.\n\n                      WILLIAM GODDARD,\n\n                    Defendant, Appellee.\n\n\n                           ERRATA\n\n\n     The opinion of the court issued on February 1, 2002, is\namended as follows:\n\n     On the cover sheet, the presiding trial judge should be\nchanged to: [Hon. Charles B. Swartwood, III, U.S. Magistrate\nJudge].\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

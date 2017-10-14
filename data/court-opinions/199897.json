@@ -1,0 +1,25 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/199897/",
+  "absolute_url": "/opinion/199897/gonzalez-v-lawrence-general-hos/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/199897/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:39:42Z",
+  "date_modified": "2017-03-24T11:03:59.037661Z",
+  "type": "010combined",
+  "sha1": "7123d7a299fc5d192a53a64d0a515e44fc49513e",
+  "page_count": 1,
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/00-2352-01A.pdf",
+  "local_path": "pdf/2002/04/01/Gonzalez_v._Lawrence_General_Hos.pdf",
+  "plain_text": "          United States Court of Appeals\n                      For the First Circuit\n\n\nNo. 00-2352\n\n              CATHERINE GONZALEZ, INDIVIDUALLY AND AS\n               PARENT GUARDIAN AND NEXT FRIEND OF THE\n                       MINOR CHILD KIANA RIOS,\n\n                       Plaintiff, Appellant,\n\n                                v.\n\n                     UNITED STATES OF AMERICA,\n\n                       Defendant, Appellee.\n\n\n\n                           ERRATA SHEET\n\n\n     The opinion of this Court issued on, April 1, 2002, is amended\n\nas follows:\n\n     Page 9, replace the text in lines 18-20 with the following:\n\"This court uses different standards of review in evaluating a\ndistrict court's dismissal for lack of subject matter jurisdiction\nunder Fed. R. Civ. P. 12(b)(1), depending on the circumstances.\nSee Valentín v. Hosp. Bella Vista, 254 F.3d 358, 362-63 (1st Cir.\n2001). Here, however, the plaintiff's challenge focuses on pure\n(or nearly pure) questions of law, and thus engenders de novo\nreview. See id.\"\n\n     Page 10, delete the text on lines 10-13 beginning \"A Rule\n12(b)(1) . . . (D. Mass. 1998).\" and replace with the following\ntext: \"A Rule 12(b)(1) motion is sometimes transformed into a Rule\n56 motion where jurisdictional issues cannot be separated from the\nmerits of the case. See Valentín, 254 F.3d at 363 & n.3.\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<pre class=\"inline\">          United States Court of Appeals\n                      For the First Circuit\n\n\nNo. 00-2352\n\n              CATHERINE GONZALEZ, INDIVIDUALLY AND AS\n               PARENT GUARDIAN AND NEXT FRIEND OF THE\n                       MINOR CHILD KIANA RIOS,\n\n                       Plaintiff, Appellant,\n\n                                v.\n\n                     UNITED STATES OF AMERICA,\n\n                       Defendant, Appellee.\n\n\n\n                           ERRATA SHEET\n\n\n     The opinion of this Court issued on, April 1, 2002, is amended\n\nas follows:\n\n     Page 9, replace the text in lines 18-20 with the following:\n\"This court uses different standards of review in evaluating a\ndistrict court's dismissal for lack of subject matter jurisdiction\nunder Fed. R. Civ. P. 12(b)(1), depending on the circumstances.\nSee Valentín v. Hosp. Bella Vista, </pre><span class=\"citation\" data-id=\"199467\"><a href=\"/opinion/199467/valentin-de-jesus-v-united-healthcare/\"><span class=\"volume\">254</span> <span class=\"reporter\">F.3d</span> <span class=\"page\">358</span></a></span><pre class=\"inline\">, 362-63 (1st Cir.\n2001). Here, however, the plaintiff's challenge focuses on pure\n(or nearly pure) questions of law, and thus engenders de novo\nreview. See id.\"\n\n     Page 10, delete the text on lines 10-13 beginning \"A Rule\n12(b)(1) . . . (D. Mass. 1998).\" and replace with the following\ntext: \"A Rule 12(b)(1) motion is sometimes transformed into a Rule\n56 motion where jurisdictional issues cannot be separated from the\nmerits of the case. See Valentín, 254 F.3d at 363 & n.3.\"\n\f</pre>",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/199467/"
+  ]
+}

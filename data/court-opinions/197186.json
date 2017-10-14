@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/197186/",
+  "absolute_url": "/opinion/197186/dubois-v-restore/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/197186/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T03:24:11Z",
+  "date_modified": "2017-03-24T10:50:30.548780Z",
+  "type": "010combined",
+  "sha1": "3cd39186ea60f6fa3331f5fca7ab96cb64939081",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/cgi-bin/getopn.pl?OPINION=96-1015A.01A",
+  "local_path": null,
+  "plain_text": "\n\n                  UNITED STATES COURT OF APPEALS\r\n                      FOR THE FIRST CIRCUIT\r\n                                    \r\n\nNo. 96-1068\r\n\n          ROLAND C. DUBOIS AND RESTORE: THE NORTH WOODS,\r\n                     Defendants, Appellants,\r\n\n                                v.\r\n\n         UNITED STATES DEPARTMENT OF AGRICULTURE, ET AL.,\r\n                      Plaintiffs, Appellees.\r\n                                     \r\n\n                                BEFORE\r\n\n                      Selya, Circuit Judge,\r                                                    \r\n            Coffin and Bownes, Senior Circuit Judges.\r                                                              \r\n\n                                   \r\n\n                          ORDER OF COURT\r\n\n                    Entered: January 24, 1997\r\n\n          The appellee Loon Mountain Recreation Corporation is\r\ngranted the same amount of time in which to file a petition for\r\nrehearing as the appellant.\r\n\n           Therefore, as computed by this Clerk's Office, the\r\npetition for rehearing must be filed no later than February 5,\r\n1997 which is 45 days from the date of judgment of December 19,\r\n1996.\r\n\n                                    By the Court:\r\n                                    WILLIAM H. NG, Clerk\r\n\n                                    By                   \r\n                                      Chief Deputy Clerk\r\n\n ccc: Messrs. Dubois, Callen, Plourde, Armstrong, Kehne, Bryson, \r\n\n   Quast, Williams, Hill]                                      \r\r\n",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

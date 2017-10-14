@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/198260/",
+  "absolute_url": "/opinion/198260/rasten-v-department-of-labor/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/198260/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T03:48:54Z",
+  "date_modified": "2017-03-24T10:56:06.930782Z",
+  "type": "010combined",
+  "sha1": "05cd324c64e516ed87cb84462a5ade8a101aab3c",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/cgi-bin/getopn.pl?OPINION=98-1386.01A",
+  "local_path": null,
+  "plain_text": "  [NOT FOR PUBLICATION--NOT TO BE CITED AS PRECEDENT]\r\n             United States Court of Appeals\r\n                 For the First Circuit\r\n\nNo. 98-1386\r\n\n                      ANINA RASTEN,\r\n\n                  Plaintiff, Appellant,\r\n\n                            v.\r\n\n                U.S. DEPARTMENT OF LABOR,\r\n\n                   Defendant, Appellee.\r\n\n       APPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\n            FOR THE DISTRICT OF MASSACHUSETTS\r\n\n     [Hon. Edward F. Harrington, U.S. District Judge]\r\n\n                          Before\r\n\n                 Selya, Stahl and Lynch,\r\n                    Circuit Judges.\r\n\n Anina Rasten on brief pro se.\r\n\nDECEMBER 22, 1998\r\n\n                                           Per Curiam.  After carefully considering the\r\nappellant's brief and the record on appeal, we affirm the\r\njudgment of the district court.  The appellant's complaint did\r\nnot set forth sufficient facts to support an action in federal\r\ncourt.  The district court had discretion under 28 U.S.C. \r\n1915(e)(2) to dismiss the suit without giving the appellant an\r\nopportunity to amend the complaint.\r\n          Affirmed.  Loc. R. 27.1.\r\n",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

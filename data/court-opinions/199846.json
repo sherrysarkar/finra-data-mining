@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/199846/",
+  "absolute_url": "/opinion/199846/rodowicz-v-massachusetts-mutual/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/199846/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:38:45Z",
+  "date_modified": "2017-03-24T11:03:35.025396Z",
+  "type": "010combined",
+  "sha1": "1486ed4ad687edef4a418ebe67ac550b8e567f8c",
+  "page_count": 1,
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/00-2077A-01A.pdf",
+  "local_path": "pdf/2002/02/26/Rodowicz_v._Massachusetts_Mutual.pdf",
+  "plain_text": "      United States Court of Appeals\n                        For the First Circuit\n                         ____________________\nNos. 00-2077, 00-2078\n\n     STANLEY A. RODOWICZ, MARGARET STEVENS, AND JAMES LEMON,\n               Plaintiffs, Appellees, Cross-Appellants,\n                                  v.\n\n             MASSACHUSETTS MUTUAL LIFE INSURANCE COMPANY,\n\n                Defendant, Appellant, Cross-Appellee.\n\n\n                         ____________________\n\n\n                            ERRATA SHEET\n\n     The opinion of this court, issued February 4, 2002, should\nbe amended as follows:\np 3, fn 2:       underline \"I\"\np 9, line 6:     change \"its jury instructions\" to \"his jury\n                 instructions\"\np 10, fn 7:      insert space after \"§\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

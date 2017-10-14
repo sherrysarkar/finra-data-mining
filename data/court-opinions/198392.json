@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/198392/",
+  "absolute_url": "/opinion/198392/united-states-v-pichardo/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/198392/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T03:51:36Z",
+  "date_modified": "2017-03-24T10:56:42.631554Z",
+  "type": "010combined",
+  "sha1": "92a801eb59f1f082cf4ef6496215295a50baea95",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/cgi-bin/getopn.pl?OPINION=97-1951.01A",
+  "local_path": null,
+  "plain_text": "[NOT FOR PUBLICATION]\r\n\nUNITED STATES COURT OF APPEALS\r\nFOR THE FIRST CIRCUIT\r\n\nNo. 97-1951\r\n\nUNITED STATES OF AMERICA,\r\n\nPlaintiff, Appellee,\r\n\n         v.\r\n\n   SANDY PICHARDO,\r\n\nDefendant, Appellant.\r\n\nAPPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\nFOR THE DISTRICT OF PUERTO RICO\r\n\n[Hon. Hector M. Laffitte, U.S. District Judge]\r\n\n       Before\r\n\nSelya, Circuit Judge,\r\n\nCoffin and Cyr, Senior Circuit Judges.\r\n\nMauricio Hernandez Arroyo for appellant.\r\nMark Irish, Assistant United States Attorney, with whom Guillermo Gil, United States Attorney, Jorge E. Vega-Pacheco, Assistant United States Attorney, and Nelson Prez-Sosa, Assistant United States Attorney, were on brief for appellee.\r\n\nMarch 26, 1999\r\n     Per curiam.  Following oral argument and careful consideration of the briefs and record on appeal, we reject as groundless appellant's claim that the district court erred in rejecting his belated request for a downward adjustment for acceptance of responsibility, inasmuch as he has never fully acknowledged either his leadership role in the offenses of conviction or his possession of a weapon during the commission of the offenses charged.\r\nAffirmed.\r\n",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

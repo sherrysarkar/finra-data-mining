@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/199532/",
+  "absolute_url": "/opinion/199532/buscone-v-us-recoveries-iii/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/199532/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:32:15Z",
+  "date_modified": "2017-03-24T11:02:08.720603Z",
+  "type": "010combined",
+  "sha1": "7fcf6a0511abb44b70a1d12757163c1c4d51f66f",
+  "page_count": 1,
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/00-1064A-01A.pdf",
+  "local_path": "pdf/2001/08/01/Buscone_v._US_Recoveries_III.pdf",
+  "plain_text": "          [Not for Publication - Not to be Cited as Precedent]\n\n          United States Court of Appeals\n                      For the First Circuit\n\n\nNo. 00-1064\n\n        JOSEPH S. BUSCONE, INDIVIDUALLY AND AS TRUSTEE\n                    OF DEPOT REALTY TRUST,\n\n                      Plaintiff, Appellant,\n\n                                  v.\n\n                   US RECOVERIES III, L.L.C.,\n\n                       Defendant, Appellee.\n\n\n                            ERRATA SHEET\n\n\n     The opinion of this Court issued on December 6, 2000, is\namended as follows:\n\n     On the cover sheet, replace “Hon. Richard G. Stearns” with\n“Hon. Nancy Gertner.”\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

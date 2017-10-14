@@ -1,0 +1,26 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/198589/",
+  "absolute_url": "/opinion/198589/united-states-v-figueroa/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/198589/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T03:55:20Z",
+  "date_modified": "2017-03-24T10:57:53.459591Z",
+  "type": "010combined",
+  "sha1": "c87163ad365c67f41e935935b69957a7db6e604e",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/cgi-bin/getopn.pl?OPINION=98-1996.01A",
+  "local_path": null,
+  "plain_text": "[NOT FOR PUBLICATION NOT TO BE CITED AS PRECEDENT]\r\nUnited States Court of Appeals\r\nFor the First Circuit\r\n\nNo. 98-1996\r\n\nUNITED STATES,\r\n\nAppellee,\r\n\nv.\r\n\nRAFAEL E. FIGUEROA,\r\n\nDefendant, Appellant.\r\n\nAPPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\nFOR THE DISTRICT OF RHODE ISLAND\r\n\n[Hon. Ernest C. Torres, U.S. District Judge]\r\n\nBefore\r\n\nTorruella, Chief Judge,\r\nSelya and Boudin, Circuit Judges.\r\n\nRandy Olen on brief for appellant.\r\nMargaret E. Curran, United States Attorney, Donald C. Lockhart and Zechariah Chafee, Assistant United States Attorneys, on brief for appellee.\r\n\nJuly 30, 1999\r\n\nPer Curiam. Upon careful review of the briefs and record, we conclude that the district court did not clearly err in denying defendant's request for a decrease for acceptance of responsibility under U.S.S.G.  3E1.1(a).  The denial was amply supported by defendant's use of a false identity until the deceit was uncovered during the pre-sentence investigation, and the district court was not required to rely on defendant's subsequent statement of contrition.  See, e.g., United States v. Hardy, 99 F.3d 1242, 1247 (1st Cir. 1996); United States v. Tracy, 989 F.2d 1279, 1287-88 (1st Cir. 1993). \r\nNothing about defendant's situation was extraordinary.  See  3E1.1, comment. (n.4).  Rather, as is ordinarily the case, defendant's falsehoods not only qualified for an enhancement for obstruction of justice under  3C1.1, but also indicated that he had not accepted responsibility under  3E1.1.\r\nThere is no merit in defendant's appellate argument regarding \"acceptance of the consequences.\"\r\nAffirmed.  See 1st Cir. Local R. 27.1. \n",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<pre class=\"inline\">[NOT FOR PUBLICATION NOT TO BE CITED AS PRECEDENT]\r\nUnited States Court of Appeals\r\nFor the First Circuit\r\n\nNo. 98-1996\r\n\nUNITED STATES,\r\n\nAppellee,\r\n\nv.\r\n\nRAFAEL E. FIGUEROA,\r\n\nDefendant, Appellant.\r\n\nAPPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\nFOR THE DISTRICT OF RHODE ISLAND\r\n\n[Hon. Ernest C. Torres, U.S. District Judge]\r\n\nBefore\r\n\nTorruella, Chief Judge,\r\nSelya and Boudin, Circuit Judges.\r\n\nRandy Olen on brief for appellant.\r\nMargaret E. Curran, United States Attorney, Donald C. Lockhart and Zechariah Chafee, Assistant United States Attorneys, on brief for appellee.\r\n\nJuly 30, 1999\r\n\nPer Curiam. Upon careful review of the briefs and record, we conclude that the district court did not clearly err in denying defendant's request for a decrease for acceptance of responsibility under U.S.S.G.  3E1.1(a).  The denial was amply supported by defendant's use of a false identity until the deceit was uncovered during the pre-sentence investigation, and the district court was not required to rely on defendant's subsequent statement of contrition.  See, e.g., United States v. Hardy, </pre><span class=\"citation\" data-id=\"197072\"><a href=\"/opinion/197072/united-states-v-hardy/\"><span class=\"volume\">99</span> <span class=\"reporter\">F.3d</span> <span class=\"page\">1242</span></a></span><pre class=\"inline\">, 1247 (1st Cir. 1996); United States v. Tracy, </pre><span class=\"citation\" data-id=\"603771\"><a href=\"/opinion/603771/united-states-v-john-l-tracy-united-states-of-america-v-john-l-tracy/\"><span class=\"volume\">989</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">1279</span></a></span><pre class=\"inline\">, 1287-88 (1st Cir. 1993). \r\nNothing about defendant's situation was extraordinary.  See  3E1.1, comment. (n.4).  Rather, as is ordinarily the case, defendant's falsehoods not only qualified for an enhancement for obstruction of justice under  3C1.1, but also indicated that he had not accepted responsibility under  3E1.1.\r\nThere is no merit in defendant's appellate argument regarding \"acceptance of the consequences.\"\r\nAffirmed.  See 1st Cir. Local R. 27.1. \n</pre>",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/197072/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/603771/"
+  ]
+}

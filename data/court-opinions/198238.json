@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/198238/",
+  "absolute_url": "/opinion/198238/united-states-v-gray/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/198238/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T03:48:26Z",
+  "date_modified": "2017-03-24T10:55:10.551199Z",
+  "type": "010combined",
+  "sha1": "d571ff34c5e6be6db456bdcb00e79d29b1172830",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/cgi-bin/getopn.pl?OPINION=98-1546.01A",
+  "local_path": null,
+  "plain_text": "  [NOT FOR PUBLICATION--NOT TO BE CITED AS PRECEDENT]\r\n             United States Court of Appeals\r\n                 For the First Circuit\r\n\nNo. 98-1546\r\n\n                      UNITED STATES,\r\n\n                        Appellee,\r\n\n                            v.\r\n\n           ALTON N. GRAY, JR., a/k/a DAN GRAY,\r\n\n                  Defendant, Appellant.\r\n\n       APPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\n            FOR THE DISTRICT OF NEW HAMPSHIRE\r\n\n        [Hon. Shane Devine, Senior District Judge]\r\n\n                          Before\r\n\n                 Torruella, Chief Judge,\r\n           Selya and Boudin, Circuit Judges.\r\n\n Alton N. Gray, Jr. on brief pro se.\r\n Paul M. Gagnon, United States Attorney and Jean B. Weld,\r\nAssistant U.S. Attorney on Motion for Summary Disposition.\r\n\nDecember 1, 1998\r\n\n        Per Curiam.  We have reviewed carefully the record in\r\nthis case, including the briefs of the parties.  We affirm.\r\n          Since the record indicates that Gray received notice\r\nof the government's impending seizure of the property at 412\r\nGranite Street both in his indictment and in his plea\r\nagreement, his claim that he was not given adequate notice is\r\nwithout merit.  Moreover, there is nothing in the record to\r\nindicate that, with the exception of a \"hot tub and spa\" and a\r\n\"solar dome for the spa,\" any of the items sought by Gray were\r\never seized by the government.  While the record indicates that\r\nthe spa and its dome were seized, as appurtenances to the\r\nproperty they were properly returned to the bank which held the\r\nmortgage on 421 Granite Street.  In any event, any claim Gray\r\nmight have had to these items was abandoned in his plea\r\nagreement.\r\n          Affirmed.  See 1st Cir. Loc. R. 27.1.\n",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

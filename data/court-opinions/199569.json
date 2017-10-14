@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/199569/",
+  "absolute_url": "/opinion/199569/kirk-v-hitchcock/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/199569/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:33:17Z",
+  "date_modified": "2017-03-24T11:02:15.994099Z",
+  "type": "010combined",
+  "sha1": "cf740643bba3c36564ef44638cebc9ec5e61853d",
+  "page_count": 1,
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/00-2432A-01A.pdf",
+  "local_path": "pdf/2001/08/22/Kirk_v._Hitchcock.pdf",
+  "plain_text": "              United States Court of Appeals\n                     For the First Circuit\n                     ____________________\n\nNo. 00-2432\n\n                     EILEEN P. KIRK, M.D.,\n\n                     Plaintiff, Appellant,\n\n                              v.\n\n    THE HITCHCOCK CLINIC, MARY HITCHCOCK MEMORIAL HOSPITAL,\n     DARTMOUTH HITCHCOCK MEDICAL CENTER, DARTMOUTH COLLEGE,\n   DARTMOUTH MEDICAL SCHOOL, LISABETH MALONEY, BARRY SMITH,\n              THOMAS COLACCHIO, AND ELLEN HUBBELL,\n\n                    Defendants, Appellees.\n\n                     ____________________\n\n                         ERRATA SHEET\n\n    The opinion of this court issued on August 20, 2001 is amended as fo\n\n    On p. 6, line 17, replace \"than\" with \"that\".\n\n    On p. 7, line 13, replace \"or\" with \"of\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

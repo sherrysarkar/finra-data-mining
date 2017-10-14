@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/199454/",
+  "absolute_url": "/opinion/199454/united-states-v-sharpton/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/199454/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:31:02Z",
+  "date_modified": "2017-03-24T11:02:00.943849Z",
+  "type": "010combined",
+  "sha1": "e890b25494d6ee46507574f2765584e232fdd22b",
+  "page_count": 2,
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/01-1780B-01A.pdf",
+  "local_path": "pdf/2001/06/18/US_v._Sharpton.pdf",
+  "plain_text": "        United States Court of Appeals\n               For the First Circuit\n\nNo. 01-1780\n\n              UNITED STATES OF AMERICA,\n\n                      Appellee,\n\n                         v.\n\n                  ALFRED SHARPTON,\n\n                Defendant, Appellant.\n\n\nNo. 01-1781\n\n              UNITED STATES OF AMERICA,\n\n                      Appellee,\n\n                         v.\n\n                   ADOLFO CARRIÓN,\n\n                Defendant, Appellant.\n\n\nNo. 01-1782\n\n              UNITED STATES OF AMERICA,\n\n                      Appellee,\n\n                         v.\n\n                  ROBERTO RAMÍREZ,\n\n                Defendant, Appellant.\n\fNo. 01-1783\n\n                UNITED STATES OF AMERICA,\n\n                        Appellee,\n\n                            v.\n\n                       JOSÉ RIVERA,\n\n                  Defendant, Appellant.\n\n\n\n\n                          ERRATA\n\n          The opinion of this court, issued June 14, 2001,\nshould be amended as follows:\n\n          On page 9, footnote 6, delete the first paragraph and\ninsert the following paragraph in its place:\n\n          \"The appellants further object that the district court\nacted plainly unreasonably by ignoring differences between their\noffense conduct and the offense conduct of defendants in the\nproceedings of the prior day. Those defendants were arrested in\nthe live impact area of the base, and their protests, appellants\nsay, were therefore more disruptive. We do not find the uniform\ntreatment to be plainly unreasonable. The point is that the\ndistrict court's stated objective was to put an end to\nprotesters' taking the law into their own hands. There is\nnothing plainly unreasonable about that objective. And that\nobjective does not require distinguishing among defendants\naccording to the particular manner in which they took the law\ninto their own hands.\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

@@ -1,0 +1,25 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/199820/",
+  "absolute_url": "/opinion/199820/kelley-v-laforce/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/199820/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:38:11Z",
+  "date_modified": "2017-03-24T11:03:31.835109Z",
+  "type": "010combined",
+  "sha1": "03080e2322a2637d2e90e670ee7127a5517eafa9",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/wp.opinions/00-2543.01A",
+  "local_path": "wpd/2002/02/08/Kelley_v._LaForce.wpd",
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">279 F.3d 130</p>\n    <p class=\"parties\">Michael K. Kelley and Lenore T. Kelley, Plaintiffs, Appellants<br>v.<br>Joseph W. Laforce, Robert Fontaine, Melanie A. Jenkins, David Darrin, Richard Chabot, Douglas Blood, Peter Fullam and the Town of North Brookfield, Massachusetts.</p>\n    <p class=\"docket\">No. 00-2543.</p>\n    <p class=\"court\">United States Court of Appeals, First Circuit.</p>\n    <p class=\"date\">February 8, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">THIS OPINION HAS BEEN WITHDRAWN FROM THE BOUND VOLUME AT THE REQUEST OF THE COURT. SEE 288 F.3d 1</p>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">279</span> <span class=\"reporter\">F.3d</span> <span class=\"page\">130</span></span></p>\n    <p class=\"parties\">Michael K. Kelley and Lenore T. Kelley, Plaintiffs, Appellants<br>v.<br>Joseph W. Laforce, Robert Fontaine, Melanie A. Jenkins, David Darrin, Richard Chabot, Douglas Blood, Peter Fullam and the Town of North Brookfield, Massachusetts.</p>\n    <p class=\"docket\">No. 00-2543.</p>\n    <p class=\"court\">United States Court of Appeals, First Circuit.</p>\n    <p class=\"date\">February 8, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">THIS OPINION HAS BEEN WITHDRAWN FROM THE BOUND VOLUME AT THE REQUEST OF THE COURT. SEE <span class=\"citation\" data-id=\"777426\"><a href=\"/opinion/777426/michael-k-kelley-and-lenore-t-kelley-v-joseph-w-laforce-robert/\"><span class=\"volume\">288</span> <span class=\"reporter\">F.3d</span> <span class=\"page\">1</span></a></span></p>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/777426/"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/198455/",
+  "absolute_url": "/opinion/198455/fhs-v-bc/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/198455/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T03:52:46Z",
+  "date_modified": "2017-03-24T10:57:14.434089Z",
+  "type": "010combined",
+  "sha1": "cc39768014b54cce68b83dcedfc7a366787c0821",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/cgi-bin/getopn.pl?OPINION=98-1744A.01A",
+  "local_path": null,
+  "plain_text": "United States Court of Appeals\r\nFor the First Circuit\r\n\nNo. 98-1744\r\n\nFHS PROPERTIES LIMITED PARTNERSHIP, ETC.,\r\n\n  Plaintiff-Appelllee,\r\n\n           v.\r\n\n BC ASSOCIATES, ET AL.,\r\n\nDefendants, Appellants.\r\n\n     ERRATA SHEET\r\n\nThe opinion of this Court issued on April 29, 1999 is\r\namended as follows:\r\n\nThe penultimate sentence of page 17 of the opinion shall be\r\nchanged to state: \"For the foregoing reasons, we affirm the\r\ndecision of the district court in part, reverse in part, and\r\nremand to the district court for proceedings consistent with this\r\nopinion.\"\n",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

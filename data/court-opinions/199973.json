@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/199973/",
+  "absolute_url": "/opinion/199973/hochen-v-bobst-group-inc/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/199973/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:41:12Z",
+  "date_modified": "2017-03-24T11:04:26.970320Z",
+  "type": "010combined",
+  "sha1": "eeb210b1fc38da13ad6f788c3e721e1d5b8a89dc",
+  "page_count": 1,
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/01-1411A-01A.pdf",
+  "local_path": "pdf/2002/05/22/Hochen_v._Bobst_Group_Inc..pdf",
+  "plain_text": "          United States Court of Appeals\n                      For the First Circuit\n\nNo. 01-1411\n\n                            PAUL NYER,\n\n                            Appellant,\n\n                                 v.\n\n                    WINTERTHUR INTERNATIONAL,\n\n                             Appellee.\n\n\nISMAR HOCHEN, AS ADMINISTRATOR OF THE ESTATE OF ISMAEL HOCHEN;\nRICHARD DUFAULT; CHRISTINE DUFAULT, INDIVIDUALLY AND AS MOTHER AND\n      NEXT FRIEND OF RICHARD DUFAULT, JR.; LEAH DUFAULT,\n\n                            Plaintiffs,\n\n                                v.\n\n                        BOBST GROUP, INC.,\n\n                            Defendant.\n\n\n                               ERRATA\n\n     The opinion of this court issued May 16, 2002, should be amended\n\nas follows:\n\n     On page 3, line 23, replace \"defendants\" with \"plaintiffs\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

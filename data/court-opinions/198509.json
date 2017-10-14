@@ -1,0 +1,25 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/198509/",
+  "absolute_url": "/opinion/198509/united-states-v-de-la-cruz-moya/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/198509/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T03:53:41Z",
+  "date_modified": "2017-03-24T10:57:30.654476Z",
+  "type": "010combined",
+  "sha1": "c99a65bbda77715c1428be22d136a92319ac4af6",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/cgi-bin/getopn.pl?OPINION=99-1199.01A",
+  "local_path": null,
+  "plain_text": "     [NOT FOR PUBLICATION NOT TO BE CITED AS PRECEDENT]\r\n               United States Court of Appeals\r\n                   For the First Circuit\r\n\nNo. 99-1199\r\n\n                        UNITED STATES,\r\n\n                          Appellee,\r\n\n                              v.\r\n\n                JUAN ANTONIO DE LA CRUZ MOYA,\r\n\n                    Defendant, Appellant.\r\n\n         APPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\n               FOR THE DISTRICT OF PUERTO RICO\r\n\n      [Hon. Juan M. Perez-Gimenez, U.S. District Judge]\r\n\n                            Before\r\n\n                   Torruella, Chief Judge,\r\n              Campbell, Senior Circuit Judge,\r\n                 and Lynch, Circuit Judge.\r\n\n   Lawrence H. Schoenbach and Marc X. LoPresti on brief for\r\nappellant.\r\n   Guillermo Gil, United States Attorney, Jorge E. Vega-Pacheco,\r\nAssistant United States Attorney, and Michelle Morales, Assistant\r\nUnited States Attorney, on brief for appellee.\r\n\nJune 7, 1999\r\n\n          Per Curiam.  Upon careful review of the briefs and\r\nrecord, we conclude that the district court properly denied\r\ndefendant's motion to dismiss the indictment.  We reach this\r\nconclusion essentially for the reasons stated in the district\r\ncourt's Opinion and Order dated January 12, 1999.  Defendant\r\nfailed to produce even \"some evidence tending to prove that .\r\n. . one sovereign was a pawn of the other.\"  United States v.\r\nGuzman, 85 F.3d 823, 827 (1st Cir. 1996).\r\n          Affirmed.  See 1st Cir. Loc. R. 27.1.\r\n",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<pre class=\"inline\">     [NOT FOR PUBLICATION NOT TO BE CITED AS PRECEDENT]\r\n               United States Court of Appeals\r\n                   For the First Circuit\r\n\nNo. 99-1199\r\n\n                        UNITED STATES,\r\n\n                          Appellee,\r\n\n                              v.\r\n\n                JUAN ANTONIO DE LA CRUZ MOYA,\r\n\n                    Defendant, Appellant.\r\n\n         APPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\n               FOR THE DISTRICT OF PUERTO RICO\r\n\n      [Hon. Juan M. Perez-Gimenez, U.S. District Judge]\r\n\n                            Before\r\n\n                   Torruella, Chief Judge,\r\n              Campbell, Senior Circuit Judge,\r\n                 and Lynch, Circuit Judge.\r\n\n   Lawrence H. Schoenbach and Marc X. LoPresti on brief for\r\nappellant.\r\n   Guillermo Gil, United States Attorney, Jorge E. Vega-Pacheco,\r\nAssistant United States Attorney, and Michelle Morales, Assistant\r\nUnited States Attorney, on brief for appellee.\r\n\nJune 7, 1999\r\n\n          Per Curiam.  Upon careful review of the briefs and\r\nrecord, we conclude that the district court properly denied\r\ndefendant's motion to dismiss the indictment.  We reach this\r\nconclusion essentially for the reasons stated in the district\r\ncourt's Opinion and Order dated January 12, 1999.  Defendant\r\nfailed to produce even \"some evidence tending to prove that .\r\n. . one sovereign was a pawn of the other.\"  United States v.\r\nGuzman, </pre><span class=\"citation\" data-id=\"196808\"><a href=\"/opinion/196808/united-states-v-guzman-rivera/\"><span class=\"volume\">85</span> <span class=\"reporter\">F.3d</span> <span class=\"page\">823</span></a></span><pre class=\"inline\">, 827 (1st Cir. 1996).\r\n          Affirmed.  See 1st Cir. Loc. R. 27.1.\r\n</pre>",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/196808/"
+  ]
+}

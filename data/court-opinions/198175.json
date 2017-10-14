@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/198175/",
+  "absolute_url": "/opinion/198175/united-states-v-moro-hernandez/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/198175/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T03:47:07Z",
+  "date_modified": "2017-03-24T10:54:58.758949Z",
+  "type": "010combined",
+  "sha1": "b300f0500fee4be616f1b2aaa3c9b463747dc5a0",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/cgi-bin/getopn.pl?OPINION=98-1713.01A",
+  "local_path": null,
+  "plain_text": "  [NOT FOR PUBLICATION--NOT TO BE CITED AS PRECEDENT]\r\n             United States Court of Appeals\r\n                 For the First Circuit\r\n\nNo. 98-1713\r\n\n                      UNITED STATES,\r\n\n                        Appellee,\r\n\n                            v.\r\n\n                   LUIS MORO-HERNANDEZ,\r\n\n                  Defendant, Appellant.\r\n\n       APPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\n             FOR THE DISTRICT OF PUERTO RICO\r\n\n     [Hon. Daniel R. Domnguez, U.S. District Judge]\r\n\n                          Before\r\n\n                  Stahl, Circuit Judge,\r\n             Coffin, Senior Circuit Judge,\r\n               and Lipez, Circuit Judge.\r\n\n Edgar R. Vega Pabon on brief for appellant.\r\n Guillermo Gil, United States Attorney, Jose A. Quiles-\r\nEspinosa, Senior Litigation Counsel, and Camille Velez-Rive,\r\nAssistant United States Attorney, on brief for appellee.\r\n\nOctober 19, 1998\r\n\n                                      Per Curiam.  Upon careful review of the briefs and\r\nrecord, we conclude that the district court properly\r\ninterpreted U.S.S.G.  4A1.1(d) in calculating defendant's\r\ncriminal history category.  \r\n          Defendant's prior diversionary disposition was\r\nproperly \"counted as a sentence\" under  4A1.2(f).  It follows\r\nthat the diversionary disposition was \"a sentence countable\r\nunder  4A1.2.\"  Therefore the diversionary disposition was a\r\n\"criminal justice sentence\" for purposes of  4A1.1(d),\r\napplication note 4.  We find no merit in defendant's argument\r\nthat the plain words of the application note should be read\r\notherwise.  And because the instant offense was committed while\r\ndefendant was under that diversionary disposition, the district\r\ncourt properly applied  4A1.1(d) to add two points to\r\ndefendant's criminal history score.\r\n          Affirmed.  See 1st Cir. Loc. R. 27.1.\n",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

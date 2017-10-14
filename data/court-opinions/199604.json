@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/199604/",
+  "absolute_url": "/opinion/199604/state-of-ri-v-env-tech/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/199604/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:34:41Z",
+  "date_modified": "2017-03-24T11:02:29.415610Z",
+  "type": "010combined",
+  "sha1": "7c2b3378b9c4347c31620faa20469226f38fa18f",
+  "page_count": 1,
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/00-1234A-01A.pdf",
+  "local_path": "pdf/2001/09/20/State_of_RI_v._Env._Tech..pdf",
+  "plain_text": "           United States Court of Appeals\n                       For the First Circuit\n\nNo. 00-1234, 00-1342, 00-1343, 00-1344, 00-1345, 00-1399, 00-1400, 00-\n1401, 00-1402, 00-1403, 00-1404\n\n                     UNITED STATES OF AMERICA,\n\n                        Plaintiff, Appellee,\n\n                                  v.\n\n                     WILLIAM M. DAVIS, et al.,\n\n                        Defendant, Appellee.\n                        ________________________\n\n                ASHLAND, INC., et al., Appellant.\n\n\n                            ERRATA SHEET\n\n     The opinion of this court issued on August 17, 2001, is amended\nas follows:\n\n     On the cover sheets of Volumes I and II, the following should be\nadded as a fourth paragraph under listed counsel:\n\n     Mark O. Denehy, Joseph Avanzato, and Adler Pollock & Sheehan P.C.,\non the brief for appellees BASF Corporation, CNA Holdings, Inc., Dorr-\nOliver Incorporated; Englehard Corporation, Johnson & Johnson, Lucent\nTechnologies, Inc., Mine Safety Appliances Company, Ortho Diagnostics\nSystems, Inc., Ortho Pharmaceutical Corporation, Permacel, Inc.,\nQuantum, Inc., and Warner-Lambert Company.\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

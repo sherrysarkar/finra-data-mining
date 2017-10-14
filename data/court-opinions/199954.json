@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/199954/",
+  "absolute_url": "/opinion/199954/bienkowski-v-northeastern/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/199954/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:40:53Z",
+  "date_modified": "2017-03-24T11:04:26.765944Z",
+  "type": "010combined",
+  "sha1": "c8734e147227e358182477a8b729e8f48ee81cd3",
+  "page_count": 1,
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/01-1980A-01A.pdf",
+  "local_path": "pdf/2002/05/10/Bienkowski_v._Northeastern.pdf",
+  "plain_text": "              United States Court of Appeals\n                       For the First Circuit\n\n\n\n\nNo. 01-1980\n\n                KAREN LYNN BIENKOWSKI, DAVID EBERLE,\n                 DELIA ANN HOYE AND EDWARD MCDONALD,\n\n                       Plaintiffs, Appellees,\n\n                                 v.\n                      NORTHEASTERN UNIVERSITY,\n                       Defendant, Appellant.\n\n\n\n\n                            ERRATA SHEET\n\n\n     The opinion of this Court issued on April 8, 2002, is amended\nas follows:\n\n\n     On p.8, line 10: replace \"Once\" with \"One\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

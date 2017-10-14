@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/199849/",
+  "absolute_url": "/opinion/199849/harrington-v-chao/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/199849/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:38:47Z",
+  "date_modified": "2017-03-24T11:03:35.134867Z",
+  "type": "010combined",
+  "sha1": "999ba3e52f60825c5bc5b4c81a7aad802b977e40",
+  "page_count": 1,
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/01-1577A-01A.pdf",
+  "local_path": "pdf/2002/02/26/Harrington_v._Chao.pdf",
+  "plain_text": "      United States Court of Appeals\n                    For the First Circuit\nNo. 01-1577\n\n           THOMAS J. HARRINGTON, RICHARD S. NEVILLE,\n       THOMAS FORDHAM, JOHN A. BIGGINS, MARK J. DURKIN,\n\n                    Plaintiffs, Appellants,\n\n                              v.\n\n              ELAINE L. CHAO, SECRETARY OF LABOR,\n                   U.S. DEPARTMENT OF LABOR,\n\n                     Defendant, Appellee.\n\n\n\n                         ERRATA SHEET\n\n     The opinion of this court, issued February 19, 2002,\nshould be amended as follows:\n\np 14, fn 9: change \"Uniion\" to \"Union\"\n\np 16, last line: change \"nor\" to \"or\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

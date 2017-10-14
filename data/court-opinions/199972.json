@@ -1,0 +1,26 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/199972/",
+  "absolute_url": "/opinion/199972/united-states-v-riggs/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/199972/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:41:10Z",
+  "date_modified": "2017-03-24T11:04:27.100367Z",
+  "type": "010combined",
+  "sha1": "a0d1e3a1b1abbded5f270fb7d9b105605d3ebcfc",
+  "page_count": 1,
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/00-2460A-01A.pdf",
+  "local_path": "pdf/2002/05/22/US_v._Riggs.pdf",
+  "plain_text": "              United States Court of Appeals\n                         For the First Circuit\n\n\n\n\nNo. 00-2460\n\n                    UNITED STATES OF AMERICA,\n\n                              Appellee,\n\n                                  v.\n\n                       JAMES R. RIGGS, JR.,\n\n                       Defendant, Appellant.\n\n\n\n                            ERRATA SHEET\n\n\n     The opinion of this Court issued on April 24, 2002, is amended as\nfollows:\n\n     The final paragraph of the opinion should be replaced with the\nfollowing text:\n\n     As a result of the government's breach of the plea\n     agreement, exacerbated by defense counsel's performance, we\n     vacate the sentence and remand the case for further\n     proceedings. Whether specific performance or an opportunity\n     to withdraw the guilty plea is the appropriate remedy is a\n     matter to be considered in the district court. If specific\n     performance is ordered, we refer the court to our admonition\n     in previous cases that in these circumstances resentencing\n     ordinarily ought to be done by a different district judge.\n     See, e.g., United States v. Kurkculer, 918 F.2d 295, 298\n     (1st Cir. 1990) (citing Santobello v. New York, 404 U.S.\n     257, 263 (1971)).\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<pre class=\"inline\">              United States Court of Appeals\n                         For the First Circuit\n\n\n\n\nNo. 00-2460\n\n                    UNITED STATES OF AMERICA,\n\n                              Appellee,\n\n                                  v.\n\n                       JAMES R. RIGGS, JR.,\n\n                       Defendant, Appellant.\n\n\n\n                            ERRATA SHEET\n\n\n     The opinion of this Court issued on April 24, 2002, is amended as\nfollows:\n\n     The final paragraph of the opinion should be replaced with the\nfollowing text:\n\n     As a result of the government's breach of the plea\n     agreement, exacerbated by defense counsel's performance, we\n     vacate the sentence and remand the case for further\n     proceedings. Whether specific performance or an opportunity\n     to withdraw the guilty plea is the appropriate remedy is a\n     matter to be considered in the district court. If specific\n     performance is ordered, we refer the court to our admonition\n     in previous cases that in these circumstances resentencing\n     ordinarily ought to be done by a different district judge.\n     See, e.g., United States v. Kurkculer, </pre><span class=\"citation\" data-id=\"551279\"><a href=\"/opinion/551279/united-states-v-ismail-kurkculer-aka-george-murphy/\"><span class=\"volume\">918</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">295</span></a></span><pre class=\"inline\">, 298\n     (1st Cir. 1990) (citing Santobello v. New York, </pre><span class=\"citation\" data-id=\"108416\"><a href=\"/opinion/108416/santobello-v-new-york/\"><span class=\"volume\">404</span> <span class=\"reporter\">U.S.</span>\n     <span class=\"page\">257</span></a></span><pre class=\"inline\">, 263 (1971)).\n\f</pre>",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/108416/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/551279/"
+  ]
+}

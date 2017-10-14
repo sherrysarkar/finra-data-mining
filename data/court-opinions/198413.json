@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/198413/",
+  "absolute_url": "/opinion/198413/wright-v-ouellette-ins/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/198413/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T03:51:55Z",
+  "date_modified": "2017-03-24T10:56:52.345010Z",
+  "type": "010combined",
+  "sha1": "944d4ca77f4473d6217ad1693cd3f96855885395",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/cgi-bin/getopn.pl?OPINION=97-2064A.01A",
+  "local_path": null,
+  "plain_text": "       United States Court of Appeals\r\n           For the First Circuit\r\n\nNo. 97-2064\r\n\n                JOSHUA WRIGHT,\r\n\n            Petitioner, Appellant,\r\n\n                      v.\r\n\n JEAN R. OUELLETTE, ACTING DISTRICT DIRECTOR,\r\n   IMMIGRATION AND NATURALIZATION SERVICE,\r\n\n            Respondent, Appellee.\r\n\n                ERRATA SHEET\r\n\nThe opinion of this Court issued on March 19, 1999, is\r\namended as follows:\r\n\nThe penultimate sentence of the opinion, located on page 11,\r\nshould read as follows:\r\n\nThis case, thus, does not involve a problem of\r\nretroactivity, and the district court's dismissal of\r\nWright's petition for habeas corpus is affirmed and the\r\nstay of deportation is vacated.\n",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

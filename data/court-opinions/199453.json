@@ -1,0 +1,33 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/199453/",
+  "absolute_url": "/opinion/199453/united-states-v-sharpton/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/199453/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:30:59Z",
+  "date_modified": "2017-03-24T11:02:00.915233Z",
+  "type": "010combined",
+  "sha1": "109571e0d5340911062fb07acc22be42246b01c5",
+  "page_count": 2,
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/01-1780A-01A.pdf",
+  "local_path": "pdf/2001/06/14/US_v._Sharpton_1.pdf",
+  "plain_text": "        United States Court of Appeals\n               For the First Circuit\n\nNo. 01-1780\n\n              UNITED STATES OF AMERICA,\n\n                      Appellee,\n\n                         v.\n\n                  ALFRED SHARPTON,\n\n                Defendant, Appellant.\n\n\nNo. 01-1781\n\n              UNITED STATES OF AMERICA,\n\n                      Appellee,\n\n                         v.\n\n                   ADOLFO CARRIÓN,\n\n                Defendant, Appellant.\n\n\nNo. 01-1782\n\n              UNITED STATES OF AMERICA,\n\n                      Appellee,\n\n                         v.\n\n                  ROBERTO RAMÍREZ,\n\n                Defendant, Appellant.\n\fNo. 01-1783\n\n                UNITED STATES OF AMERICA,\n\n                        Appellee,\n\n                            v.\n\n                       JOSÉ RIVERA,\n\n                  Defendant, Appellant.\n\n\n\n\n                          ERRATA\n\n          The opinion of this court, issued June 14, 2001,\nshould be amended as follows:\n\n          On page 2, the following lines are to be inserted\nafter the listing of counsel for appellants:\n\n          \"Elaine R. Jones, Theodore M. Shaw, Norman J.\nChachkin, and James L. Cott on brief for NAACP Legal Defense &\nEducational Fund, Inc., amicus curiae.\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/199478/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/199733/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/199741/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/199793/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/199946/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/200154/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/622781/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/775955/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/775958/"
+  ]
+}

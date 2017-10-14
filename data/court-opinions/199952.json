@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/199952/",
+  "absolute_url": "/opinion/199952/new-england-regional-v-ma-port-authority/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/199952/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:40:51Z",
+  "date_modified": "2017-03-24T11:04:26.758856Z",
+  "type": "010combined",
+  "sha1": "8ecdcf47eab8b91569b6e4ccfb7d7eb840c0ca8f",
+  "page_count": 1,
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/00-2398A-01A.pdf",
+  "local_path": "pdf/2002/05/10/New_England_Regional_v._MA_Port_Authority.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\n\nNos. 00-2398\n     01-1977\n\n           NEW ENGLAND REGIONAL COUNCIL OF CARPENTERS,\n\n                      Plaintiff, Appellant,\n\n                                v.\n\n                  THOMAS J. KINTON, JR. ET AL.,\n\n                     Defendants, Appellees.\n\n\n                           ERRATA SHEET\n\n     The opinion of this    Court    issued   on   March   19,   2002   is\ncorrected as follows:\n\n     On page 42, line 17, insert the following footnote after\nAvenue:\n\n         We read the amended regulations to apply to\n         the stretch of Northern Avenue running between\n         B and D streets (roughly a city block), which\n         stretch contains the WTC.     Throughout, our\n         discussion of the amended regulations and our\n         holding concerning leafletting are limited by\n         that understanding of the geography. If, on\n         remand, it appears that Massport controls\n         sidewalks adjacent to other portions of\n         Northern Avenue, then the district court is\n         free to entertain challenges to whatever\n         permit requirement(s) Massport may seek to\n         impose in such locations.\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

@@ -1,0 +1,25 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/199818/",
+  "absolute_url": "/opinion/199818/united-states-v-castro/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/199818/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:38:10Z",
+  "date_modified": "2017-03-24T11:03:31.531064Z",
+  "type": "010combined",
+  "sha1": "a605ccd1448950b23a5def77579229bf28543da7",
+  "page_count": 1,
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/01-1850A-01A.pdf",
+  "local_path": "pdf/2002/02/07/US_v._Castro.pdf",
+  "plain_text": "         United States Court of Appeals\n                    For the First Circuit\n                     ____________________\n\nNo. 01-1850\n\n\n                  UNITED STATES OF AMERICA,\n\n                          Appellee,\n\n                              v.\n\n                       ANTHONY CASTRO,\n\n                    Defendant, Appellant.\n\n                     ____________________\n\n                        ERRATA SHEET\n\n          The opinion of this court, issued February 4, 2002,\nshould be amended as follows:\n\n          On page 3, line 19, insert the word \"to\" before the\nword \"find\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/150187/"
+  ]
+}

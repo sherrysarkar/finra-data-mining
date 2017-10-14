@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/198045/",
+  "absolute_url": "/opinion/198045/birch-v-choinski/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/198045/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T03:44:09Z",
+  "date_modified": "2017-03-24T10:54:18.222243Z",
+  "type": "010combined",
+  "sha1": "ca38a6c330dd079610459ed28fa10106b219e175",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/cgi-bin/getopn.pl?OPINION=98-9001.01A",
+  "local_path": null,
+  "plain_text": "  [NOT FOR PUBLICATION--NOT TO BE CITED AS PRECEDENT]\r\n             United States Court of Appeals\r\n                 For the First Circuit\r\n\nMisc. No. 98-9001\r\n\n    IN RE: EDWARD J. CHOINSKI AND MILDRED B. CHOINSKI,\r\n\n                         Debtors.\r\n\n                   RICHARD J. BIRCH,\r\n\n                       Appellant,\r\n\n                           v.\r\n\n              EDWARD J. CHOINSKI, ET AL.,\r\n\n                       Appellees.\r\n\nAPPEAL FROM THE UNITED STATES BANKRUPTCY APPELLATE PANEL\r\nOF THE FIRST CIRCUIT            \r\n\n                         Before\r\n\n                  Selya, Circuit Judge,\r\n            Campbell, Senior Circuit Judge,\r\n               and Boudin, Circuit Judge.\r\n\n Richard J. Birch on brief pro se.\r\n Richard S. Hackel on brief for debtors/appellees Edward J.\r\nChoinski and Mildred B. Choinski.\r\n\nJuly 6, 1998\r\n\n                                 Per Curiam.  Upon careful review of the briefs and\r\nrecord, we conclude that this appeal has no merit.  We reach\r\nthis conclusion essentially for the reasons stated by the\r\nBankruptcy Appellate Panel in its memorandum of decision dated\r\nNovember 18, 1997:  appellant waived any appellate claim about\r\nthe form of the bankruptcy court proceedings, and in any event\r\nwe perceive no abuse of the bankruptcy court's discretion in\r\nthat regard; appellant has no standing to pursue the substance\r\nof the claim that he previously assigned to the corporation's\r\nbankruptcy trustee; and the bankruptcy court properly dismissed\r\nappellant's remaining claims under Massachusetts law.\r\n          Affirmed.  See 1st Cir. Loc. R. 27.1.\n",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

@@ -1,0 +1,25 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/198508/",
+  "absolute_url": "/opinion/198508/bartle-v-palmas/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/198508/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T03:53:39Z",
+  "date_modified": "2017-03-24T10:57:30.644147Z",
+  "type": "010combined",
+  "sha1": "aaad1f4d51b15c92d6816afb66cd4ff7973b1267",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/cgi-bin/getopn.pl?OPINION=98-2275.01A",
+  "local_path": null,
+  "plain_text": "[NOT FOR PUBLICATION NOT TO BE CITED AS PRECEDENT]\r\nUnited States Court of Appeals\r\n    For the First Circuit\r\n\nNo. 98-2275\r\n\n        ANNETTE BARTLE,\r\n\n      Plaintiff, Appellee,\r\n\n               v.\r\n\nPALMAS DEL MAR RESORT, MAXXAM CORPORATION, MAXXAM\r\nPROPERTIES, INC., REX RESORTS, ROE CORPORATION 96CV1050 AND\r\n       ABC INSURANCE CO.,\r\n\n          Defendants,\r\n                          \r\n\nPALMAS DEL MAR PROPERTIES, INC.,\r\n\n     Defendant, Appellant.\r\n\nAPPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\nFOR THE DISTRICT OF PUERTO RICO\r\n\n[Hon. Salvador E. Casellas, U.S. District Judge]\r\n\n             Before\r\n\n    Torruella, Chief Judge,\r\nCampbell, Senior Circuit Judge,\r\n  and Lynch, Circuit Judge.\r\n\nFernando D. Castro and Goldman, Antonetti &amp; Cordova on brief\r\nfor appellant.\r\n\nJune 7, 1999\r\n\nPer Curiam.  Upon careful review of defendants' brief and the\r\nrecord, we conclude that the district court did not abuse its\r\ndiscretion in dismissing without prejudice, notwithstanding\r\ndefendants' motions for dismissal with prejudice.  See Puerto Rico\r\nMaritime Shipping Authority v. Leith, 668 F.2d 46, 49-51 (1st Cir.\r\n1981).  The district court was not required in all the\r\ncircumstances of this case to award fees and costs to defendants,\r\neven were we to assume that they sufficiently asked the district\r\ncourt for such awards.  See id. at 51.  And the district court\r\ncorrectly determined that defendants presented no grounds for\r\namendment of the judgment under Fed. R. Civ. P. 59(e).\r\nAffirmed.  See 1st Cir. Loc. R. 27.1.\n",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<pre class=\"inline\">[NOT FOR PUBLICATION NOT TO BE CITED AS PRECEDENT]\r\nUnited States Court of Appeals\r\n    For the First Circuit\r\n\nNo. 98-2275\r\n\n        ANNETTE BARTLE,\r\n\n      Plaintiff, Appellee,\r\n\n               v.\r\n\nPALMAS DEL MAR RESORT, MAXXAM CORPORATION, MAXXAM\r\nPROPERTIES, INC., REX RESORTS, ROE CORPORATION 96CV1050 AND\r\n       ABC INSURANCE CO.,\r\n\n          Defendants,\r\n                          \r\n\nPALMAS DEL MAR PROPERTIES, INC.,\r\n\n     Defendant, Appellant.\r\n\nAPPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\nFOR THE DISTRICT OF PUERTO RICO\r\n\n[Hon. Salvador E. Casellas, U.S. District Judge]\r\n\n             Before\r\n\n    Torruella, Chief Judge,\r\nCampbell, Senior Circuit Judge,\r\n  and Lynch, Circuit Judge.\r\n\nFernando D. Castro and Goldman, Antonetti &amp; Cordova on brief\r\nfor appellant.\r\n\nJune 7, 1999\r\n\nPer Curiam.  Upon careful review of defendants' brief and the\r\nrecord, we conclude that the district court did not abuse its\r\ndiscretion in dismissing without prejudice, notwithstanding\r\ndefendants' motions for dismissal with prejudice.  See Puerto Rico\r\nMaritime Shipping Authority v. Leith, </pre><span class=\"citation\" data-id=\"398640\"><a href=\"/opinion/398640/puerto-rico-maritime-shipping-authority-v-robert-leith-and-puerto-rico/\"><span class=\"volume\">668</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">46</span></a></span><pre class=\"inline\">, 49-51 (1st Cir.\r\n1981).  The district court was not required in all the\r\ncircumstances of this case to award fees and costs to defendants,\r\neven were we to assume that they sufficiently asked the district\r\ncourt for such awards.  See id. at 51.  And the district court\r\ncorrectly determined that defendants presented no grounds for\r\namendment of the judgment under Fed. R. Civ. P. 59(e).\r\nAffirmed.  See 1st Cir. Loc. R. 27.1.\n</pre>",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/398640/"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/198371/",
+  "absolute_url": "/opinion/198371/smith-v-fishbeir/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/198371/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T03:51:12Z",
+  "date_modified": "2017-03-24T10:56:39.409474Z",
+  "type": "010combined",
+  "sha1": "79372c35e9a2adeab72722515a2ff74c33b19597",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/cgi-bin/getopn.pl?OPINION=98-1367.01A",
+  "local_path": null,
+  "plain_text": "[NOT FOR PUBLICATION--NOT TO BE CITED AS PRECEDENT]\r\nUnited States Court of Appeals\r\nFor the First Circuit\r\n           No. 98-1367\r\n\n   LESTER L. SMITH,\r\n\nPlaintiff, Appellant,\r\n\n          v.\r\n\nJOSHUA FISHBEIR, ET AL.,\r\n\nDefendants, Appellees.\r\n                     \r\n\nNo. 98-1858\r\n\nLESTER L. SMITH, JR.,\r\n\nPlaintiff, Appellant,\r\n\n          v.\r\n\nARGEO PAUL CELLUCCI, ETC., ET AL.,\r\n\nDefendants, Appellees.\r\n\nAPPEALS FROM THE UNITED STATES DISTRICT COURT\r\n\nFOR THE DISTRICT OF MASSACHUSETTS\r\n\n[Hon. Patti B. Saris, U.S. District Judge]\r\n\n        Before\r\n\nBoudin, Circuit Judge,\r\nBownes, Senior Circuit Judge,\r\nand Lynch, Circuit Judge. \r\n\nLester L. Smith on brief pro se.\r\nStephen A. Jonas and Hale and Dorr LLP on brief for appellee Mollie Wilson.\r\n\nMarch 11, 1999\r\n\nPer Curiam.  Having carefully reviewed the judgment\r\nin light of the briefs on appeal, the pleadings and the record\r\nbelow, we agree with the district court's conclusion that\r\nappellant's two complaints lack an arguable basis in law.  The\r\ncomplaints were properly dismissed under 28 U.S.C.  1915(e).\r\nAffirmed.  See Loc. R. 27.1.  \r\n",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

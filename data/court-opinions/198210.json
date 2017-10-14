@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/198210/",
+  "absolute_url": "/opinion/198210/united-states-v-hernandez/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/198210/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T03:47:48Z",
+  "date_modified": "2017-03-24T10:55:07.741279Z",
+  "type": "010combined",
+  "sha1": "81d8286db81d801426b1275a7525997c874d3141",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/cgi-bin/getopn.pl?OPINION=98-1184.01A",
+  "local_path": null,
+  "plain_text": "  [NOT FOR PUBLICATION--NOT TO BE CITED AS PRECEDENT]\r\n             United States Court of Appeals\r\n                 For the First Circuit\r\n\nNo. 98-1184\r\n\n                      UNITED STATES,\r\n\n                   Plaintiff, Appellee,\r\n\n                            v.\r\n\n                     PABLO HERNANDEZ,\r\n\n                  Defendant, Appellant.\r\n                                      \r\n\n               JORGE E. RODRIGUEZ, ET AL.,\r\n\n                  Defendants, Appellees.\r\n\n       APPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\n             FOR THE DISTRICT OF PUERTO RICO\r\n\n      [Hon. Hector M. Laffitte, U.S. District Judge]\r\n\n                          Before\r\n\n                 Torruella, Chief Judge,\r\n           Boudin and Lipez, Circuit Judges.\r\n\n Pablo Hernandez on brief pro se.\r\n Guillermo Gil, United States Attorney and Isabel Munoz Acosta,\r\nAssistant U.S. Attorney on brief for appellee.\r\n\nNovember 16, 1998\r\n\n        Per Curiam. We have reviewed carefully the record in\r\nthis case, including the briefs of the parties and the opinion\r\nof the district court.  United States v. Hernandez, 979 F.\r\nSupp. 70 (D.P.R. 1997). We find no clear error in the\r\ndetermination that appellant's houseboat was a permanently\r\nmoored vessel for purposes of the Rivers and Harbors Act and\r\nthus required a mooring permit from the Army Corps of Engineers\r\nto remain in La Parguera.  Furthermore, essentially for the\r\nreasons given by the district court in its opinion, we find no\r\nabuse of discretion in the decision by the Army Corps of\r\nEngineers to deny appellant a mooring permit due to\r\nenvironmental considerations.  Therefore, the district court\r\norder granting the government's request for injunctive relief\r\nis affirmed.  \r\n          Affirmed.  See Loc. R. 27.1.\n",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

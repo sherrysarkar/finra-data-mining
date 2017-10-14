@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/198480/",
+  "absolute_url": "/opinion/198480/beatty-v-machines-corp/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/198480/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T03:53:11Z",
+  "date_modified": "2017-03-24T10:57:15.604804Z",
+  "type": "010combined",
+  "sha1": "ebe13b79f84deefd1c80ef8f5c45bc18f99f5262",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/cgi-bin/getopn.pl?OPINION=98-1886A.01A",
+  "local_path": null,
+  "plain_text": "United States Court of Appeals\nFor the First Circuit\n\nNo. 98-1886\n\nKEVIN P. BEATTY AND CYNTHIA L. BEATTY,\n\nPlaintiffs, Appellants,\n\n           v.\n\nMICHAEL BUSINESS MACHINES CORP.,\n\n  Defendant, Appellee.\n\n     ERRATA SHEET\n\nThe opinion of this Court issued on April 20, 1999 is\namended as follows:\n\nOn Title Page - delete \"[Hon. David M. Cohen, U.S.     \nMagistrate Judge]\" and insert \"[Hon. Gene Carter, U.S.      \nDistrict Judge]\"\n",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

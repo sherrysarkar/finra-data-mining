@@ -1,0 +1,30 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/199966/",
+  "absolute_url": "/opinion/199966/cofske-v-united-states/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/199966/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:41:05Z",
+  "date_modified": "2017-03-24T11:04:26.893167Z",
+  "type": "010combined",
+  "sha1": "b97fe44b778df1e0882ac6a78b5f6e44f1f93ac6",
+  "page_count": 1,
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/00-2479A-01A.pdf",
+  "local_path": "pdf/2002/05/17/Cofske_v._US.pdf",
+  "plain_text": "          United States Court of Appeals\n                       For the First Circuit\n\n\nNo. 00-2479\n\n                         RANDALL J. COFSKE,\n\n                       Petitioner, Appellant,\n\n                                 v.\n\n                      UNITED STATES OF AMERICA,\n\n                        Respondent, Appellee.\n\n\n\n\n                               ERRATA\n\n     The opinion of this court issued May 13, 2002, should be\namended as follows:\n     On page 17, line 6, replace the phrase \"known at defense\n\ncounsel\" with the phrase \"known to defense counsel\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/200199/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/200223/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/201259/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/201536/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/201898/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/615293/"
+  ]
+}

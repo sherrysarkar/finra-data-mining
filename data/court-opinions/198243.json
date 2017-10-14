@@ -1,0 +1,26 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/198243/",
+  "absolute_url": "/opinion/198243/united-states-v-doe/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/198243/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T03:48:31Z",
+  "date_modified": "2017-03-24T10:55:11.519623Z",
+  "type": "010combined",
+  "sha1": "085dac937e964296a7bb9574c6cc110da6a15fab",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/cgi-bin/getopn.pl?OPINION=98-1273.01A",
+  "local_path": null,
+  "plain_text": " [NOT FOR PUBLICATION--NOT TO BE CITED AS PRECEDENT]\r\n            United States Court of Appeals\r\n                For the First Circuit\r\n\nNo. 98-1273\r\n\n                     UNITED STATES,\r\n\n                       Appellee,\r\n\n                           v.\r\n\n                     ARTHUR L. DOE,\r\n\n                 Defendant, Appellant.\r\n\n      APPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\n           FOR THE DISTRICT OF MASSACHUSETTS\r\n\n    [Hon. Reginald C. Lindsay, U.S. District Judge]\r\n\n                         Before\r\n\n               Torruella, Chief Judge,\r\n           Campbell, Senior Circuit Judge,\r\n              and Lipez, Circuit Judge. \r\n\nDiane L. Maldonado on brief for appellant.\r\nDonald K. Stern, United States Attorney and Jennifer Zacks,\r\nAssistant U.S. Attorney on brief for appellee.\r\n\nDECEMBER 9, 1998\r\n\nPer Curiam.  Upon careful review of the briefs and record, we\r\nconclude that the district court did not commit plain error in\r\nadmitting evidence of defendant's escape from pre-trial detention,\r\nsee United States v. Tracy, 989 F.2d 1279, 1285 (1st Cir. 1993), or\r\nin instructing the jury as to its discretion in weighing that\r\nevidence, see United States v. Hyson, 721 F.2d 856, 864 (1st Cir.\r\n1983).\r\nAffirmed.  See 1st Cir. Loc. R. 27.1.\r\n\n                          -2-\n",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<pre class=\"inline\"> [NOT FOR PUBLICATION--NOT TO BE CITED AS PRECEDENT]\r\n            United States Court of Appeals\r\n                For the First Circuit\r\n\nNo. 98-1273\r\n\n                     UNITED STATES,\r\n\n                       Appellee,\r\n\n                           v.\r\n\n                     ARTHUR L. DOE,\r\n\n                 Defendant, Appellant.\r\n\n      APPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\n           FOR THE DISTRICT OF MASSACHUSETTS\r\n\n    [Hon. Reginald C. Lindsay, U.S. District Judge]\r\n\n                         Before\r\n\n               Torruella, Chief Judge,\r\n           Campbell, Senior Circuit Judge,\r\n              and Lipez, Circuit Judge. \r\n\nDiane L. Maldonado on brief for appellant.\r\nDonald K. Stern, United States Attorney and Jennifer Zacks,\r\nAssistant U.S. Attorney on brief for appellee.\r\n\nDECEMBER 9, 1998\r\n\nPer Curiam.  Upon careful review of the briefs and record, we\r\nconclude that the district court did not commit plain error in\r\nadmitting evidence of defendant's escape from pre-trial detention,\r\nsee United States v. Tracy, </pre><span class=\"citation\" data-id=\"603771\"><a href=\"/opinion/603771/united-states-v-john-l-tracy-united-states-of-america-v-john-l-tracy/\"><span class=\"volume\">989</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">1279</span></a></span><pre class=\"inline\">, 1285 (1st Cir. 1993), or\r\nin instructing the jury as to its discretion in weighing that\r\nevidence, see United States v. Hyson, </pre><span class=\"citation\" data-id=\"427519\"><a href=\"/opinion/427519/united-states-v-robert-hyson-united-states-of-america-v-edward-ennis/\"><span class=\"volume\">721</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">856</span></a></span><pre class=\"inline\">, 864 (1st Cir.\r\n1983).\r\nAffirmed.  See 1st Cir. Loc. R. 27.1.\r\n\n                          -2-\n</pre>",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/427519/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/603771/"
+  ]
+}

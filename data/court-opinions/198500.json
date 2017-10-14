@@ -1,0 +1,25 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/198500/",
+  "absolute_url": "/opinion/198500/united-states-v-valdes/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/198500/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T03:53:31Z",
+  "date_modified": "2017-03-24T10:57:18.321417Z",
+  "type": "010combined",
+  "sha1": "6070c66f085c44c2205bec132b9202e771d85958",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/cgi-bin/getopn.pl?OPINION=98-2309.01A",
+  "local_path": null,
+  "plain_text": "  [NOT FOR PUBLICATION NOT TO BE CITED AS PRECEDENT]\r\n            United States Court of Appeals\r\n                For the First Circuit\r\n\nNo. 98-2309\r\n\n                     UNITED STATES,\r\n\n                       Appellee,\r\n\n                           v.\r\n\n             RIGOBERTO VALDES, a/k/a RIGO,\r\n\n                 Defendant, Appellant.\r\n\n      APPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\n            FOR THE DISTRICT OF PUERTO RICO\r\n\n   [Hon. Juan M. Perez-Gimenez, U.S. District Judge]\r\n\n                         Before\r\n\n                 Selya, Circuit Judge,\r\n            Bownes, Senior Circuit Judge,\r\n              and Stahl, Circuit Judge.\r\n\nRigoberto Valdes on brief pro se.\r\nGuillermo Gil, United States Attorney, Jorge E. Vega-Pacheco,\r\nAssistant United States Attorney, and Camille Velez-Rive, Assistant\r\nUnited States Attorney, on brief for appellee.\r\n\nMay 26, 1999\r\n\nPer Curiam.  We affirm the order denying appellant's motion to\r\nmodify his sentence.  Because appellant's minimum guideline\r\nsentence exceeded the statutory minimum mandatory sentence,\r\nappellant was not helped by 18 U.S.C.  3553(f).  Because amendment\r\n515, which added the two level reduction for offenders who satisfy\r\nthe five requirements set forth in  3553(f), is not retroactive,\r\nUnited States v. Sanchez, 81 F.3d 9, 12-13 (1st Cir.1995); U.S.S.G.\r\n1B1.10(c), appellant was not eligible for a sentence reduction. \r\nAffirmed.\n",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<pre class=\"inline\">  [NOT FOR PUBLICATION NOT TO BE CITED AS PRECEDENT]\r\n            United States Court of Appeals\r\n                For the First Circuit\r\n\nNo. 98-2309\r\n\n                     UNITED STATES,\r\n\n                       Appellee,\r\n\n                           v.\r\n\n             RIGOBERTO VALDES, a/k/a RIGO,\r\n\n                 Defendant, Appellant.\r\n\n      APPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\n            FOR THE DISTRICT OF PUERTO RICO\r\n\n   [Hon. Juan M. Perez-Gimenez, U.S. District Judge]\r\n\n                         Before\r\n\n                 Selya, Circuit Judge,\r\n            Bownes, Senior Circuit Judge,\r\n              and Stahl, Circuit Judge.\r\n\nRigoberto Valdes on brief pro se.\r\nGuillermo Gil, United States Attorney, Jorge E. Vega-Pacheco,\r\nAssistant United States Attorney, and Camille Velez-Rive, Assistant\r\nUnited States Attorney, on brief for appellee.\r\n\nMay 26, 1999\r\n\nPer Curiam.  We affirm the order denying appellant's motion to\r\nmodify his sentence.  Because appellant's minimum guideline\r\nsentence exceeded the statutory minimum mandatory sentence,\r\nappellant was not helped by 18 U.S.C.  3553(f).  Because amendment\r\n515, which added the two level reduction for offenders who satisfy\r\nthe five requirements set forth in  3553(f), is not retroactive,\r\nUnited States v. Sanchez, </pre><span class=\"citation\" data-id=\"715854\"><a href=\"/opinion/715854/united-states-v-angel-sanchez/\"><span class=\"volume\">81</span> <span class=\"reporter\">F.3d</span> <span class=\"page\">9</span></a></span><pre class=\"inline\">, 12-13 (1st Cir.1995); U.S.S.G.\r\n1B1.10(c), appellant was not eligible for a sentence reduction. \r\nAffirmed.\n</pre>",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/715854/"
+  ]
+}

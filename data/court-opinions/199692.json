@@ -1,0 +1,25 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/199692/",
+  "absolute_url": "/opinion/199692/united-states-v-rodriguez-cardona/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/199692/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:36:09Z",
+  "date_modified": "2017-03-24T11:02:53.744634Z",
+  "type": "010combined",
+  "sha1": "b30a5620435a0cc4519c57b290047a08c59c11df",
+  "page_count": 2,
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/01-1760-01A.pdf",
+  "local_path": "pdf/2001/11/21/US_v._Rodriguez_Cardona.pdf",
+  "plain_text": "      [NOT FOR PUBLICATION–NOT TO BE CITED AS PRECEDENT]\n\n         United States Court of Appeals\n                    For the First Circuit\n\n\nNo. 01-1760\n\n                        UNITED STATES,\n\n                          Appellee,\n\n                              v.\n\n                  OSVALDO RODRIGUEZ CARDONA,\n\n                    Defendant, Appellant.\n\n\n         APPEAL FROM THE UNITED STATES DISTRICT COURT\n\n               FOR THE DISTRICT OF PUERTO RICO\n\n        [Hon. Héctor M. Laffitte, U.S. District Judge]\n\n\n                            Before\n\n                    Torruella, Circuit Judge,\n                 Stahl, Senior Circuit Judge,\n                   and Lynch, Circuit Judge.\n\n\n\n     Osvaldo Rodriguez Cardona on brief pro se.\n     Guillermo Gil, United States Attorney, Jorge E. Vega-\nPacheco, Assistant United States Attorney, and Nelson Perez-\nSosa, Assistant United States Attorney, on brief for appellee.\n\n\n\n\n                      November 15, 2001\n\f         Per Curiam.         We have reviewed the parties' briefs\n\nand the record on appeal.           We affirm the district court's\n\ndenial of appellant's motion filed pursuant to 18 U.S.C. §\n\n3582(c)(2).    Section 3582(c)(2) pertains to a defendant who\n\nhas been sentenced to a term of imprisonment based on a\n\nsentencing    range   that    has   subsequently   been   lowered   by\n\namendment to the guidelines.         It is plainly inapplicable to\n\nappellant.    Moreover, appellant may not raise again an issue\n\nalready considered and rejected on his direct appeal.               See\n\nUnited States v. Rodriguez-Cardona, 924 F.2d 1148, 1154-57\n\n(1st Cir.), cert. denied, 502 U.S. 809 (1991).\n\n         Affirmed.\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<pre class=\"inline\">      [NOT FOR PUBLICATION–NOT TO BE CITED AS PRECEDENT]\n\n         United States Court of Appeals\n                    For the First Circuit\n\n\nNo. 01-1760\n\n                        UNITED STATES,\n\n                          Appellee,\n\n                              v.\n\n                  OSVALDO RODRIGUEZ CARDONA,\n\n                    Defendant, Appellant.\n\n\n         APPEAL FROM THE UNITED STATES DISTRICT COURT\n\n               FOR THE DISTRICT OF PUERTO RICO\n\n        [Hon. Héctor M. Laffitte, U.S. District Judge]\n\n\n                            Before\n\n                    Torruella, Circuit Judge,\n                 Stahl, Senior Circuit Judge,\n                   and Lynch, Circuit Judge.\n\n\n\n     Osvaldo Rodriguez Cardona on brief pro se.\n     Guillermo Gil, United States Attorney, Jorge E. Vega-\nPacheco, Assistant United States Attorney, and Nelson Perez-\nSosa, Assistant United States Attorney, on brief for appellee.\n\n\n\n\n                      November 15, 2001\n\f         Per Curiam.         We have reviewed the parties' briefs\n\nand the record on appeal.           We affirm the district court's\n\ndenial of appellant's motion filed pursuant to 18 U.S.C. §\n\n3582(c)(2).    Section 3582(c)(2) pertains to a defendant who\n\nhas been sentenced to a term of imprisonment based on a\n\nsentencing    range   that    has   subsequently   been   lowered   by\n\namendment to the guidelines.         It is plainly inapplicable to\n\nappellant.    Moreover, appellant may not raise again an issue\n\nalready considered and rejected on his direct appeal.               See\n\nUnited States v. Rodriguez-Cardona, </pre><span class=\"citation\" data-id=\"555433\"><a href=\"/opinion/555433/united-states-v-osvaldo-rodriguez-cardona-aka-valdo/\"><span class=\"volume\">924</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">1148</span></a></span><pre class=\"inline\">, 1154-57\n\n(1st Cir.), cert. denied, </pre><span class=\"citation no-link\"><span class=\"volume\">502</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">809</span></span><pre class=\"inline\"> (1991).\n\n         Affirmed.\n\f</pre>",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/555433/"
+  ]
+}

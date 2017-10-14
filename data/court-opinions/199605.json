@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/199605/",
+  "absolute_url": "/opinion/199605/sullivan-v-raytheon-company/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/199605/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:34:47Z",
+  "date_modified": "2017-03-24T11:02:29.416584Z",
+  "type": "010combined",
+  "sha1": "d239fbc65b7f8baac2ea1252b1543560225ff317",
+  "page_count": 1,
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/00-2551A-01A.pdf",
+  "local_path": "pdf/2001/09/20/Sullivan_v._Raytheon_Company.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\n\nNo. 00-2551\n\n                      DONALD E. SULLIVAN,\n\n                     Plaintiff, Appellant,\n\n                               v.\n\n                        RAYTHEON COMPANY,\n                 RAYTHEON DISABILITY TRUST, AND\n              METROPOLITAN LIFE INSURANCE COMPANY,\n\n                     Defendants, Appellees.\n\n\n                          ERRATA SHEET\n\n     The opinion of this court issued August 29, 2001 is amended\nas follows:\n\n     On page 13, line 23, replace “chapter 75B” with “section\n75B.”\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/198602/",
+  "absolute_url": "/opinion/198602/gibson-v-city-of-gardner/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/198602/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T03:55:33Z",
+  "date_modified": "2017-03-24T10:58:05.894350Z",
+  "type": "010combined",
+  "sha1": "c43bc2f16348a234d714242450d74cf851fbc1b8",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/cgi-bin/getopn.pl?OPINION=99-1217.01A",
+  "local_path": null,
+  "plain_text": "     [NOT FOR PUBLICATION NOT TO BE CITED AS PRECEDENT]\r\n               United States Court of Appeals\r\n                   For the First Circuit\r\n\nNo. 99-1217\r\n\n                    WALDO J. GIBSON, SR.,\r\n\n                    Plaintiff, Appellant,\r\n\n                              v.\r\n\n  CITY OF GARDNER; DENNIS COMEE; JAMES E. COPPOLA; JAMES E.\r\n  COPPOLA, JR.; CHARLES J. MANCA, individually and as Mayor;\r\n KATHLEEN LESNESKI; CALVIN BROOKS; JOHN GARSIDE, individually\r\n and as Health Director; DANIEL T. RAJECKI, individually and\r\n      and Sanitary Inspector; JOHN DOE, John Doe's 1-20,\r\n\n                    Defendants, Appellees.\r\n\n         APPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\n              FOR THE DISTRICT OF MASSACHUSETTS\r\n\n       [Hon. Nathaniel M. Gorton, U.S. District Judge]\r\n\n                            Before\r\n\n                  Selya, Boudin and Lynch,\r\n                      Circuit Judges.\r\n\n   Waldo J. Gibson, Sr. on brief pro se. \r\n\nAugust 11, 1999\r\n\n          Per Curiam.  We have reviewed the plaintiff-\r\nappellant's brief and the record on appeal.  We affirm\r\nessentially for the reasons stated in the district court's\r\norder, dated July 30, 1998, ruling on plaintiff's response to\r\nthe district court's show cause order.  The plaintiff has\r\nfailed adequately to demonstrate the existence of federal\r\njurisdiction.\r\n          Affirmed.  Loc. R. 27.1.\n",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

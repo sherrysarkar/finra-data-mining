@@ -1,0 +1,25 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/199531/",
+  "absolute_url": "/opinion/199531/cotter-v-city-of-boston/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/199531/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:32:15Z",
+  "date_modified": "2017-03-24T11:02:08.720182Z",
+  "type": "010combined",
+  "sha1": "1b8546e202714fb097375909eeadbb9fa0b2f592",
+  "page_count": 1,
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/00-1056A-01A.pdf",
+  "local_path": "pdf/2001/08/01/Cotter_v._City_of_Boston.pdf",
+  "plain_text": "         United States Court of Appeals\n                      For the First Circuit\n\n\nNo. 00-1056\n\n                    WINIFRED N. COTTER, ET AL.,\n\n                      Plaintiffs, Appellees,\n\n                                v.\n\n     MASSACHUSETTS ASSOCIATION OF MINORITY LAW ENFORCEMENT\nOFFICERS,\n               DENNIS A. WHITE and HAROLD WHITE,\n\n                 Proposed Intervenors, Appellants.\n                            __________\n\n              CITY OF BOSTON, JAMES J. HARTNETT, JR.,\n\n                      Defendants, Appellees.\n\n\n\n\n                              ERRATA\n\n\n    The opinion of this court issued on July 17, 2000, is\n\namended as follows:\n\n    On page 5, second full paragraph, line 8, replace the word\n\n\"restricts\" with the word \"restrict[]\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/200392/"
+  ]
+}

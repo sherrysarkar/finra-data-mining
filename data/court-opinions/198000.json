@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/198000/",
+  "absolute_url": "/opinion/198000/united-states-v-henson/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/198000/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T03:43:19Z",
+  "date_modified": "2017-03-24T10:54:02.737424Z",
+  "type": "010combined",
+  "sha1": "71a2cea2ca9ebdcdef37722de04f9584233e54ef",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/cgi-bin/getopn.pl?OPINION=97-2379.01A",
+  "local_path": null,
+  "plain_text": "  [NOT FOR PUBLICATION--NOT TO BE CITED AS PRECEDENT]\r\n\n             United States Court of Appeals\r\n                 For the First Circuit\r\n\nNo. 97-2379\r\n\n                      UNITED STATES,\r\n\n                        Appellee,\r\n\n                            v.\r\n\n                     KIRK A. HENSON,\r\n\n                  Defendant, Appellant.\r\n\n      APPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\n               FOR THE DISTRICT OF MAINE\r\n\n[Hon. Gene Carter, U.S. District Judge]\r\n\n                         Before\r\n\n                 Torruella, Chief Judge,\r\n             Coffin, Senior Circuit Judge,\r\n               and Stahl, Circuit Judge.\r\n\n William Maselli on brief for appellant.\r\n Jay P. McCloskey, United States Attorney, George T. Dilworthand F. Mark Terison, Assistant United States Attorneys, on brief\r\nfor appellee.\r\n\nJune 10, 1998\r\n\n        Per Curiam.  Upon careful review of the briefs and\r\nrecord, we perceive no merit in defendant's appellate\r\narguments:  \r\n          (1)  The factual findings supporting the suppression\r\nruling were not clearly erroneous, notwithstanding defendant's\r\ncontrary view of the circumstances of his inculpatory statement\r\nto his probation officer.  \r\n          (2)  The district court acted within its considerable\r\ndiscretion in limiting defendant's repetitious cross-\r\nexamination.  Any error in allowing into evidence the probation\r\nofficer's memorandum was harmless.  \r\n          (3)  The district court applied appropriate legal\r\nstandards in denying defendant's claims for downward departure. \r\nWe have no jurisdiction to review the discretionary bases of\r\nthose denials.\r\n          Affirmed.  See 1st Cir. Loc. R. 27.1.\n",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

@@ -1,0 +1,25 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/198499/",
+  "absolute_url": "/opinion/198499/paone-v-commissioner/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/198499/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T03:53:30Z",
+  "date_modified": "2017-03-24T10:57:18.218111Z",
+  "type": "010combined",
+  "sha1": "5323f1ff3592200c2c5b10a674596e55c4258b3c",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/cgi-bin/getopn.pl?OPINION=98-2148.01A",
+  "local_path": null,
+  "plain_text": "      [NOT FOR PUBLICATION NOT TO BE CITED AS PRECEDENT]\r\n                United States Court of Appeals\r\n                    For the First Circuit\r\n\nNo. 98-2148\r\n\n                         ENRICO PAONE,\r\n\n                          Petitioner,\r\n\n                               v.\r\n\n     COMMISSIONER, NEW HAMPSHIRE DEPARTMENT OF CORRECTIONS,\r\n\n                          Respondent.\r\n\n          APPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\n               FOR THE DISTRICT OF NEW HAMPSHIRE\r\n\n        [Hon. Steven J. McAuliffe, U.S. District Judge]\r\n\n                             Before\r\n\n                     Selya, Circuit Judge,\r\n                Bownes, Senior Circuit Judge,\r\n                  and Stahl, Circuit Judge.\r\n\n    Enrico Paone on brief pro se.\r\n    Philip T. McLaughlin, Attorney General, and Charles T. Putnam,\r\nSenior Assistant Attorney General, on brief for respondent.\r\n\nMay 27, 1999\r\n\n           Per Curiam.    Having carefully reviewed the summary\r\njudgment below in light of the record and the arguments on this\r\nappeal, we agree with the district court's conclusion that the\r\nNew Hampshire Supreme Court's decision was neither contrary to,\r\nnor an unreasonable application of, clearly established Federal\r\nlaw.  See 28 U.S.C.  2254(d)(1).  We add only that nothing in\r\nDoggett v. United States, 505 U.S. 647 (1992), compels a\r\ndifferent result on federal habeas review.  Substantially for\r\nthe reasons stated in the district court's well-reasoned\r\nopinion and order of September 3, 1998, the judgment is\r\naffirmed.   See Loc. R. 27.1.\r\n",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<pre class=\"inline\">      [NOT FOR PUBLICATION NOT TO BE CITED AS PRECEDENT]\r\n                United States Court of Appeals\r\n                    For the First Circuit\r\n\nNo. 98-2148\r\n\n                         ENRICO PAONE,\r\n\n                          Petitioner,\r\n\n                               v.\r\n\n     COMMISSIONER, NEW HAMPSHIRE DEPARTMENT OF CORRECTIONS,\r\n\n                          Respondent.\r\n\n          APPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\n               FOR THE DISTRICT OF NEW HAMPSHIRE\r\n\n        [Hon. Steven J. McAuliffe, U.S. District Judge]\r\n\n                             Before\r\n\n                     Selya, Circuit Judge,\r\n                Bownes, Senior Circuit Judge,\r\n                  and Stahl, Circuit Judge.\r\n\n    Enrico Paone on brief pro se.\r\n    Philip T. McLaughlin, Attorney General, and Charles T. Putnam,\r\nSenior Assistant Attorney General, on brief for respondent.\r\n\nMay 27, 1999\r\n\n           Per Curiam.    Having carefully reviewed the summary\r\njudgment below in light of the record and the arguments on this\r\nappeal, we agree with the district court's conclusion that the\r\nNew Hampshire Supreme Court's decision was neither contrary to,\r\nnor an unreasonable application of, clearly established Federal\r\nlaw.  See 28 U.S.C.  2254(d)(1).  We add only that nothing in\r\nDoggett v. United States, </pre><span class=\"citation\" data-id=\"112780\"><a href=\"/opinion/112780/doggett-v-united-states/\"><span class=\"volume\">505</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">647</span></a></span><pre class=\"inline\"> (1992), compels a\r\ndifferent result on federal habeas review.  Substantially for\r\nthe reasons stated in the district court's well-reasoned\r\nopinion and order of September 3, 1998, the judgment is\r\naffirmed.   See Loc. R. 27.1.\r\n</pre>",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/112780/"
+  ]
+}

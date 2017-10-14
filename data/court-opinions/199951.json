@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/199951/",
+  "absolute_url": "/opinion/199951/rhode-island-v-migliore/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/199951/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:40:50Z",
+  "date_modified": "2017-03-24T11:04:16.754288Z",
+  "type": "010combined",
+  "sha1": "f33ebbd0f28e1f43c4112176d146064b820876db",
+  "page_count": 1,
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/00-2326A-01A.pdf",
+  "local_path": "pdf/2002/05/10/Rhode_Island_v._Migliore.pdf",
+  "plain_text": "           United States Court of Appeals\n                      For the First Circuit\n\n\n\n\nNos. 00-2326\n     01-1543\n\n      RHODE ISLAND DEPARTMENT OF ENVIRONMENTAL MANAGEMENT,\n                     STATE OF RHODE ISLAND,\n                     Plaintiffs, Appellees,\n\n                                v.\n                     UNITED STATES OF AMERICA;\n         UNITED STATES DEPARTMENT OF LABOR; ELAINE CHAO,\n       SECRETARY OF LABOR; OCCUPATIONAL SAFETY AND HEALTH\n    ADMINISTRATION; CHARLES N. JEFFRESS, ASSISTANT SECRETARY\n           OF LABOR FOR OCCUPATIONAL SAFETY AND HEALTH;\n        RUTH E. MCCULLY, REGIONAL ADMINISTRATOR REGION 1,\n          OCCUPATIONAL SAFETY AND HEALTH ADMINISTRATION,\n                      Defendants, Appellants,\n         BEVERLY MIGLIORE; BARBARA RADDATZ; JOAN TAYLOR,\n                           Defendants.\n\n\n\n\n                            ERRATA SHEET\n\n\n     The opinion of this Court issued on April 8, 2002, is amended\nas follows:\n\n\n     On page 30, line 12:   Replace \"Forth\" with \"Fourth\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

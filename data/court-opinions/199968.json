@@ -1,0 +1,31 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/199968/",
+  "absolute_url": "/opinion/199968/united-states-v-delgado/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/199968/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:41:06Z",
+  "date_modified": "2017-03-24T11:04:26.901674Z",
+  "type": "010combined",
+  "sha1": "a26d4c468877776fb4cc2f13d63be60cf261ea0d",
+  "page_count": 1,
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/01-1196A-01A.pdf",
+  "local_path": "pdf/2002/05/17/U.S._v._Delgado.pdf",
+  "plain_text": "         United States Court of Appeals\n                   For the First Circuit\n\n\nNo. 01-1196\n\n                 UNITED STATES OF AMERICA,\n\n                         Appellee,\n\n                            v.\n\n                       JOSE DELGADO,\n\n                   Defendant, Appellant.\n\n\n\n                       ERRATA SHEET\n\n\n     The opinion of this Court issued May 6, 2002 should be\namended as follows:\n\n     On page 14, line 5, delete “sua sponte” from the first\nsentence in Section III.\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/200939/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/201295/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/201614/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/202519/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/202646/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/203141/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/215763/"
+  ]
+}

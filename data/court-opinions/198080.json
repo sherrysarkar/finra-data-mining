@@ -1,0 +1,26 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/198080/",
+  "absolute_url": "/opinion/198080/united-states-v-joseph/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/198080/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T03:45:03Z",
+  "date_modified": "2017-03-24T10:54:26.180634Z",
+  "type": "010combined",
+  "sha1": "b2573693542339a19073841e0be7e357904dfa6d",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/cgi-bin/getopn.pl?OPINION=98-1059.01A",
+  "local_path": null,
+  "plain_text": "[NOT FOR PUBLICATION--NOT TO BE CITED AS PRECEDENT]\r\n     United States Court of Appeals\r\n         For the First Circuit\r\n\nNo. 98-1059\r\n\n              UNITED STATES,\r\n\n                Appellee,\r\n\n                    v.\r\n\n              RUBEN JOSEPH,\r\n\n          Defendant, Appellant.\r\n\nAPPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\n    FOR THE DISTRICT OF MASSACHUSETTS\r\n\n[Hon. Michael Ponsor, U.S. District Judge]\r\n\n                  Before\r\n\n         Torruella, Chief Judge,\r\n   Selya and Boudin, Circuit Judges.\r\n\nJennifer Appleyard on brief for appellant.\r\nDonald K. Stern, United States Attorney, and C. Jeffrey\r\nKinder, Assistant United States Attorney, on brief for appellee.\r\n\nJuly 28, 1998\r\n\nPer Curiam.  Upon careful review of the briefs and\r\nrecord, we perceive no plain error in the government's closing\r\nremarks.  Even assuming that such remarks were not proper, given\r\nthe weight of the evidence against defendant, we cannot say that\r\nthey affected the outcome of the trial.  See United States v.\r\nTajeddini, 996 F.2d 1278, 1282-86 (1st Cir. 1993).\r\nOn the record before us, we see no basis for an\r\nineffective assistance of counsel claim regarding counsel's failure\r\nto challenge the admission of the affidavit, as defendant has not\r\nsuggested any viable challenge to it.  To the extent, if any, the\r\nclaim of ineffective assistance of counsel depends upon facts not\r\nappearing in the record, such a claim must be presented to the\r\ndistrict court in the first instance.  See United States v. Mala,\r\n7 F.3d 1058, 1063 (1st Cir.1993).\r\nAffirmed.  See 1st Cir. Loc. R. 27.1.\n",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<pre class=\"inline\">[NOT FOR PUBLICATION--NOT TO BE CITED AS PRECEDENT]\r\n     United States Court of Appeals\r\n         For the First Circuit\r\n\nNo. 98-1059\r\n\n              UNITED STATES,\r\n\n                Appellee,\r\n\n                    v.\r\n\n              RUBEN JOSEPH,\r\n\n          Defendant, Appellant.\r\n\nAPPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\n    FOR THE DISTRICT OF MASSACHUSETTS\r\n\n[Hon. Michael Ponsor, U.S. District Judge]\r\n\n                  Before\r\n\n         Torruella, Chief Judge,\r\n   Selya and Boudin, Circuit Judges.\r\n\nJennifer Appleyard on brief for appellant.\r\nDonald K. Stern, United States Attorney, and C. Jeffrey\r\nKinder, Assistant United States Attorney, on brief for appellee.\r\n\nJuly 28, 1998\r\n\nPer Curiam.  Upon careful review of the briefs and\r\nrecord, we perceive no plain error in the government's closing\r\nremarks.  Even assuming that such remarks were not proper, given\r\nthe weight of the evidence against defendant, we cannot say that\r\nthey affected the outcome of the trial.  See United States v.\r\nTajeddini, </pre><span class=\"citation\" data-id=\"610547\"><a href=\"/opinion/610547/united-states-v-hojatollah-tajeddini/\"><span class=\"volume\">996</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">1278</span></a></span><pre class=\"inline\">, 1282-86 (1st Cir. 1993).\r\nOn the record before us, we see no basis for an\r\nineffective assistance of counsel claim regarding counsel's failure\r\nto challenge the admission of the affidavit, as defendant has not\r\nsuggested any viable challenge to it.  To the extent, if any, the\r\nclaim of ineffective assistance of counsel depends upon facts not\r\nappearing in the record, such a claim must be presented to the\r\ndistrict court in the first instance.  See United States v. Mala,\r\n</pre><span class=\"citation\" data-id=\"194994\"><a href=\"/opinion/194994/united-states-v-mala/\"><span class=\"volume\">7</span> <span class=\"reporter\">F.3d</span> <span class=\"page\">1058</span></a></span><pre class=\"inline\">, 1063 (1st Cir.1993).\r\nAffirmed.  See 1st Cir. Loc. R. 27.1.\n</pre>",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/194994/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/610547/"
+  ]
+}

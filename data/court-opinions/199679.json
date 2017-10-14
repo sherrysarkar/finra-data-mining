@@ -1,0 +1,25 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/199679/",
+  "absolute_url": "/opinion/199679/arecibo-community-v-the-commonwealth/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/199679/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:35:58Z",
+  "date_modified": "2017-03-24T11:02:52.807978Z",
+  "type": "010combined",
+  "sha1": "1eca0932f981f629d07e9afaee89b860d4bd638c",
+  "page_count": 1,
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/00-1774A-01A.pdf",
+  "local_path": "pdf/2001/11/16/Arecibo_Community_v._The_Commonwealth.pdf",
+  "plain_text": "           UNITED STATES COURT OF APPEALS\n                FOR THE FIRST CIRCUIT\n\n\n\n\nNo. 00-1774\n\n              ARECIBO COMMUNITY HEALTH CARE, INC.,\n\n                       Plaintiff, Appellee,\n\n                                 v.\n\n     COMMONWEALTH OF PUERTO RICO, DEPARTMENT OF HEALTH AND\n             THE ADMINISTRATION OF HEALTH SERVICES,\n\n                     Defendants, Appellants,\n\n                   CARLOS E. RODRÍGUEZ-QUESADA,\n\n                        Trustee, Appellee,\n\n                    UNITED STATES OF AMERICA,\n\n                      Intervenor, Appellee.\n\n\n\n\n                           ERRATA SHEET\n\n\n     The opinion of this Court issued on October 29, 2001, is amended\nas follows:\n\n     The cover page shall designate the United States of America as\n\"Intervenor, Appellee.\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/775403/"
+  ]
+}

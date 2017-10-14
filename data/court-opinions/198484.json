@@ -1,0 +1,26 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/198484/",
+  "absolute_url": "/opinion/198484/wright-v-commissioner/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/198484/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T03:53:14Z",
+  "date_modified": "2017-03-24T10:57:15.874046Z",
+  "type": "010combined",
+  "sha1": "4a8bd5bb4beb1e532baec0b090e1b80da2c1422f",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/cgi-bin/getopn.pl?OPINION=98-2069.01A",
+  "local_path": null,
+  "plain_text": "     [NOT FOR PUBLICATION NOT TO BE CITED AS PRECEDENT]\n               United States Court of Appeals\n                   For the First Circuit\n\nNo. 98-2069\n\n                        GLENN WRIGHT,\n\n                    Plaintiff, Appellant,\n\n                              v.\n\n        COMMISSIONER, SOCIAL SECURITY ADMINISTRATION,\n\n                     Defendant, Appellee.\n\n         APPEAL FROM THE UNITED STATES DISTRICT COURT\n\n              FOR THE DISTRICT OF MASSACHUSETTS\n\n     [Hon. Frank H. Freedman, Senior U.S. District Judge]\n\n                            Before\n\n                    Selya, Circuit Judge,\n               Bownes, Senior Circuit Judge,\n                 and Stahl, Circuit Judge.\n\n   Sandra Susse on brief for appellant.\n   Kenneth S. Apfel, Commissioner, Social Security\nAdministration, Donald K. Stern, United States Attorney, and Karen\nL. Goodwin, Assistant U.S. Attorney, on brief for appellee.\n\nMay 21, 1999\n\n          Per Curiam.   After carefully considering the briefs\nand record on appeal, we affirm the judgment for substantially\nthe reasons stated by the district court.  The Commissioner's\ndecision was supported by substantial evidence, even if some\nevidence in the record might have supported a different\nconclusion.  Irlanda Ortiz v. Secretary of Health and Human\nServices, 955 F.2d 765, 769 (1st Cir. 1991); Rodriguez Pagan v.\nSecretary of Health &amp; Human Services, 819 F.2d 1, 3 (1st Cir.\n1987); cert. denied, 484 U.S. 1012 (1988). \n          Affirmed.  Loc. R. 27.1.\n",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<pre class=\"inline\">     [NOT FOR PUBLICATION NOT TO BE CITED AS PRECEDENT]\n               United States Court of Appeals\n                   For the First Circuit\n\nNo. 98-2069\n\n                        GLENN WRIGHT,\n\n                    Plaintiff, Appellant,\n\n                              v.\n\n        COMMISSIONER, SOCIAL SECURITY ADMINISTRATION,\n\n                     Defendant, Appellee.\n\n         APPEAL FROM THE UNITED STATES DISTRICT COURT\n\n              FOR THE DISTRICT OF MASSACHUSETTS\n\n     [Hon. Frank H. Freedman, Senior U.S. District Judge]\n\n                            Before\n\n                    Selya, Circuit Judge,\n               Bownes, Senior Circuit Judge,\n                 and Stahl, Circuit Judge.\n\n   Sandra Susse on brief for appellant.\n   Kenneth S. Apfel, Commissioner, Social Security\nAdministration, Donald K. Stern, United States Attorney, and Karen\nL. Goodwin, Assistant U.S. Attorney, on brief for appellee.\n\nMay 21, 1999\n\n          Per Curiam.   After carefully considering the briefs\nand record on appeal, we affirm the judgment for substantially\nthe reasons stated by the district court.  The Commissioner's\ndecision was supported by substantial evidence, even if some\nevidence in the record might have supported a different\nconclusion.  Irlanda Ortiz v. Secretary of Health and Human\nServices, </pre><span class=\"citation\" data-id=\"577108\"><a href=\"/opinion/577108/victor-j-irlanda-ortiz-v-secretary-of-health-and-human-services/\"><span class=\"volume\">955</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">765</span></a></span><pre class=\"inline\">, 769 (1st Cir. 1991); Rodriguez Pagan v.\nSecretary of Health &amp; Human Services, </pre><span class=\"citation\" data-id=\"488579\"><a href=\"/opinion/488579/17-socsecrepser-783-unemplinsrep-cch-17374-nicasio-rodriguez-pagan/\"><span class=\"volume\">819</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">1</span></a></span><pre class=\"inline\">, 3 (1st Cir.\n1987); cert. denied, </pre><span class=\"citation no-link\"><span class=\"volume\">484</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1012</span></span><pre class=\"inline\"> (1988). \n          Affirmed.  Loc. R. 27.1.\n</pre>",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/488579/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/577108/"
+  ]
+}

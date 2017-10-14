@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/199566/",
+  "absolute_url": "/opinion/199566/united-states-v-rivero/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/199566/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:33:13Z",
+  "date_modified": "2017-03-24T11:02:15.610866Z",
+  "type": "010combined",
+  "sha1": "88b17d19dfcffed5e5df43a7da0807a808934186",
+  "page_count": 1,
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/00-2014A-01A.pdf",
+  "local_path": "pdf/2001/08/21/US_v._Rivero.pdf",
+  "plain_text": "         United States Court of Appeals\n                      For the First Circuit\n\n\nNo. 00-2014\n\n                  UNITED STATES OF AMERICA,\n\n                            Appellee,\n\n                                v.\n\n                  MANUEL GONZÁLEZ-GONZÁLEZ,\n\n                      Defendant, Appellant.\n\n\n\n\n                           ERRATA SHEET\n\n    The opinion of this court, issued on July 19, 2001, should be\n\namended as follows:\n\n    On slip opinion page 4, line 24, \"Moran\" should be deleted and\n\nreplaced with \"Mora\".\n\n    On slip opinion page 7, line 5, \"Joselyn\" should be deleted and\n\nreplaced with \"Josleyn\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

@@ -1,0 +1,26 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/197955/",
+  "absolute_url": "/opinion/197955/united-states-v-devito/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/197955/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T03:42:29Z",
+  "date_modified": "2017-03-24T10:53:59.042033Z",
+  "type": "010combined",
+  "sha1": "bba1144125288b249f23563bed166a952dbab377",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/cgi-bin/getopn.pl?OPINION=97-2430.01A",
+  "local_path": null,
+  "plain_text": "[NOT FOR PUBLICATION--NOT TO BE CITED AS PRECEDENT]\r\n\nUnited States Court of Appeals\r\nFor the First Circuit\r\n\nNo. 97-2430\r\n\n     UNITED STATES,\r\n\n       Appellee,\r\n\n           v.\r\n\n      PAUL DEVITO,\r\n\n Defendant, Appellant.\r\n\nAPPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\nFOR THE DISTRICT OF MASSACHUSETTS\r\n\n[Hon. Nathaniel M. Gorton, U.S. District Judge]\r\n\n        Before\r\n\nTorruella, Chief Judge,\r\nCoffin, Senior Circuit Judge,\r\nand Stahl, Circuit Judge.\r\n\nDana A. Curhan on brief for appellant.\r\nDonald K. Stern, United States Attorney, and Alexandra Leake,\r\nAssistant United States Attorney, on brief for appellee.\r\n\nMay 18, 1998\r\n\nPer Curiam.  Upon careful review of the briefs and\r\nrecord, it plainly appears that we do not have jurisdiction to\r\nconsider the extent of the downward departure allowed by the\r\ndistrict court, notwithstanding defendant's allegation of disparate\r\ntreatment.  See United States v. McAndrews, 12 F.3d 273, 276 (1st\r\nCir. 1993); United States v. Ruiz, 905 F.2d 499, 508-09 (1st Cir.\r\n1990).  \r\nDefendant raises no other cognizable challenge to his\r\nconviction or sentence, and therefore, we affirm the judgment.  See1st Cir. Loc. R. 27.1.\n",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<pre class=\"inline\">[NOT FOR PUBLICATION--NOT TO BE CITED AS PRECEDENT]\r\n\nUnited States Court of Appeals\r\nFor the First Circuit\r\n\nNo. 97-2430\r\n\n     UNITED STATES,\r\n\n       Appellee,\r\n\n           v.\r\n\n      PAUL DEVITO,\r\n\n Defendant, Appellant.\r\n\nAPPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\nFOR THE DISTRICT OF MASSACHUSETTS\r\n\n[Hon. Nathaniel M. Gorton, U.S. District Judge]\r\n\n        Before\r\n\nTorruella, Chief Judge,\r\nCoffin, Senior Circuit Judge,\r\nand Stahl, Circuit Judge.\r\n\nDana A. Curhan on brief for appellant.\r\nDonald K. Stern, United States Attorney, and Alexandra Leake,\r\nAssistant United States Attorney, on brief for appellee.\r\n\nMay 18, 1998\r\n\nPer Curiam.  Upon careful review of the briefs and\r\nrecord, it plainly appears that we do not have jurisdiction to\r\nconsider the extent of the downward departure allowed by the\r\ndistrict court, notwithstanding defendant's allegation of disparate\r\ntreatment.  See United States v. McAndrews, </pre><span class=\"citation\" data-id=\"195084\"><a href=\"/opinion/195084/united-states-v-mcandrews/\"><span class=\"volume\">12</span> <span class=\"reporter\">F.3d</span> <span class=\"page\">273</span></a></span><pre class=\"inline\">, 276 (1st\r\nCir. 1993); United States v. Ruiz, </pre><span class=\"citation\" data-id=\"543063\"><a href=\"/opinion/543063/united-states-v-fausto-d-ruiz/\"><span class=\"volume\">905</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">499</span></a></span><pre class=\"inline\">, 508-09 (1st Cir.\r\n1990).  \r\nDefendant raises no other cognizable challenge to his\r\nconviction or sentence, and therefore, we affirm the judgment.  See1st Cir. Loc. R. 27.1.\n</pre>",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/195084/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/543063/"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/199362/",
+  "absolute_url": "/opinion/199362/smith-v-ferc/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/199362/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:29:20Z",
+  "date_modified": "2017-03-24T11:01:42.725330Z",
+  "type": "010combined",
+  "sha1": "0c90d1512b23188312088f9c60f7eeef8a01ec79",
+  "page_count": 2,
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/00-1785-01A.pdf",
+  "local_path": "pdf/2001/04/10/Smith_v._FERC.pdf",
+  "plain_text": "         United States Court of Appeals\n                     For the First Circuit\n\n\nNo. 00-1785\n\n              EARLE H. SMITH, III; JULIE A. SMITH,\n                          Petitioners,\n\n                               v.\n\n              FEDERAL ENERGY REGULATORY COMMISSION,\n                           Respondent.\n                      _____________________\n\n                             Before\n\n                    Selya, Circuit Judge,\n         Coffin and Campbell, Senior Circuit Judges.\n\n\n\n                         ORDER OF COURT\n\n                   Entered: January 30, 2001\n\n              The motion for oral argument is denied. The\ncourt will have before it both the record and the briefs and\nwill consider the appeal with care and diligence. The appeal\nwill be decided upon the briefs and the record without oral\nargument from either side.\n\n                                      By the Court:\n                                      Phoebe Morse, Clerk\n\n                                      By________________\n                                        Chief Deputy Clerk\n\f[ cc: Messrs. Mr & Mrs Smith, Boergers, Henwood, May,\n Johnson, Hester, Terrazas, Soto, Zipp and Birgisson ]\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

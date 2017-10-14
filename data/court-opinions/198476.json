@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/198476/",
+  "absolute_url": "/opinion/198476/united-states-v-vigeant/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/198476/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T03:53:07Z",
+  "date_modified": "2017-03-24T10:57:15.059607Z",
+  "type": "010combined",
+  "sha1": "36ff732455e3b6f385cd4330e7ac3584aaf708e1",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/cgi-bin/getopn.pl?OPINION=98-1412A.01A",
+  "local_path": null,
+  "plain_text": "            United States Court of Appeals\n                For the First Circuit\n\nNos. 98-1412\n98-1819\n\n                     UNITED STATES,\n\n                       Appellee,\n\n                           v.\n\n                   ROBERT A. VIGEANT,\n\n                 Defendant, Appellant.\n\n                     ERRATA SHEET\n\nThe opinion of this Court issued on May 14, 1999 is amended\nas follows:\n\nPage 19, footnote 9, line 3 - \"note 3\" should read \"note 4\"\n",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

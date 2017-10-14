@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/199497/",
+  "absolute_url": "/opinion/199497/bartelho-v-united-states/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/199497/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:31:47Z",
+  "date_modified": "2017-03-24T11:02:03.323248Z",
+  "type": "010combined",
+  "sha1": "2416280421c3b3a60d61a300d3d761f3952e5129",
+  "page_count": 3,
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/00-1436-01A.pdf",
+  "local_path": "pdf/2001/07/17/Bartelho_v._US.pdf",
+  "plain_text": "      [NOT FOR PUBLICATION–NOT TO BE CITED AS PRECEDENT]\n\n         United States Court of Appeals\n                       For the First Circuit\n\n\nNo. 00-1436\n\n                        THOMAS J. BARTELHO,\n\n                       Petitioner, Appellant,\n\n                                 v.\n\n                           UNITED STATES,\n\n                       Respondent, Appellee.\n\n\n         APPEAL FROM THE UNITED STATES DISTRICT COURT\n\n                     FOR THE DISTRICT OF MAINE\n\n         [Hon. D. Brock Hornby, U.S. District Judge]\n\n\n                               Before\n\n                      Torruella, Circuit Judge,\n              Bownes and Stahl, Senior Circuit Judges.\n\n\n\n\n     Thomas J. Bartelho on brief pro se.\n     Jay P. McCloskey, United States Attorney, and F. Mark\nTerison, Senior Litigation Counsel, on brief for appellee.\n\n\n\n                           July 16, 2001\n\f\f    Per Curiam. Thomas J. Bartelho appeals the district court's\n\njudgment denying his motion filed pursuant to 28 U.S.C. § 2255.\n\nWe have reviewed the parties' briefs and the record on appeal.\n\nWe affirm essentially for the reasons stated in the district\n\ncourt's order, dated January 3, 2000.\n\n    Affirmed.\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

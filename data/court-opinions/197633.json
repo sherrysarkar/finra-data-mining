@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/197633/",
+  "absolute_url": "/opinion/197633/brown-v-armstrong/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/197633/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T03:34:36Z",
+  "date_modified": "2017-03-24T10:52:52.974349Z",
+  "type": "010combined",
+  "sha1": "b4909114b98028d0a10f75e42949ddaab0b12a5a",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/cgi-bin/getopn.pl?OPINION=97-1335.01A",
+  "local_path": null,
+  "plain_text": "\n\n                    [NOT FOR PUBLICATION]\r\n\n                UNITED STATES COURT OF APPEALS\r\n                    FOR THE FIRST CIRCUIT\r\n                                         \r\n\nNo. 97-1335\r\n\n                    RUSSELL BROWN, ET AL.,\r\n\n                   Plaintiffs, Appellants,\r\n\n                              v.\r\n\n                   WALLY ARMSTRONG, ET AL.,\r\n\n                    Defendants, Appellees.\r\n\n                                         \r\n\n         APPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\n              FOR THE DISTRICT OF MASSACHUSETTS\r\n\n       [Hon. Reginald C. Lindsay, U.S. District Judge]\r                                                                 \r\n\n                                         \r\n\n                            Before\r\n\n                     Selya, Circuit Judge,\r                                                     \r\n               Campbell, Senior Circuit Judge,\r                                                         \r\n                  and Lynch, Circuit Judge.\r                                                      \r\n\n                                         \r\n\nRussell M. Brown on brief pro se.\r                            \r\nLee Carl  Bromberg, Julia Huston, and  Bromberg &amp; Sunstein LLP  on\r                                                                          \r\nbrief for Wally Armstrong and Gator Golf Enterprises, Inc.\r\nScott P. Lewis, Robert L.  Brennan, Jr. and Palmer &amp; Dodge LLP, on\r                                                                          \r\nbrief  for appellees  American Telecast  Corporation, Wally  Armstrong\r\nGolf, Inc., Kenny Rogers and Pat Summerall.\r\n\n                                         \r\n\n                       NOVEMBER 6, 1997\r\n                                         \r\r\n\n     Per  Curiam.  Plaintiff  Russell Brown has  appealed the\r                            \r\n\ngrant of  summary judgment in  favor of defendants.   Brown's\r\n\nappellate brief  is inappropriately  styled  as if  it was  a\r\n\nmotion pursuant to Fed. R. Civ. P. 60(b).  We do not consider\r\n\nsuch motions  in the first instance.   In any event,  we have\r\n\ncarefully  considered the parties'  briefs and the  record on\r\n\nappeal.    Nothing  that  Brown  has  raised in  this  appeal\r\n\nwarrants overturning  the district  court's grant  of summary\r\n\njudgment.\r\n\n     Affirmed.  Loc. R. 27.1.\r                         \r\n\n                             -2-\r\r\n",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

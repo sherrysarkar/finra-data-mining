@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/198109/",
+  "absolute_url": "/opinion/198109/liggons-v-reno/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/198109/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T03:45:45Z",
+  "date_modified": "2017-03-24T10:54:40.378631Z",
+  "type": "010combined",
+  "sha1": "dd91aea1a30d02c4a86eb3961d64aa962142ff76",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/cgi-bin/getopn.pl?OPINION=98-1503.01A",
+  "local_path": null,
+  "plain_text": " [NOT FOR PUBLICATION--NOT TO BE CITED AS PRECEDENT]\r\n            United States Court of Appeals\r\n                For the First Circuit\r\n\nNo. 98-1503\r\n\n                    OLIVER LIGGONS,\r\n\n                 Plaintiff, Appellant,\r\n\n                           v.\r\n\n               JANET RENO, ETC., ET AL.,\r\n\n                 Defendants, Appellees.\r\n\n      APPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\n           FOR THE DISTRICT OF MASSACHUSETTS\r\n\n   [Hon. George A. O'Toole, Jr., U.S. District Judge]\r\n\n                         Before\r\n\n                Torruella, Chief Judge,\r\n          Boudin and Lipez, Circuit Judges.\r\n\nWinston Kendall on brief for appellant.\r\nDonald K. Stern, United States Attorney, and Susan M.\r\nPoswistilo, Assistant U.S. Attorney, on brief for appellees.\r\n\nSeptember 2, 1998\r\n\nPer Curiam.  Upon careful review of the briefs and record, we\r\nconclude that the district court properly dismissed the complaint. \r\nWe reach this conclusion essentially for the reasons stated in the\r\ndistrict court's orders dated March 31, 1997, and March 11, 1998.\r\nAffirmed.  See 1st Cir. Loc. R. 27.1.\r\n\n                          -2-\n",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

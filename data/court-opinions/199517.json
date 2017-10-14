@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/199517/",
+  "absolute_url": "/opinion/199517/clauson-v-new-england-insuranc/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/199517/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:32:06Z",
+  "date_modified": "2017-03-24T11:02:08.270041Z",
+  "type": "010combined",
+  "sha1": "3c7458c7c910b8b8c35998c2fa61746b211c5c2c",
+  "page_count": 1,
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/00-1543A-01A.pdf",
+  "local_path": "pdf/2001/07/28/Clauson_v._New_England_Insuranc.pdf",
+  "plain_text": "          United States Court of Appeals\n                      For the First Circuit\n\n\nNo. 00-1543\nNo. 00-1568\n\n                           JOHN CLAUSON,\n\n              Plaintiff, Appellee/Cross-Appellant,\n\n                                 v.\n\n                 NEW ENGLAND INSURANCE COMPANY,\n\n              Defendant, Appellant/Cross-Appellee.\n\n\n                               ERRATA\n\n\n          The opinion of this court issued June 22, 2001, is amended\nas follows:\n\n     On page 12, lines 16-17, replace “Indeed, NEIC conceded at oral\nargument that the court's interpretation was reasonable.” with the\nfollowing:\n\n     Indeed, at oral argument, while maintaining that the court's\n     interpretation was, from its point of view, incorrect, NEIC\n     also acknowledged that \"the meaning works,\" conceding, in\n     effect, that the reading offered by the district court was\n     a reasonable response to the language of the policy.\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

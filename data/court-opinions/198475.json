@@ -1,0 +1,26 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/198475/",
+  "absolute_url": "/opinion/198475/valerio-v-putnam-associates/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/198475/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T03:53:06Z",
+  "date_modified": "2017-03-24T10:57:15.114323Z",
+  "type": "010combined",
+  "sha1": "ec0fb5058f31a068d6ad4263215859e445d1053f",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/cgi-bin/getopn.pl?OPINION=98-1399A.01A",
+  "local_path": null,
+  "plain_text": "United States Court of Appeals\n    For the First Circuit\n\nNo.  98-1399\n\n        ELAINE VALERIO,\n\n     Plaintiff, Appellant,\n\n               v.\n\nPUTNAM ASSOCIATES INCORPORATED,\n\n      Defendant, Appellee.\n\n         ERRATA SHEET\n\nThe opinion of this Court issued on April 9, 1999 is amended\nas follows:\n\nOn p.12, line 4 of the slip opinion, the end of the sentence\nafter \"(8th Cir. 1975),\" should be replaced to read:\n\nwhile the Second Circuit, as well as a previous panel of the\nNinth Circuit, have held that a formal complaint to the\ngovernment agency or a court is required.  Lambert v. Genesee\nHospital, 10 F.3d 46 (2d Cir. 1993); see also Lambert v. Ackerly,\n156 F.3d 1018 (9th Cir. 1998), withdrawn and reh'g granted, 169\nF.3d 666 (9th Cir. 1999).\n\nOn p.12, line 12 of the slip opinion, the end of the sentence\nafter \"court or agency,\" should be replaced to read:  \n\nthe Second Circuit concluded that  215(a)(3) is unambiguous. \nSee Genesee Hospital, 10 F.3d at 55.  \n",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<pre class=\"inline\">United States Court of Appeals\n    For the First Circuit\n\nNo.  98-1399\n\n        ELAINE VALERIO,\n\n     Plaintiff, Appellant,\n\n               v.\n\nPUTNAM ASSOCIATES INCORPORATED,\n\n      Defendant, Appellee.\n\n         ERRATA SHEET\n\nThe opinion of this Court issued on April 9, 1999 is amended\nas follows:\n\nOn p.12, line 4 of the slip opinion, the end of the sentence\nafter \"(8th Cir. 1975),\" should be replaced to read:\n\nwhile the Second Circuit, as well as a previous panel of the\nNinth Circuit, have held that a formal complaint to the\ngovernment agency or a court is required.  Lambert v. Genesee\nHospital, </pre><span class=\"citation\" data-id=\"658097\"><a href=\"/opinion/658097/janine-lambert-eva-baker-and-tami-foster-v-genesee-hospital-francis/\"><span class=\"volume\">10</span> <span class=\"reporter\">F.3d</span> <span class=\"page\">46</span></a></span><pre class=\"inline\"> (2d Cir. 1993); see also Lambert v. Ackerly,\n</pre><span class=\"citation\" data-id=\"758107\"><a href=\"/opinion/758107/laura-lambert-esther-ackley-steve-belling-pat-cooke-letitia-selk-chuck/\"><span class=\"volume\">156</span> <span class=\"reporter\">F.3d</span> <span class=\"page\">1018</span></a></span><pre class=\"inline\"> (9th Cir. 1998), withdrawn and reh'g granted, </pre><span class=\"citation no-link\"><span class=\"volume\">169</span>\n<span class=\"reporter\">F.3d</span> <span class=\"page\">666</span></span><pre class=\"inline\"> (9th Cir. 1999).\n\nOn p.12, line 12 of the slip opinion, the end of the sentence\nafter \"court or agency,\" should be replaced to read:  \n\nthe Second Circuit concluded that  215(a)(3) is unambiguous. \nSee Genesee Hospital, 10 F.3d at 55.  \n</pre>",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/658097/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/758107/"
+  ]
+}

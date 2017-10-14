@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/199598/",
+  "absolute_url": "/opinion/199598/kelly-v-nortel/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/199598/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:33:39Z",
+  "date_modified": "2017-03-24T11:02:20.712250Z",
+  "type": "010combined",
+  "sha1": "36050930ced435f27641f65e5cd05fde3b06fc0b",
+  "page_count": 2,
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/01-1135-01A.pdf",
+  "local_path": "pdf/2001/09/14/Kelly_v._Nortel.pdf",
+  "plain_text": "      [NOT FOR PUBLICATION–NOT TO BE CITED AS PRECEDENT]\n\n          United States Court of Appeals\n                     For the First Circuit\n\n\nNo. 01-1135\n\n                        DANNY M. KELLY,\n\n                     Plaintiff, Appellant,\n\n                               v.\n\n                  NORTEL NETWORKS CORPORATION,\n\n                      Defendant, Appellee.\n\n\n         APPEAL FROM THE UNITED STATES DISTRICT COURT\n\n               FOR THE DISTRICT OF MASSACHUSETTS\n\n       [Hon. Douglas P. Woodlock, U.S. District Judge]\n\n\n                             Before\n\n                       Boudin, Chief Judge,\n              Torruella and Selya, Circuit Judges.\n\n\n\n\n     Danny M. Kelly on brief pro se.\n     John D. Hanify, Matthew T. Connolly and Hanify & King, P.C.\non brief for appellee.\n\n\n\n\n                       September 13, 2001\n\f          Per Curiam.    Upon de novo review, we affirm the\n\nsummary   judgment      dismissing   plaintiff's   complaint\n\nsubstantially for the reasons stated in the district court's\n\norder of dismissal.     The district court did not abuse its\n\ndiscretion in denying plaintiff's alternative request for\n\nleave to amend the complaint since the proposed amendment\n\nwas frivolous (and, in all events, would have been futile).\n\n          Affirmed.\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

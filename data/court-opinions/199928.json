@@ -1,0 +1,25 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/199928/",
+  "absolute_url": "/opinion/199928/walker-v-exeter-region-coop/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/199928/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:40:19Z",
+  "date_modified": "2017-03-24T11:04:14.262865Z",
+  "type": "010combined",
+  "sha1": "b3c8d9d7dd79bb1deb1493551098cbe00241d081",
+  "page_count": 2,
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/01-2262A-01A.pdf",
+  "local_path": "pdf/2002/04/26/Walker_v._Exeter_Region_Coop..pdf",
+  "plain_text": "           United States Court of Appeals\n                       For the First Circuit\n\n\nNo. 01-2262\n\n         GEORGE M. WALKER; JERE BECKMAN; JOEL SIGRIST;\n                SUSAN M. NEWELL; and LEE SLOCUM,\n\n                      Plaintiffs, Appellants,\n\n                                  v.\n\n           EXETER REGION COOPERATIVE SCHOOL DISTRICT;\n            OYSTER RIVER COOPERATIVE SCHOOL DISTRICT;\n               JOHN STARK REGIONAL SCHOOL DISTRICT;\n                  WINCHESTER SCHOOL DISTRICT; and\n         AMHERST-SOUHEGAN COOPERATIVE SCHOOL DISTRICT,\n\n                       Defendants, Appellees.\n\n\n\n                                ERRATA\n\n     The opinion of this Court, issued on March 19, 2002, should be\n\namended as follows.\n\n     On page 11, between line 10 and \" Affirmed.\", insert the following\n\ntwo paragraphs:\n\n     In any event, the claim of \"impermissible motive\" is based on a\n\nmisunderstanding. All super-majority requirements \"dilute\" the votes\n\nof those who would win if a bare majority sufficed.      This is just\n\nanother way of saying that the legislature (or Constitution drafter for\n\nthat matter, e.g., U.S. Const. art. II, § 2, cl. 2; id. art. V)\n\nbelieved that the type of action should be attended by special caution\n\fand should by taken only with more support than a simple majority.\n\nExamples include the ratification of treaties, amendments to the\n\nConstitution, and votes to cut off Senate debate.\n\n     So, when New Hampshire adopted and then modified a super majority\n\nrequirement for local bond issues, we assume with plaintiffs that its\n\npurpose was to weight voting and affect outcomes. But, contrary to\n\nplaintiffs' assumption, this does not, standing alone, condemn the\n\nmeasure or invite some form of special scrutiny. See Gordon v. Lance,\n\n403 U.S. at 6-7. Still less does the legislative action taken here--a\n\nreduction in the super-majority requirement (from two-thirds to three-\n\nfifths) for official ballot districts--require special justification.\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/615729/"
+  ]
+}

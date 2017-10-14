@@ -1,0 +1,26 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/198153/",
+  "absolute_url": "/opinion/198153/pieve-marin-v-combas-sancho/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/198153/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T03:46:39Z",
+  "date_modified": "2017-03-24T10:54:55.637576Z",
+  "type": "010combined",
+  "sha1": "0d46de8733beda1dd6826934f756f3afa8ffbe5c",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/cgi-bin/getopn.pl?OPINION=98-1322.01A",
+  "local_path": null,
+  "plain_text": "  [NOT FOR PUBLICATION--NOT TO BE CITED AS PRECEDENT]\r\n             United States Court of Appeals\r\n                 For the First Circuit\r\n\nNo. 98-1322\r\n\n                   CARLOS PIEVE MARIN,\r\n\n                  Plaintiff, Appellant,\r\n\n                            v.\r\n\n              GONZALO COMBAS SANCHO, ET AL.,\r\n\n                  Defendants, Appellees.\r\n\n       APPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\n             FOR THE DISTRICT OF PUERTO RICO\r\n\n    [Hon. Juan M. Perez-Gimenez, U.S. District Judge]\r\n\n                          Before\r\n\n                 Selya, Stahl and Lynch,\r\n                    Circuit Judges.\r\n\n Roberto O. Maldonado on brief for appellant.\r\n Antonio Montalvo-Nazario on brief for appellee, Gonzalo\r\nCombas-Sancho.\r\n Elizabeth Rice on brief for appellees, Gilberto Hernandez and\r\nRoberto Schmidt-Monge.\r\n\nSeptember 30, 1998\r\n\n        Per Curiam.  Upon careful review of the briefs and\r\nrecord, we conclude that the district court acted within its\r\ndiscretion in denying plaintiff's motion for post-judgment\r\nrelief.  To the extent that the motion sought the type of\r\nrelief available under Fed. R. Civ. P. 59(e), the motion was\r\nuntimely.  See Vargas v. Gonzalez, 975 F.2d 916, 917 (1st Cir.\r\n1992).  To the extent that the motion sought the type of relief\r\navailable under Fed. R. Civ. P. 60(b)(1), we cannot say that\r\nthe district court was required to find that the attorney's\r\nabsence from the status conference and plaintiff's failure to\r\n\"move his case\" necessarily were the result of \"excusable\r\nneglect.\"  See id. at 918.\r\n          Because the notice of appeal was not timely as to the\r\nunderlying judgment of dismissal, we do not consider the\r\nparties' arguments as to the merits of that judgment.  SeeHoult v. Hoult, 57 F.3d 1, 3 (1st Cir. 1995).\r\n          Affirmed.  See 1st Cir. Loc. R. 27.1.\n",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<pre class=\"inline\">  [NOT FOR PUBLICATION--NOT TO BE CITED AS PRECEDENT]\r\n             United States Court of Appeals\r\n                 For the First Circuit\r\n\nNo. 98-1322\r\n\n                   CARLOS PIEVE MARIN,\r\n\n                  Plaintiff, Appellant,\r\n\n                            v.\r\n\n              GONZALO COMBAS SANCHO, ET AL.,\r\n\n                  Defendants, Appellees.\r\n\n       APPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\n             FOR THE DISTRICT OF PUERTO RICO\r\n\n    [Hon. Juan M. Perez-Gimenez, U.S. District Judge]\r\n\n                          Before\r\n\n                 Selya, Stahl and Lynch,\r\n                    Circuit Judges.\r\n\n Roberto O. Maldonado on brief for appellant.\r\n Antonio Montalvo-Nazario on brief for appellee, Gonzalo\r\nCombas-Sancho.\r\n Elizabeth Rice on brief for appellees, Gilberto Hernandez and\r\nRoberto Schmidt-Monge.\r\n\nSeptember 30, 1998\r\n\n        Per Curiam.  Upon careful review of the briefs and\r\nrecord, we conclude that the district court acted within its\r\ndiscretion in denying plaintiff's motion for post-judgment\r\nrelief.  To the extent that the motion sought the type of\r\nrelief available under Fed. R. Civ. P. 59(e), the motion was\r\nuntimely.  See Vargas v. Gonzalez, </pre><span class=\"citation\" data-id=\"591125\"><a href=\"/opinion/591125/pedro-c-vargas-v-leonardo-gonzalez/\"><span class=\"volume\">975</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">916</span></a></span><pre class=\"inline\">, 917 (1st Cir.\r\n1992).  To the extent that the motion sought the type of relief\r\navailable under Fed. R. Civ. P. 60(b)(1), we cannot say that\r\nthe district court was required to find that the attorney's\r\nabsence from the status conference and plaintiff's failure to\r\n\"move his case\" necessarily were the result of \"excusable\r\nneglect.\"  See id. at 918.\r\n          Because the notice of appeal was not timely as to the\r\nunderlying judgment of dismissal, we do not consider the\r\nparties' arguments as to the merits of that judgment.  SeeHoult v. Hoult, </pre><span class=\"citation\" data-id=\"196077\"><a href=\"/opinion/196077/hoult-v-hoult/\"><span class=\"volume\">57</span> <span class=\"reporter\">F.3d</span> <span class=\"page\">1</span></a></span><pre class=\"inline\">, 3 (1st Cir. 1995).\r\n          Affirmed.  See 1st Cir. Loc. R. 27.1.\n</pre>",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/196077/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/591125/"
+  ]
+}

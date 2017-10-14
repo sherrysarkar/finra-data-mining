@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/197744/",
+  "absolute_url": "/opinion/197744/united-states-v-lewis/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/197744/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T03:37:02Z",
+  "date_modified": "2017-03-24T10:53:14.555195Z",
+  "type": "010combined",
+  "sha1": "9f540c2f6e6517564da414f4d00ffa79b6522556",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/cgi-bin/getopn.pl?OPINION=97-1855.01A",
+  "local_path": null,
+  "plain_text": "\n\n                    [NOT FOR PUBLICATION]\r\n\n                UNITED STATES COURT OF APPEALS\r\n                    FOR THE FIRST CIRCUIT\r\n                                         \r\n\nNo. 97-1855\r\n\n                        UNITED STATES,\r\n\n                          Appellee,\r\n\n                              v.\r\n\n                        DANIEL LEWIS,\r\n\n                    Defendant, Appellant.\r\n\n                                         \r\n\n         APPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\n               FOR THE DISTRICT OF RHODE ISLAND\r\n\n     [Hon. Francis J. Boyle, Senior U.S. District Judge]\r                                                                   \r\n\n                                         \r\n\n                            Before\r\n\n                   Boudin, Stahl and Lynch,\r\n                       Circuit Judges.\r                                                 \r\n\n                                         \r\n\nJames  L. Sultan, Charles  W. Rankin and Rankin  &amp; Sultan on brief\r                                                                     \r\nfor appellant.\r\nSheldon Whitehouse,  United  States Attorney,  Margaret E.  Curran\r                                                                              \r\nand Gerard  B. Sullivan, Assistant  United States Attorneys,  on brief\r                               \r\nfor appellee.\r\n\n                                         \r\n\n                       January 26, 1998\r\n                                         \r\r\n\n     Per Curiam.    Upon careful  review  of the  briefs  and\r                           \r\n\nrecord, we  conclude that  the pat-frisk  of defendant  was a\r\n\npermissible  search and that  district court correctly denied\r\n\nsuppression of  the evidence discovered  during that  search.\r\n\nWe  reach  this   conclusion  essentially  for   the  reasons\r\n\nexpressed by the  district court in its order dated September\r\n\n9, 1996.   We  thus reject defendant's appellate  contentions\r\n\nthat the officers  lacked a reasonable suspicion  grounded in\r\n\nspecific and articulable facts to justify the search and that\r\n\nthe  officer conducting the search personally did not possess\r\n\nsuch a reasonable suspicion.\r\n\n     Affirmed.  See 1st Cir. Loc. R. 27.1.\r                               \r\n\n                             -2-\r\r\n",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

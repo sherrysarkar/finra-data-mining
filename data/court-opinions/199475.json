@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/199475/",
+  "absolute_url": "/opinion/199475/central-maine-power-v-ferc/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/199475/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:31:24Z",
+  "date_modified": "2017-03-24T11:02:01.438988Z",
+  "type": "010combined",
+  "sha1": "3898821f8876b0853bbbf23d07aa96bc121afe6e",
+  "page_count": 2,
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/01-1376A-01A.pdf",
+  "local_path": "pdf/2001/06/28/Central_Maine_Power_v._FERC.pdf",
+  "plain_text": "         United States Court of Appeals\n                      For the First Circuit\n\n\nNo. 01-1376\n\n                   CENTRAL MAINE POWER COMPANY,\n\n                           Petitioner,\n\n                                v.\n\n              FEDERAL ENERGY REGULATORY COMMISSION,\n\n                           Respondent.\n\n                       ____________________\n\nNo. 01-1377\n\n              BANGOR HYDRO-ELECTRIC COMPANY, ET AL.,\n\n                           Petitioners,\n\n                                v.\n\n              FEDERAL ENERGY REGULATORY COMMISSION,\n\n                           Respondent.\n\n                       ___________________\nNo. 01-1541\n\n                     NSTAR SERVICES COMPANY,\n\n                           Petitioner,\n\n                                v.\n\n              FEDERAL ENERGY REGULATORY COMMISSION,\n\n                           Respondent.\n\n                        __________________\n\fNo. 01-1551\n\n                  ALTERNATE POWER SOURCE, INC.,\n\n                           Petitioner,\n\n                               v.\n\n              FEDERAL ENERGY REGULATORY COMMISSION,\n\n                           Respondent.\n                       ___________________\n\n                             ERRATA\n\n    The opinion of this court, issued on June 8, 2001, should be\n\namended as follows:\n\n    On page 22, 2nd line from top, insert a space and \"(D.C. Cir.\n\n1991)\" after \"92\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

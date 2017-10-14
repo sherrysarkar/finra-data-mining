@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/199956/",
+  "absolute_url": "/opinion/199956/karak-v-bursaw-oil-corp/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/199956/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:40:54Z",
+  "date_modified": "2017-03-24T11:04:26.772633Z",
+  "type": "010combined",
+  "sha1": "efe535e8d37177f8c1baab5d4a01fc841f314972",
+  "page_count": 1,
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/01-2127A-01A.pdf",
+  "local_path": "pdf/2002/05/10/Karak_v._Bursaw_Oil_Corp..pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\n\nNo. 01-2127\n\n                     ELIE N. KARAK ET AL.,\n\n                     Plaintiffs, Appellants,\n\n                               v.\n\n                    BURSAW OIL CORP. ET AL.,\n\n                     Defendants, Appellees.\n\n\n                          ERRATA SHEET\n\n     The opinion of this Court issued on May 2, 2002 is corrected\nas follows:\n\n     On page 2, line 4, replace \"defendant\" with \"plaintiff\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/199957/",
+  "absolute_url": "/opinion/199957/gunter-v-maloney/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/199957/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:40:55Z",
+  "date_modified": "2017-03-24T11:04:26.767930Z",
+  "type": "010combined",
+  "sha1": "e351f858bf5eed72265b06cbfdac4688a1c577a6",
+  "page_count": 1,
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/01-2353B-01A.pdf",
+  "local_path": "pdf/2002/05/10/Gunter_v._Maloney.pdf",
+  "plain_text": "      United States Court of Appeals\n                     For the First Circuit\n                      ____________________\nNo. 01-2353\n\n                          PAUL GUNTER,\n                      Petitioner, Appellee,\n\n                               v.\n\n                       MICHAEL T. MALONEY,\n\n                     Respondent, Appellant.\n                      ____________________\n\n\n                          ERRATA SHEET\n\n          The opinion of this court, issued April 29, 2002,\nshould be amended as follows:\npage 5, line 14:      replace \"and\" with \". . .\"\npage 16, line 19:     add \"1st Cir.\" before \"1995\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

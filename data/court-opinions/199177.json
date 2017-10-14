@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/199177/",
+  "absolute_url": "/opinion/199177/camoscio-v-diminoco/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/199177/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:25:55Z",
+  "date_modified": "2017-03-24T11:01:12.132227Z",
+  "type": "010combined",
+  "sha1": "6174e5a61f920a11a8d5ff48b8b1fee3d748bc6d",
+  "page_count": 2,
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/00-1310-01A.pdf",
+  "local_path": "pdf/2000/12/07/Camoscio_v._Diminoco.pdf",
+  "plain_text": "      [NOT FOR PUBLICATION–NOT TO BE CITED AS PRECEDENT]\n\n         United States Court of Appeals\n                    For the First Circuit\n\n\nNo. 00-1310\n\n                       FRANK CAMOSCIO,\n\n                    Plaintiff, Appellant,\n\n                              v.\n\n                       ROGER DEMINICO,\n\n                     Defendant, Appellee.\n\n\n         APPEAL FROM THE UNITED STATES DISTRICT COURT\n\n              FOR THE DISTRICT OF MASSACHUSETTS\n\n         [Hon. William G. Young, U.S. District Judge]\n\n\n                            Before\n\n                    Torruella, Chief Judge,\n              Boudin and Lipez, Circuit Judges.\n\n\n\n\n     Frank Camoscio on brief pro se.\n     Michael A. Goldsmith, Assistant Corporation Counsel, and\nMerita A. Hopkins, Corporation Counsel, on Motion for Summary\nDisposition, for appellee.\n\n\n\n\n                       December 5, 2000\n\f               Per Curiam.    Having thoroughly reviewed the record\n\nand    the   parties'      submissions      on   appeal,   we   affirm   the\n\ndismissal of the appellant's complaint on the ground that it\n\nis    barred    by   the   doctrine    of   res   judicata.      Costs    to\n\nappellee.       See Local Rule 27(c); Fed. R. App. P. 39(a)(2).\n\n\n\n\n                                      -2-\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

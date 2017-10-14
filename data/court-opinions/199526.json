@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/199526/",
+  "absolute_url": "/opinion/199526/first-state-v-banco-de-seguros-del/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/199526/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:32:12Z",
+  "date_modified": "2017-03-24T11:02:08.596486Z",
+  "type": "010combined",
+  "sha1": "a5e6c26c5650d43f1ece17f2b7d30a883bcd3deb",
+  "page_count": 1,
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/00-2454A-01A.pdf",
+  "local_path": "pdf/2001/07/30/First_State_v._Banco_de_Seguros_del.pdf",
+  "plain_text": "              United States Court of Appeals\n                      For the First Circuit\n\n\n\n\nNo. 00-2454\n\n                 FIRST STATE INSURANCE COMPANY,\n\n                     Petitioner, Appellee,\n\n                               v.\n\n                  BANCO DE SEGUROS DEL ESTADO,\n\n                     Respondent, Appellant.\n\n\n\n                          ERRATA SHEET\n\n\n     The opinion of this Court issued on June 27, 2001, is amended\nas follows:\n\n    Page 2, line 24, should read: \"On November 6, 1987 . . .\"\n\n     Page 6, line 1, should read: \"received any notice of\narbitration from First State Ins. Co., . . .\"\n\n    Page 8, line 13, should read: \"notification in 1987 . . .\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/198597/",
+  "absolute_url": "/opinion/198597/damario-v-powers/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/198597/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T03:55:28Z",
+  "date_modified": "2017-03-24T10:57:54.195626Z",
+  "type": "010combined",
+  "sha1": "8b532f8c858b7a44fcaa90892d4698d6ec86b4c6",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/cgi-bin/getopn.pl?OPINION=98-2100.01A",
+  "local_path": null,
+  "plain_text": "[NOT FOR PUBLICATION NOT TO BE CITED AS PRECEDENT]\r\nUnited States Court of Appeals\r\nFor the First Circuit\r\n\nNo. 98-2100\r\n\nARTHUR D'AMARIO, III,\r\n\nPlaintiff, Appellant,\r\n\n          v.\r\n\nWARREN A. POWERS; JOHN J. DOLAN,\r\n\nDefendants, Appellees.\r\n\nAPPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\nFOR THE DISTRICT OF MASSACHUSETTS\r\n\n[Hon. William G. Young, U.S. District Judge]\r\n\n        Before\r\n\nBoudin, Circuit Judge,\r\nCampbell, Senior Circuit Judge,\r\nand Stahl, Circuit Judge.\r\n\nArthur D'Amario, III on brief pro se.\r\n\nAUGUST 13, 1999\r\n\nPer Curiam.  We have reviewed the appellant's brief\r\nand the record on appeal.  We affirm essentially for the\r\nreasons stated in the district court's memorandum of July 29,\r\n1998, and its order of August 31, 1998.\r\nAffirmed.\n",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/198293/",
+  "absolute_url": "/opinion/198293/united-states-v-herrara-sarita/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/198293/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T03:49:33Z",
+  "date_modified": "2017-03-24T10:56:10.152530Z",
+  "type": "010combined",
+  "sha1": "c12201a780eb72bd00c848c7977e560a6d3541df",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/cgi-bin/getopn.pl?OPINION=98-1792.01A",
+  "local_path": null,
+  "plain_text": "WPC3  \n4     V<b></b>}-S &amp;!&amp;p&amp;eVO:f{n\\9fe\"fVr:Es~e.p,hyaL@1%;=rg`Jfj]\\fEAEzhmnW*  \"7N,y):8zLgT6\\%p(isROLG1Wxcu^gQV2t){L;z\nmQ!9':XT<d></d>=)P( w\n&gt;4yUWz6'u0gLvy(tA$x\"HS`\"\tc&gt;9=\"HdX\rF` HV&amp;b&amp;-g\"~Gx AY]BX|94\" \t                 ~   U   F     \t%        0   (     w        4                \tm        #| x         Q\n",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

@@ -1,0 +1,25 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/199202/",
+  "absolute_url": "/opinion/199202/united-states-v-commonwealth-energy/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/199202/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:26:23Z",
+  "date_modified": "2017-03-24T11:01:18.075179Z",
+  "type": "010combined",
+  "sha1": "12461df0d70b0befc09368caa26660c718f15db4",
+  "page_count": 1,
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/00-1113-01A.pdf",
+  "local_path": "pdf/2000/12/21/US_v._Commonwealth_Energy.pdf",
+  "plain_text": "         United States Court of Appeals\n                    For the First Circuit\n\n\nNo. 00-1113\n\n                  UNITED STATES OF AMERICA,\n\n                    Plaintiff, Appellant,\n\n                              v.\n\n     COMMONWEALTH ENERGY SYSTEM AND SUBSIDIARY COMPANIES,\n\n                     Defendant, Appellee.\n\n\n\n\n                         ERRATA SHEET\n\n\n     The opinion of this Court issued on December 21, 2000, is\namended as follows:\n\n    On page 5, line 10: change the word \"directly\" to \"indirectly.\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/199331/"
+  ]
+}

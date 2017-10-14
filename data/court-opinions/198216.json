@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/198216/",
+  "absolute_url": "/opinion/198216/pope-v-tenczar/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/198216/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T03:47:54Z",
+  "date_modified": "2017-03-24T10:55:07.799974Z",
+  "type": "010combined",
+  "sha1": "f0722c964e8712f5dc3de03a713b23afb5532139",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/cgi-bin/getopn.pl?OPINION=98-1406.01A",
+  "local_path": null,
+  "plain_text": "  [NOT FOR PUBLICATION--NOT TO BE CITED AS PRECEDENT]\r\n             United States Court of Appeals\r\n                 For the First Circuit\r\n\nNo. 98-1406\r\n\n                    JOSEPH JABIR POPE,\r\n\n                  Plaintiff, Appellant,\r\n\n                            v.\r\n\n                     ANTHONY TENCZAR,\r\n\n                   Defendant, Appellee.\r\n\n       APPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\n            FOR THE DISTRICT OF MASSACHUSETTS\r\n\n       [Hon. Joseph L. Tauro, U.S. District Judge]\r\n\n                          Before\r\n\n                 Torruella, Chief Judge,\r\n           Boudin and Lipez, Circuit Judges.\r\n\n Joseph Jabir Pope on brief pro se.\r\n Alan D. Rose, Alan D. Rose, Jr., and Rose &amp; Associates on\r\nbrief for appellee.\r\n\nNovember 24, 1998\r\n\n                                           Per Curiam.  Having carefully reviewed plaintiff's \r\nassignment of error in light of the entire record and the\r\nbriefs on appeal, we see no clear error in the district court's\r\nfinding that defendant had satisfied all preconditions to\r\nsettlement.  Accordingly, the final judgment enforcing the\r\nsettlement agreement is affirmed.  See Loc. R. 27.1. \r\n\n                             -2-   \n",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

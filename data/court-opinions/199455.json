@@ -1,0 +1,26 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/199455/",
+  "absolute_url": "/opinion/199455/bowler-v-maine-state-of/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/199455/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:31:06Z",
+  "date_modified": "2017-03-24T11:02:01.057085Z",
+  "type": "010combined",
+  "sha1": "24fe001dc69dfcafabb4c96327df12a49eb1f8c6",
+  "page_count": 2,
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/00-2010-01A.pdf",
+  "local_path": "pdf/2001/06/19/Bowler_v._Maine_State_of.pdf",
+  "plain_text": "      [NOT FOR PUBLICATION–NOT TO BE CITED AS PRECEDENT]\n\n          United States Court of Appeals\n                       For the First Circuit\n\n\nNo. 00-2010\n\n                         EUGENE B. BOWLER,\n\n                       Plaintiff, Appellant,\n\n                                 v.\n\n                          STATE OF MAINE,\n\n                        Defendant, Appellee.\n\n\n         APPEAL FROM THE UNITED STATES DISTRICT COURT\n\n                     FOR THE DISTRICT OF MAINE\n\n              [Hon. Gene Carter, U.S. District Judge]\n\n\n                               Before\n\n                       Torruella, Chief Judge,\n              Campbell and Cyr, Senior Circuit Judges.\n\n\n\n     Eugene B. Bowler on brief pro se.\n     Andrew Ketterer, Attorney General, Paul Stern, Deputy\nAttorney General, Amy M. Sneirson, Assistant Attorney General,\nand William R. Stokes, Assistant Attorney General, on brief for\nappellee.\n\n\n\n\n                            May 21, 2001\n\f          Per Curiam. The judgment is affirmed substantially\n\nfor the reasons set forth in the district court's opinion.\n\nTo   clarify   one   misunderstanding   voiced   by   plaintiff:\n\nalthough the Eleventh Amendment by its terms refers only to\n\nsuits against a State by citizens of another State, the\n\nSupreme Court has \"extended the Amendment's applicability to\n\nsuits by citizens against their own States.\"           Board of\n\nTrustees of Univ. of Alabama v. Garrett, 121 S. Ct. 955, 962\n\n(2001); accord, e.g., Strahan v. Coxe, 127 F.3d 155, 166 (1st\n\nCir. 1997).\n\n          Affirmed.    See Loc. R. 27(c).\n\n\n\n\n                              -2-\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<pre class=\"inline\">      [NOT FOR PUBLICATION–NOT TO BE CITED AS PRECEDENT]\n\n          United States Court of Appeals\n                       For the First Circuit\n\n\nNo. 00-2010\n\n                         EUGENE B. BOWLER,\n\n                       Plaintiff, Appellant,\n\n                                 v.\n\n                          STATE OF MAINE,\n\n                        Defendant, Appellee.\n\n\n         APPEAL FROM THE UNITED STATES DISTRICT COURT\n\n                     FOR THE DISTRICT OF MAINE\n\n              [Hon. Gene Carter, U.S. District Judge]\n\n\n                               Before\n\n                       Torruella, Chief Judge,\n              Campbell and Cyr, Senior Circuit Judges.\n\n\n\n     Eugene B. Bowler on brief pro se.\n     Andrew Ketterer, Attorney General, Paul Stern, Deputy\nAttorney General, Amy M. Sneirson, Assistant Attorney General,\nand William R. Stokes, Assistant Attorney General, on brief for\nappellee.\n\n\n\n\n                            May 21, 2001\n\f          Per Curiam. The judgment is affirmed substantially\n\nfor the reasons set forth in the district court's opinion.\n\nTo   clarify   one   misunderstanding   voiced   by   plaintiff:\n\nalthough the Eleventh Amendment by its terms refers only to\n\nsuits against a State by citizens of another State, the\n\nSupreme Court has \"extended the Amendment's applicability to\n\nsuits by citizens against their own States.\"           Board of\n\nTrustees of Univ. of Alabama v. Garrett, </pre><span class=\"citation\" data-id=\"118407\"><a href=\"/opinion/118407/board-of-trustees-of-univ-of-ala-v-garrett/\"><span class=\"volume\">121</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">955</span></a></span><pre class=\"inline\">, 962\n\n(2001); accord, e.g., Strahan v. Coxe, </pre><span class=\"citation\" data-id=\"747149\"><a href=\"/opinion/747149/richard-max-strahan-v-trudy-coxe-secretary-of-massachusetts-executive/\"><span class=\"volume\">127</span> <span class=\"reporter\">F.3d</span> <span class=\"page\">155</span></a></span><pre class=\"inline\">, 166 (1st\n\nCir. 1997).\n\n          Affirmed.    See Loc. R. 27(c).\n\n\n\n\n                              -2-\n\f</pre>",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/118407/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/747149/"
+  ]
+}

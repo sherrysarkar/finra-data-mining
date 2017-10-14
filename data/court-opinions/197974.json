@@ -1,0 +1,26 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/197974/",
+  "absolute_url": "/opinion/197974/grand-jury-v/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/197974/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T03:42:50Z",
+  "date_modified": "2017-03-24T10:53:59.506551Z",
+  "type": "010combined",
+  "sha1": "ea2b6b2bc202da2bbb7833a3ac91591aa5092fa2",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/cgi-bin/getopn.pl?OPINION=98-1463.01A",
+  "local_path": null,
+  "plain_text": "  [NOT FOR PUBLICATION--NOT TO BE CITED AS PRECEDENT]\r\n\n             United States Court of Appeals\r\n                 For the First Circuit\r\n\nNo. 98-1463\r\n\n                   IN RE: GRAND JURY,  \r\n\n                       Petitioner.\r\n\n       APPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\n            FOR THE DISTRICT OF MASSACHUSETTS\r\n\n     [Hon. Douglas P. Woodlock, U.S. District Judge]\r\n\n                          Before\r\n\n                  Torruella, Chief Judge,\r\n             Coffin, Senior Circuit Judge,\r\n               and Stahl, Circuit Judge.\r\n\n William J. Murphy on brief for petitioner.\r\n Donald K. Stern, United States Attorney, Emily R. Schulman,\r\nAssistant U.S. Attorney, and Patrick M. Hamilton, Assistant U.S.\r\nAttorney, on brief for appellee.\r\n\nMay 26, 1998\r\n\n        Per Curiam.  Upon careful review of the briefs and\r\nrecord, we conclude that, even if the district court might\r\nbetter have allowed the witness some additional notice or\r\npreparation time before the contempt hearing, any such\r\nprocedural deficiency was harmless error.  \r\n          The witness now asserts that, given the opportunity,\r\nshe would claim that her refusal to testify is justified by a\r\nsuspicion of illegal electronic surveillance.  In response, the\r\ngovernment has presented affidavits sufficient to deny that the\r\ngrand jury inquiry was based on any such illegal activity.  SeeIn re Tse, 748 F.2d 722, 727-28 (1st Cir. 1984); In re Quinn,\r\n525 F.2d 222, 225 (1st Cir. 1975).  Therefore, we conclude that\r\nfurther proceedings to explore such a claim would be futile.\r\n          In spite of the witness's request, we do not have\r\nauthority in these circumstances to direct the location or\r\nconditions of her confinement.  \r\n          Affirmed.  See 1st Cir. Loc. R. 27.1.\n",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<pre class=\"inline\">  [NOT FOR PUBLICATION--NOT TO BE CITED AS PRECEDENT]\r\n\n             United States Court of Appeals\r\n                 For the First Circuit\r\n\nNo. 98-1463\r\n\n                   IN RE: GRAND JURY,  \r\n\n                       Petitioner.\r\n\n       APPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\n            FOR THE DISTRICT OF MASSACHUSETTS\r\n\n     [Hon. Douglas P. Woodlock, U.S. District Judge]\r\n\n                          Before\r\n\n                  Torruella, Chief Judge,\r\n             Coffin, Senior Circuit Judge,\r\n               and Stahl, Circuit Judge.\r\n\n William J. Murphy on brief for petitioner.\r\n Donald K. Stern, United States Attorney, Emily R. Schulman,\r\nAssistant U.S. Attorney, and Patrick M. Hamilton, Assistant U.S.\r\nAttorney, on brief for appellee.\r\n\nMay 26, 1998\r\n\n        Per Curiam.  Upon careful review of the briefs and\r\nrecord, we conclude that, even if the district court might\r\nbetter have allowed the witness some additional notice or\r\npreparation time before the contempt hearing, any such\r\nprocedural deficiency was harmless error.  \r\n          The witness now asserts that, given the opportunity,\r\nshe would claim that her refusal to testify is justified by a\r\nsuspicion of illegal electronic surveillance.  In response, the\r\ngovernment has presented affidavits sufficient to deny that the\r\ngrand jury inquiry was based on any such illegal activity.  SeeIn re Tse, </pre><span class=\"citation\" data-id=\"444548\"><a href=\"/opinion/444548/in-re-stephen-tse/\"><span class=\"volume\">748</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">722</span></a></span><pre class=\"inline\">, 727-28 (1st Cir. 1984); In re Quinn,\r\n</pre><span class=\"citation\" data-id=\"331042\"><a href=\"/opinion/331042/in-re-john-herbert-quinn/\"><span class=\"volume\">525</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">222</span></a></span><pre class=\"inline\">, 225 (1st Cir. 1975).  Therefore, we conclude that\r\nfurther proceedings to explore such a claim would be futile.\r\n          In spite of the witness's request, we do not have\r\nauthority in these circumstances to direct the location or\r\nconditions of her confinement.  \r\n          Affirmed.  See 1st Cir. Loc. R. 27.1.\n</pre>",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/331042/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/444548/"
+  ]
+}

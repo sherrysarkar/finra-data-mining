@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/199981/",
+  "absolute_url": "/opinion/199981/commonwealth-of-ma-v-boston-regional-med/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/199981/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:41:19Z",
+  "date_modified": "2017-03-24T11:04:27.348123Z",
+  "type": "010combined",
+  "sha1": "8af922760da6594637a3035d327e3109dfe91029",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/01-9016-01A.pdf",
+  "local_path": "pdf/2002/05/31/Commonwealth_of_MA_v._Boston_Regional_Med.pdf",
+  "plain_text": "Error: May not be a PDF file (continuing anyway)\nError: PDF file is damaged - attempting to reconstruct xref table...\nError: Couldn't find trailer dictionary\nError: Couldn't read xref table\n",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

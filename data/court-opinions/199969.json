@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/199969/",
+  "absolute_url": "/opinion/199969/gray-v-genlyte-group-inc/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/199969/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:41:07Z",
+  "date_modified": "2017-03-24T11:04:26.961601Z",
+  "type": "010combined",
+  "sha1": "9176a3d926042b3ed69e96b7263a17e2429ddc38",
+  "page_count": 1,
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/01-1915A-01A.pdf",
+  "local_path": "pdf/2002/05/17/Gray_v._Genlyte_Group_Inc..pdf",
+  "plain_text": "         United States Court of Appeals\n                      For the First Circuit\n\n\nNo. 01-1915\n\n                           LINDA GRAY,\n\n                      Plaintiff, Appellant,\n\n                                 v.\n\n                      GENLYTE GROUP, INC.,\n\n                      Defendant, Appellee.\n\n\n                           ERRATA SHEET\n\n    The opinion of this Court, issued on April 18, 2002, is amended\n\nas follows:\n\n    On pages 18, line 7 of footnote 4, and page 19, line 5 of footnote\n\n5, replace \"750 N.E.2d at 541-42\" with \"750 N.E.2d at 936-37\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

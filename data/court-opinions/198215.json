@@ -1,0 +1,26 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/198215/",
+  "absolute_url": "/opinion/198215/larkin-v-marshall/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/198215/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T03:47:53Z",
+  "date_modified": "2017-03-24T10:55:07.921012Z",
+  "type": "010combined",
+  "sha1": "9e152c3a4f166a5468c8ef922f55988c4e2ea212",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/cgi-bin/getopn.pl?OPINION=98-1267.01A",
+  "local_path": null,
+  "plain_text": "  [NOT FOR PUBLICATION--NOT TO BE CITED AS PRECEDENT]\r\n             United States Court of Appeals\r\n                 For the First Circuit\r\n\nNo. 98-1267\r\n\n                    MICHAEL L. LARKIN,\r\n\n                  Plaintiff, Appellant,\r\n\n                            v.\r\n\n                JOHN J. MARSHALL, ET AL.,\r\n\n                  Defendants, Appellees.\r\n\n       APPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\n            FOR THE DISTRICT OF MASSACHUSETTS\r\n\n       [Hon. Robert E. Keeton, U.S. District Judge]\r\n\n                          Before\r\n\n                 Torruella, Chief Judge,\r\n           Selya and Boudin, Circuit Judges.\r\n\n Michael L. Larkin on brief pro se.\r\n Nancy Ankers White, Special Assistant Attorney General and\r\nRobert Palumbo, Counsel on brief for appellees.\r\n\nNovember 18, 1998\r\n\n                                           Per Curiam.  After carefully reviewing the briefs and\r\nrecord on appeal, we affirm the judgment below on the well\r\nreasoned decision of the district court.  Prison officials may\r\nadopt restrictive policies needed to preserve security and\r\ndiscipline.  Wood v. Clemons, 89 F.3d 922, 928 (1st Cir. 1996). \r\nLimiting access to facilities during the regularly-scheduled\r\nperiods at issue or during occasional emergencies is not cruel\r\nand unusual punishment.  According to the record, the\r\ndisciplinary actions were adequately justified by non-\r\nretaliatory considerations.  Gomes v. Fair, 738 F.2d 517 (1stCir. 1984).  \r\n          Affirmed.  Loc. R. 27.1.\r\n\n                           -2-\n",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<pre class=\"inline\">  [NOT FOR PUBLICATION--NOT TO BE CITED AS PRECEDENT]\r\n             United States Court of Appeals\r\n                 For the First Circuit\r\n\nNo. 98-1267\r\n\n                    MICHAEL L. LARKIN,\r\n\n                  Plaintiff, Appellant,\r\n\n                            v.\r\n\n                JOHN J. MARSHALL, ET AL.,\r\n\n                  Defendants, Appellees.\r\n\n       APPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\n            FOR THE DISTRICT OF MASSACHUSETTS\r\n\n       [Hon. Robert E. Keeton, U.S. District Judge]\r\n\n                          Before\r\n\n                 Torruella, Chief Judge,\r\n           Selya and Boudin, Circuit Judges.\r\n\n Michael L. Larkin on brief pro se.\r\n Nancy Ankers White, Special Assistant Attorney General and\r\nRobert Palumbo, Counsel on brief for appellees.\r\n\nNovember 18, 1998\r\n\n                                           Per Curiam.  After carefully reviewing the briefs and\r\nrecord on appeal, we affirm the judgment below on the well\r\nreasoned decision of the district court.  Prison officials may\r\nadopt restrictive policies needed to preserve security and\r\ndiscipline.  Wood v. Clemons, </pre><span class=\"citation\" data-id=\"196882\"><a href=\"/opinion/196882/wood-v-mcc-superintendant/\"><span class=\"volume\">89</span> <span class=\"reporter\">F.3d</span> <span class=\"page\">922</span></a></span><pre class=\"inline\">, 928 (1st Cir. 1996). \r\nLimiting access to facilities during the regularly-scheduled\r\nperiods at issue or during occasional emergencies is not cruel\r\nand unusual punishment.  According to the record, the\r\ndisciplinary actions were adequately justified by non-\r\nretaliatory considerations.  Gomes v. Fair, </pre><span class=\"citation\" data-id=\"438674\"><a href=\"/opinion/438674/justin-gomes-v-michael-v-fair/\"><span class=\"volume\">738</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">517</span></a></span><pre class=\"inline\"> (1stCir. 1984).  \r\n          Affirmed.  Loc. R. 27.1.\r\n\n                           -2-\n</pre>",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/196882/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/438674/"
+  ]
+}

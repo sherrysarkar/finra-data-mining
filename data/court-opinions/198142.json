@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/198142/",
+  "absolute_url": "/opinion/198142/united-states-v-tavares/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/198142/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T03:46:30Z",
+  "date_modified": "2017-03-24T10:54:44.238815Z",
+  "type": "010combined",
+  "sha1": "a65dfe7937bd67b7f61554a02f1800702c953f42",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/cgi-bin/getopn.pl?OPINION=98-1093.01A",
+  "local_path": null,
+  "plain_text": "  [NOT FOR PUBLICATION--NOT TO BE CITED AS PRECEDENT]\r\n             United States Court of Appeals\r\n                 For the First Circuit\r\n\nNo. 98-1093\r\n\n                      UNITED STATES,\r\n\n                        Appellee,\r\n\n                            v.\r\n\n                    DANIEL D. TAVARES,\r\n\n                  Defendant, Appellant.\r\n\n       APPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\n            FOR THE DISTRICT OF MASSACHUSETTS\r\n\n       [Hon. William G. Young, U.S. District Judge]\r\n\n                          Before\r\n\n                  Selya, Circuit Judge,\r\n            Campbell, Senior Circuit Judge,\r\n               and Lynch, Circuit Judge.\r\n\n Daniel D. Tavares on brief pro se.\r\n Donald K. Stern, United States Attorney, and Michael J.\r\nPelgro, Assistant U.S. Attorney, on Motion for Summary Disposition.\r\n\nSEPTEMBER 28, 1998\r\n\n                                                                       Per Curiam.  After careful review of the record, we\r\nagree that the district court properly dismissed appellant's\r\nRule 35 motion as \"utterly frivolous.\"  Accordingly, the\r\ndistrict court's order is affirmed.  Appellant's motion to\r\ndismiss this appeal and motion to withdraw his motion to\r\ndismiss are moot.          \r\n",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

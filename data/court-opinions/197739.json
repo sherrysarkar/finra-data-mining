@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/197739/",
+  "absolute_url": "/opinion/197739/united-states-v-benoit/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/197739/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T03:36:57Z",
+  "date_modified": "2017-03-24T10:53:13.803578Z",
+  "type": "010combined",
+  "sha1": "aadb6ce137412fb99a8171ed28e86511065ccc5a",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/cgi-bin/getopn.pl?OPINION=97-1420.01A",
+  "local_path": null,
+  "plain_text": "\n\n                    [NOT FOR PUBLICATION]\r\n\n                UNITED STATES COURT OF APPEALS\r\n                    FOR THE FIRST CIRCUIT\r\n                                         \r\n\nNo. 97-1420\r\n\n                        UNITED STATES,\r\n\n                          Appellee,\r\n\n                              v.\r\n\n                      JULIAN G. BENOIT,\r\n\n                    Defendant, Appellant.\r\n\n                                         \r\n\n         APPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\n              FOR THE DISTRICT OF MASSACHUSETTS\r\n\n       [Hon. Nathaniel M. Gorton, U.S. District Judge]\r                                                                 \r\n\n                                         \r\n\n                            Before\r\n\n                   Boudin, Stahl and Lynch,\r\n                       Circuit Judges.\r                                                 \r\n\n                                         \r\n\nMartin D. Boudreau on brief for appellant.\r                              \r\nDonald K.  Stern, United  States Attorney,  and Donald L.  Cabell,\r                                                                             \r\nAssistant United States Attorney, on brief for appellee.\r\n\n                                         \r\n\n                      Jaanuary 22, 1998\r\n                                         \r\r\n\n     Per Curiam.    Upon careful  review  of the  briefs  and\r                           \r\n\nrecord,  we conclude  that  we do  not  have jurisdiction  to\r\n\nreview the district  court's denial of a  downward departure.\r\n\nAs we  read the  district court's  comments, and  contrary to\r\n\ndefendant's reading, the district court assumed its authority\r\n\nto depart, arguendo, and  expressly exercised its  discretion\r                               \r\n\nnot to  depart based on the specific facts  of this case.  No\r\n\nmistake of law is evident from those comments.\r\n\n     Affirmed.  See 1st Cir. Loc. R. 27.1.\r                               \r\n\n                             -2-\r\r\n",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

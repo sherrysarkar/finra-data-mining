@@ -1,0 +1,25 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/197887/",
+  "absolute_url": "/opinion/197887/doral-mortgage-v-echevarria/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/197887/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T03:41:07Z",
+  "date_modified": "2017-03-24T10:53:40.068100Z",
+  "type": "010combined",
+  "sha1": "661d7bbabb23c369eac9b8d5016aaf5aee216ca8",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/cgi-bin/getopn.pl?OPINION=97-9010.01A",
+  "local_path": null,
+  "plain_text": "[Not for Publication]\r\nUnited States Court of Appeals\r\nFor the First Circuit\r\n\n              No. 97-9010\r\n\nIN RE:  NANCY M. OLIVER ECHEVARRIA,\r\n\n           Debtor.\r\n\n                         \r\n\nDORAL MORTGAGE CORP.,\r\n\nAppellant,\r\n\nv.\r\n\nNANCY M. OLIVER ECHEVARRIA, ET AL.,\r\n\nAppellees.\r\n\n\n\nON APPEAL FROM THE UNITED STATES BANKRUPTCY\r\nAPPELLATE PANEL FOR THE FIRST CIRCUIT\r\n\n\n\nBefore\r\n\nTorruella, Chief Judge,\r\nCampbell, Senior Circuit Judge,\r\nand Stahl, Circuit Judge.\r\n\n\n\n                  Ronald L. Rosenbaum and Woods &amp; Rosenbaum on brief for appellants.\r\n                        \r\nMarch 31, 1998\r\n                                        Per curiam.  We have carefully considered appellant's arguments, yet we see in them no basis for disturbing the conclusions of the bankruptcy appellate panel.  As we have noted on countless occasions: \"[W]hen a lower court produces a comprehensive, well-reasoned decision, an appellate court should refrain from writing at length to no other end than to hear its own words resonate.\"  Sunview Condominium Assoc. v. Flexel Int'l, Ltd., 116 F.3d 962, 965 (1st Cir. 1997) (citation and internal quotation marks omitted).  So it is here.\r\nAffirmed.  No costs.\n",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<pre class=\"inline\">[Not for Publication]\r\nUnited States Court of Appeals\r\nFor the First Circuit\r\n\n              No. 97-9010\r\n\nIN RE:  NANCY M. OLIVER ECHEVARRIA,\r\n\n           Debtor.\r\n\n                         \r\n\nDORAL MORTGAGE CORP.,\r\n\nAppellant,\r\n\nv.\r\n\nNANCY M. OLIVER ECHEVARRIA, ET AL.,\r\n\nAppellees.\r\n\n\n\nON APPEAL FROM THE UNITED STATES BANKRUPTCY\r\nAPPELLATE PANEL FOR THE FIRST CIRCUIT\r\n\n\n\nBefore\r\n\nTorruella, Chief Judge,\r\nCampbell, Senior Circuit Judge,\r\nand Stahl, Circuit Judge.\r\n\n\n\n                  Ronald L. Rosenbaum and Woods &amp; Rosenbaum on brief for appellants.\r\n                        \r\nMarch 31, 1998\r\n                                        Per curiam.  We have carefully considered appellant's arguments, yet we see in them no basis for disturbing the conclusions of the bankruptcy appellate panel.  As we have noted on countless occasions: \"[W]hen a lower court produces a comprehensive, well-reasoned decision, an appellate court should refrain from writing at length to no other end than to hear its own words resonate.\"  Sunview Condominium Assoc. v. Flexel Int'l, Ltd., </pre><span class=\"citation\" data-id=\"197446\"><a href=\"/opinion/197446/sunview-v-flexel/\"><span class=\"volume\">116</span> <span class=\"reporter\">F.3d</span> <span class=\"page\">962</span></a></span><pre class=\"inline\">, 965 (1st Cir. 1997) (citation and internal quotation marks omitted).  So it is here.\r\nAffirmed.  No costs.\n</pre>",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/197446/"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/198891/",
+  "absolute_url": "/opinion/198891/foster-miller-inc-v-babcock-wilcox/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/198891/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:01:57Z",
+  "date_modified": "2017-03-24T10:59:27.393503Z",
+  "type": "010combined",
+  "sha1": "86339e4a206e9901e791f9cecf63860dc4b8327a",
+  "page_count": 1,
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/99-1227ERR-01A.pdf",
+  "local_path": "pdf/2000/04/27/Foster-Miller_Inc._v._Babcock__Wilcox.pdf",
+  "plain_text": "         United States Court of Appeals\n                    For the First Circuit\n\n\nNo. 99-1227\n\n                     FOSTER-MILLER, INC.,\n                     Plaintiff, Appellee,\n\n                              v.\n\n                   BABCOCK & WILCOX CANADA,\n                     Defendant, Appellant,\n\nNo. 99-1228\n\n                     FOSTER-MILLER, INC.\n                    Plaintiff, Appellant,\n\n                              v.\n\n                   BABCOCK & WILCOX CANADA,\n                     Defendant, Appellee.\n\n\n\n        APPEALS FROM THE UNITED STATES DISTRICT COURT\n\n              FOR THE DISTRICT OF MASSACHUSETTS\n\n        [Hon. Richard G. Stearns, U.S. District Judge]\n\n\n                         ERRATA SHEET\n\n     The opinion of this court issued on March 31, 2000 is amended\nas follows:\n\n    Page 10, last line: the first \"a\" should be deleted\n\n    Page 34, line 10: \"BWC\" should be replaced with \"FMC\"\n\n    Page 34, line 11: \"BWC’s\" should be replaced with \"FMC’s\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/181742/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/199025/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/199279/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/199706/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/200540/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/201148/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/201463/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/204136/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/782845/"
+  ]
+}

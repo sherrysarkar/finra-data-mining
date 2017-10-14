@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/196868/",
+  "absolute_url": "/opinion/196868/ciardello-v-maxfli/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/196868/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T03:16:04Z",
+  "date_modified": "2017-03-24T10:48:57.682692Z",
+  "type": "010combined",
+  "sha1": "47eb4c3f7e35a89b8c9dd8b7546e702bde1089e1",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/cgi-bin/getopn.pl?OPINION=96-1130.01A",
+  "local_path": null,
+  "plain_text": "\n\nJuly 16, 1996\r\n[NOT FOR PUBLICATION]\r\n\nUNITED STATES COURT OF APPEALS\r\nFOR THE FIRST CIRCUIT\r\n\n\n\nNo. 96-1130\r\n\nGERALD M. CIARDELLO,\r\n\nPlaintiff, Appellant,\r\n\nv.\r\n\nMAXFLI, A DIVISION OF DUNLOP/SLAZINGER CORP.,\r\n\nDefendant, Appellee.\r\n\n\n\nAPPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\nFOR THE DISTRICT OF NEW HAMPSHIRE\r\n\n[Hon. Shane Devine, Senior U.S. District Judge]\r                                                                 \r\n\n\n\nBefore\r\n\nTorruella, Chief Judge,\r                                                      \r\nBoudin and Lynch, Circuit Judges.\r                                                          \r\n\n\n\nGerald M. Ciardello on brief pro se.\r                               \r\nKevin  M. Leach, Arthur  G. Greene  and McLane,  Graf, Raulerson &amp;\r                                                                              \r\nMiddleton, Professional Association on brief for appellee.\r                                           \r\n\n\n\n\n\nPer  Curiam.  We  have reviewed the  parties' briefs and\r                            \r\r\n\nthe  record on appeal.  We affirm essentially for the reasons\r\n\nstated in the district court's order of December 19, 1995.\r\n\nAffirmed.\r                          \r\n\n-3-\r\r\n",
+  "html": "<p class=\"case_cite\">89 F.3d 823</p>\n    <p class=\"parties\">NOTICE: First Circuit Local Rule 36.2(b)6 states unpublished opinions may be cited only in related cases.<br>Gerald M. CIARDELLO, Plaintiff, Appellant,<br>v.<br>MAXFLI, a division of Dunlop/Slazinger Corp., Defendant, Appellee.</p>\n    <p class=\"docket\">No. 96-1130.</p>\n    <p class=\"court\">United States Court of Appeals, First Circuit.</p>\n    <p class=\"date\">July 16, 1996.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Gerald M. Ciardello on brief pro se.</p>\n      <p class=\"indent\">Kevin M. Leach, Arthur G. Greene and McLane, Graf, Raulerson &amp; Middleton, Professional Association on brief for appellee.</p>\n      <p class=\"indent\">Before TORRUELLA, Chief Judge, BOUDIN and LYNCH, Circuit Judges.</p>\n    </div>\n    <p class=\"indent\">PER CURIAM</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">We have reviewed the parties' briefs and the record on appeal.   We affirm essentially for the reasons stated in the district court's order of December 19, 1995.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Affirmed.</p>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">89</span> <span class=\"reporter\">F.3d</span> <span class=\"page\">823</span></span></p>\n    <p class=\"parties\">NOTICE: First Circuit Local Rule 36.2(b)6 states unpublished opinions may be cited only in related cases.<br>Gerald M. CIARDELLO, Plaintiff, Appellant,<br>v.<br>MAXFLI, a division of Dunlop/Slazinger Corp., Defendant, Appellee.</p>\n    <p class=\"docket\">No. 96-1130.</p>\n    <p class=\"court\">United States Court of Appeals, First Circuit.</p>\n    <p class=\"date\">July 16, 1996.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Gerald M. Ciardello on brief pro se.</p>\n      <p class=\"indent\">Kevin M. Leach, Arthur G. Greene and McLane, Graf, Raulerson &amp; Middleton, Professional Association on brief for appellee.</p>\n      <p class=\"indent\">Before TORRUELLA, Chief Judge, BOUDIN and LYNCH, Circuit Judges.</p>\n    </div>\n    <p class=\"indent\">PER CURIAM</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">We have reviewed the parties' briefs and the record on appeal.   We affirm essentially for the reasons stated in the district court's order of December 19, 1995.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Affirmed.</p>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

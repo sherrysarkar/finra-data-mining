@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/199953/",
+  "absolute_url": "/opinion/199953/pure-distributors-v-baker/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/199953/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:40:52Z",
+  "date_modified": "2017-03-24T11:04:26.743078Z",
+  "type": "010combined",
+  "sha1": "2da07dbee2a77f83583407825208efbc98d9441e",
+  "page_count": 1,
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/01-1636A-01A.pdf",
+  "local_path": "pdf/2002/05/10/Pure_Distributors_v._Baker.pdf",
+  "plain_text": "              United States Court of Appeals\n                       For the First Circuit\n\n\n\n\nNo. 01-1636\n\n       PURE DISTRIBUTORS, INC. D/B/A ENVION INTERNATIONAL\n                     AND MATTHEW J. FREESE,\n\n                      Plaintiffs, Appellants,\n\n                                v.\n                      CHRISTOPHER P. BAKER,\n                       Defendant, Appellee.\n\n\n\n\n                           ERRATA SHEET\n\n\n     The opinion of this Court issued on April 9, 2002, is amended\nas follows:\n\n\n     On p.5, l. 21:   Insert \"to\" between \"right\" and \"develop\".\n\n     On p.13, l. 6 of note 5:   Replace \"this\" with \"that\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

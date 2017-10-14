@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/199675/",
+  "absolute_url": "/opinion/199675/telese-v-internicola/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/199675/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:35:56Z",
+  "date_modified": "2017-03-24T11:02:52.728430Z",
+  "type": "010combined",
+  "sha1": "4f4c8a0a71e4e604f1e13f48f9d08d759e92e511",
+  "page_count": 2,
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/01-1139-01A.pdf",
+  "local_path": "pdf/2001/11/09/Telese_v._Internicola.pdf",
+  "plain_text": "      [NOT FOR PUBLICATION–NOT TO BE CITED AS PRECEDENT]\n\n         United States Court of Appeals\n                     For the First Circuit\n\n\nNo. 01-1139\n\n                        ROCCO A. TELESE,\n\n                     Plaintiff, Appellant,\n\n                               v.\n\n                  JOSEPH INTERNICOLA, ET AL.,\n\n                     Defendants, Appellees.\n\n\n         APPEAL FROM THE UNITED STATES DISTRICT COURT\n\n               FOR THE DISTRICT OF MASSACHUSETTS\n\n       [Hon. Edward F. Harrington, U.S. District Judge]\n\n\n                             Before\n\n                       Boudin, Chief Judge,\n              Torruella and Selya, Circuit Judges.\n\n\n\n\n     Rocco A. Telese on brief pro se.\n     James W. Simpson, Jr. and Merrick, Louison & Costello on\nbrief for appellees.\n\n\n\n\n                        October 2, 2001\n\f           Per Curiam.    Having carefully reviewed de novo the\n\nsummary judgment dismissal of plaintiff's complaint in light\n\nof   the   briefs   and   the   record   on   appeal,   we   affirm\n\nsubstantially for the reasons stated in the district court's\n\nmemorandum decision.      Loc. R. 27(c).\n\n           Affirmed.\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/197803/",
+  "absolute_url": "/opinion/197803/sinai-v-dumont/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/197803/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T03:39:00Z",
+  "date_modified": "2017-03-24T10:53:28.522210Z",
+  "type": "010combined",
+  "sha1": "2fa04e880f4f7fabced28be3f52927a2073bc534",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/cgi-bin/getopn.pl?OPINION=97-1740.01A",
+  "local_path": null,
+  "plain_text": "\n\n                    [NOT FOR PUBLICATION]\r\n\n                UNITED STATES COURT OF APPEALS\r\n                    FOR THE FIRST CIRCUIT\r\n\n                                         \r\n\nNo. 97-1740\r\n\n                        HERTZL  SINAI,\r\n\n                    Plaintiff, Appellant,\r\n\n                              v.\r\n\n                  GABRIEL O. DUMONT, ET AL.,\r\n\n                    Defendants, Appellees.\r\n\n                                         \r\n\n         APPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\n              FOR THE DISTRICT OF MASSACHUSETTS\r\n\n         [Hon. Joseph L. Tauro, U.S. District Judge]\r                                                               \r\n\n                                         \r\n\n                            Before\r\n\n                     Lynch, Circuit Judge,\r                                                     \r\n            Bownes and Cyr, Senior Circuit Judges.\r                                                             \r\n                                         \r\n\nHertzl Sinai on brief pro se.\r                        \r\n\n                                         \r\n\n                      February 12, 1998\r\n                                         \r\r\n\n     Per  Curiam.   Pro se  plaintiff  Herzl Sinai  appeals a\r                                      \r\n\ndistrict  court order  that dismissed  his  complaint on  the\r\n\nground that it has no arguable basis in law under 28 U.S.C.  \r\n\n1915(e).  This  court has thoroughly reviewed  the record and\r\n\nSinai's brief  on appeal.   We agree  that the  complaint was\r\n\nproperly  dismissed, for the  reasons stated by  the district\r\n\ncourt.   Accordingly, the  judgment of the  district court is\r\n\nsummarily affirmed.  See Local Rule 27.1.\r                                    \r\n\n                             -2-\r\r\n",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

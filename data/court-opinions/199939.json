@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/199939/",
+  "absolute_url": "/opinion/199939/tamko-roofing-v-ideal-roofing/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/199939/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:40:36Z",
+  "date_modified": "2017-03-24T11:04:15.338020Z",
+  "type": "010combined",
+  "sha1": "3d25efca6d8ce8df983073c95917aa8cea137dee",
+  "page_count": 1,
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/01-1382A-01A.pdf",
+  "local_path": "pdf/2002/05/06/Tamko_Roofing_v._Ideal_Roofing.pdf",
+  "plain_text": "          United States Court of Appeals\n                        For the First Circuit\n\n\nNos. 01-1382, 01-2273\n\n                  TAMKO ROOFING PRODUCTS, INC.,\n\n                        Plaintiff, Appellee,\n\n                                 v.\n\n                   IDEAL ROOFING COMPANY, LTD.,\n\n                        Defendant, Appellant.\n\n\n\n                            ERRATA SHEET\n\n     The opinion of this court, issued March 7, 2002, should be\namended as follows:\n\nCover: after \"Christopher R. Benson with whom Marcy Hogan Greer,\nSusan J. Hightower, and Fulbright & Jaworski L.L.P.,\" add \"and\nJohn R. Keville and Howrey Simon Arnold & White, LLP,\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

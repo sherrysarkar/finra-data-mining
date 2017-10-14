@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/198516/",
+  "absolute_url": "/opinion/198516/united-states-v-sacko/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/198516/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T03:53:52Z",
+  "date_modified": "2017-03-24T10:57:30.633821Z",
+  "type": "010combined",
+  "sha1": "193048d515a732b7ffea63a9554081c4f476a209",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/cgi-bin/getopn.pl?OPINION=97-2386A.01A",
+  "local_path": null,
+  "plain_text": "United States Court of Appeals\r\nFor the First Circuit\r\n\n\nNo. 97-2386\r\n\nUNITED STATES,\r\nAppellee,\r\n\nv.\r\n\nGEORGE SACKO,\r\nDefendant, Appellant.\r\n\n\n\nERRATA SHEET\r\n\nThe opinion of this Court issued on March 15, 1999, is amended\r\nas follows:\r\n\nOn page 7, line 17-18, \"as described in the presentence\r\nreport\" is to be deleted.\r\n\nOn page 7, line 20-21, \"Damon, 127 F.3d at 144-45 (holding\r\nthat it is error for a district court to rely on an offender's\r\nuncontested presentencing report).\" is to be deleted and replaced\r\nwith \"Taylor, 495 U.S. at 600 (stating that \"the language of     \r\n924(e) generally supports the inference that Congress intended\r\nthe sentencing court to look only to the fact that the defendant\r\nhad been convicted of crimes falling within certain categories, and\r\nnot to the facts underlying the prior convictions.)\"\n",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

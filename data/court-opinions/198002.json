@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/198002/",
+  "absolute_url": "/opinion/198002/johanson-v-daines/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/198002/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T03:43:21Z",
+  "date_modified": "2017-03-24T10:54:16.045695Z",
+  "type": "010combined",
+  "sha1": "d6e0418b47e84ab02181517cf5ad737b419638d7",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/cgi-bin/getopn.pl?OPINION=98-1106.01A",
+  "local_path": null,
+  "plain_text": "[NOT FOR PUBLICATION   NOT TO BE CITED AS PRECEDENT]\r\n\nUnited States Court of Appeals\r\nFor the First Circuit\r\n\nNo. 98-1106\r\n\n   SVEN A. JOHANSON,\r\n Plaintiff, Appellant,\r\n\n           v.\r\n\nDONALD R. DAINES, ET AL.,\r\n Defendants, Appellees.\r\n\nAPPEAL FROM THE UNITED STATES DISTRICT COURT\r\nFOR THE DISTRICT OF MASSACHUSETTS\r\n\n[Hon. Nancy Gertner, U.S. District Judge]\r\n\n         Before\r\n\nTorruella, Chief Judge,\r\n\nSelya, Circuit Judge,\r\n\nand Schwarzer,* Senior District Judge.\r\n\nSven A. Johanson, pro se, with whom Schneider, Johanson &amp;\r\nSilin was on brief, for appellant.\r\nIan Crawford, with whom Todd &amp; Weld was on brief, for\r\nappellees.\r\n\nJune 8, 1998\r\n\n\n*Of the Northern District of California, sitting by designation.  Per Curiam.  We have carefully considered this appeal and\r\nfind it to be without merit.  The plaintiff's complaint, construed\r\nmost charitably to him, does not state a claim arising under\r\nfederal law, and the plaintiff has demonstrated no other arguable\r\nbasis for federal jurisdiction.  We therefore summarily affirm the\r\ndismissal of the plaintiff's complaint for substantially the\r\nreasons advanced in the district court's thoughtful rescript.  SeeJohanson v. Daines, No. 97-10137-NG (D. Mass. Nov. 10, 1997)\r\n(unpublished slip op.).\r\n\nAffirmed.\n",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

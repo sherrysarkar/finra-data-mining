@@ -1,0 +1,26 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/199530/",
+  "absolute_url": "/opinion/199530/boston-edison-co-v-ferc/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/199530/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:32:14Z",
+  "date_modified": "2017-03-24T11:02:08.711185Z",
+  "type": "010combined",
+  "sha1": "669e80a106853636ade628bd71fbbae1221419f1",
+  "page_count": 1,
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/00-1055A-01A.pdf",
+  "local_path": "pdf/2001/08/01/Boston_Edison_Co._v._FERC.pdf",
+  "plain_text": "         United States Court of Appeals\n                       For the First Circuit\n\nNo. 00-1055\n                       BOSTON EDISON COMPANY,\n\n                            Petitioner,\n\n                                 v.\n\n              FEDERAL ENERGY REGULATORY COMMISSION,\n\n                            Respondent.\n                             __________\n\n                   NEW ENGLAND POWER COMPANY,\n\n                            Intervenor.\n\n\n                               ERRATA\n\n    The opinion of this Court, issued on December 1, 2000, should be\n\namended as follows.\n\n    On page 11, line 4 of footnote 6, replace \" sub no.\" with \" sub\n\nnom.\".\n\n    On page 19, line 9 of 2nd full paragraph, delete \", which\" and\n\nreplace with \"that\".\n\n    On page 23, line 13 of 1st full paragraph, replace \"filing\" with\n\n\"filings\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/185758/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/202105/"
+  ]
+}

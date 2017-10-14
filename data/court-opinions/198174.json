@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/198174/",
+  "absolute_url": "/opinion/198174/hamilton-v-fraser/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/198174/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T03:47:07Z",
+  "date_modified": "2017-03-24T10:54:58.687296Z",
+  "type": "010combined",
+  "sha1": "b8118be31d00871bb94b6f0b7eab63d3119e0f06",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/cgi-bin/getopn.pl?OPINION=98-1588.01A",
+  "local_path": null,
+  "plain_text": "[NOT FOR PUBLICATION--NOT TO BE CITED AS PRECEDENT]\r\n\nUnited States Court of Appeals\r\nFor the First Circuit\r\n\nNo. 98-1588\r\n\nFREDERICK E. HAMILTON, ET AL.,\r\n\nPlaintiffs, Appellants,\r\n\n           v.\r\n\n  FRASER PAPERS, INC.,\r\n\n  Defendant, Appellee.\r\n\nAPPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\nFOR THE DISTRICT OF MAINE\r\n\n[Hon. Eugene W. Beaulieu, U.S. Magistrate Judge]\r\n\n         Before\r\n\nBoudin, Circuit Judge,\r\nBownes, Senior Circuit Judge,\r\nand Lynch, Circuit Judge.\r\n\nMichael A. Duddy with whom Kozak, Gayer &amp; Brodek, P.A. was on\r\nbrief for appellants.\r\nJohn D. Gleason with whom James L. Costello and Curtis Thaxter\r\nStevens Broder &amp; Micoleau LLC were on brief for appellee.\r\n\nOctober 14, 1998\r\n\n             Per Curiam. In a well-reasoned decision, the magistrate\r\njudge granted summary judgment to the defendant in the district\r\ncourt.  We have reviewed the briefs and pertinent record documents\r\nand are satisfied that the district court correctly resolved the\r\nmatter.  To put the matter in a nutshell, the inferences relied on\r\nby the plaintiffs as warranting a full-fledged trial are too thin\r\nto create material issues of disputed fact.\r\nAffirmed. \n",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

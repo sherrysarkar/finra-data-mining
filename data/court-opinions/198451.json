@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/198451/",
+  "absolute_url": "/opinion/198451/united-states-v-gaines/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/198451/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T03:52:43Z",
+  "date_modified": "2017-03-24T10:56:56.422777Z",
+  "type": "010combined",
+  "sha1": "82522ac7c274e719619ec96cec142deb7d768db4",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/cgi-bin/getopn.pl?OPINION=97-2209A.01A",
+  "local_path": null,
+  "plain_text": "United States Court of Appeals\r\nFor the First Circuit\r\n\nNo.  97-2209\r\n\nUNITED STATES,\r\n\n  Appellee,\r\n\n      v.\r\n\nCORWIN GAINES,\r\n\nDefendant, Appellant.\r\n\nERRATA SHEET\r\n\nThe opinion of this Court issued on March 10, 1999 is\r\namended as follows:\r\n\np. 5, lines 15-16:\r\n\nRemove: \"In the dining room, the police discovered a black duffel\r\nbag with more ziplock bags full of crack cocaine.\"  \r\n\nReplace with: \"In the dining room, the police discovered a black\r\nduffel bag with empty ziplock bags of a type similar to those\r\nfound to contain crack cocaine on the porch.\"\r\n\np.3, line 24:\r\n\nRemove: \"Franklin would ring the doorbell at the entrance of the\r\napartment building and wait for Gaines to drop a key down from\r\nthe third-story outdoor porch.\"\r\n\nReplace with: \"Franklin would ring the doorbell at the entrance\r\nof the apartment building and wait to be let in.  Either a key\r\nwould be dropped to Franklin from the third-story outdoor porch\r\nor someone would let Franklin in.\"\r\n\np.4, lines 15-16\r\n\nRemove: \"The officers who conducted the surveillance confirmed\r\nthat Gaines would drop a key to let Franklin in the building . .\r\n. \"\r\n\nReplace with: \"The officers who conducted the surveillance\r\nconfirmed that a key was dropped or Franklin was let in or\r\notherwise accessed the building . . .\"\r\n\np.11, line 17\r\n\nRemove: \"testimony on its face\"\r\nReplace with: \"statements on their face\"\r\n\np.11, line 24\r\n\nRemove: \"testimony\"\r\nReplace with: \"statements\"\r\n\np.16, line 5:\r\n\nRemove: \"Lina\"\r\nReplace with: \"Lino\"\n",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

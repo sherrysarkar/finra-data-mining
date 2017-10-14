@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/199602/",
+  "absolute_url": "/opinion/199602/united-states-v-hiltz/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/199602/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:33:46Z",
+  "date_modified": "2017-03-24T11:02:29.395752Z",
+  "type": "010combined",
+  "sha1": "dfea801b239681f13af0efb4007851d0e161d3f0",
+  "page_count": 1,
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/00-2436A-01A.pdf",
+  "local_path": "pdf/2001/09/18/US_v._Hiltz.pdf",
+  "plain_text": "           United States Court of Appeals\n                        For the First Circuit\n\n\nNo. 00-2436\n\n                      UNITED STATES OF AMERICA,\n\n                                   Appellee,\n\n                                      v.\n\n                          LAWRENCE B. HILTZ,\n\n                        Defendant, Appellant.\n\n\n                              ERRATA SHEET\n\n\n    The opinion of this Court, issued on July 24, 2001, should\n\nbe amended as follows:\n\n    On page 6, line 5, substitute \". . . a downward departure.\n\nBased   upon   its   review   of    the    submitted   affidavits   and   its\n\nfamiliarity with the parties and the case . . .\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

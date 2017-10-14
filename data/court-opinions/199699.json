@@ -1,0 +1,25 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/199699/",
+  "absolute_url": "/opinion/199699/dibenedetto-v-hall/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/199699/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:36:18Z",
+  "date_modified": "2017-03-24T11:02:54.599263Z",
+  "type": "010combined",
+  "sha1": "19cb03f40a5932875c50f873110de1e2dd52b2bf",
+  "page_count": 2,
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/00-2279A-01A.pdf",
+  "local_path": "pdf/2001/11/30/DiBenedetto_v._Hall.pdf",
+  "plain_text": "         United States Court of Appeals\n                    For the First Circuit\n\n\nNo. 00-2279\n\n\n                      FRANK DIBENEDETTO,\n\n                    Petitioner, Appellant,\n\n                              v.\n\n                    TIMOTHY HALL, ET AL.,\n\n                   Respondents, Appellees.\n\n\n\n\n                        ERRATA SHEET\n\n     The opinion of this court, issued November 16, 2001,\nshould be amended as follows:\n\n    On page 2, after \"(\"AEDPA\")\", insert comma.\n\n    On page 7, change \"Id.\" to \"510 N.E.2d at\"\n\n    On page 9, change \"discuss\" to \"decide\".\n\n    On page 12, insert \"see\" before \"also\"\n\n     On page 12, change \"Id. at 21.\" to \"United States v.\nPatrick, 248 F.3d 11, 21 (1st Cir. 2001).\"\n\n    On page 14, insert \"had\" before \"a background chorus\"\n\n    On page 20, capitalize \"report\"\n\n    On page 21, after \"constitutional\" insert \"right to\"\n\f-2-\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<pre class=\"inline\">         United States Court of Appeals\n                    For the First Circuit\n\n\nNo. 00-2279\n\n\n                      FRANK DIBENEDETTO,\n\n                    Petitioner, Appellant,\n\n                              v.\n\n                    TIMOTHY HALL, ET AL.,\n\n                   Respondents, Appellees.\n\n\n\n\n                        ERRATA SHEET\n\n     The opinion of this court, issued November 16, 2001,\nshould be amended as follows:\n\n    On page 2, after \"(\"AEDPA\")\", insert comma.\n\n    On page 7, change \"Id.\" to \"510 N.E.2d at\"\n\n    On page 9, change \"discuss\" to \"decide\".\n\n    On page 12, insert \"see\" before \"also\"\n\n     On page 12, change \"Id. at 21.\" to \"United States v.\nPatrick, </pre><span class=\"citation\" data-id=\"199398\"><a href=\"/opinion/199398/united-states-v-patrick/\"><span class=\"volume\">248</span> <span class=\"reporter\">F.3d</span> <span class=\"page\">11</span></a></span><pre class=\"inline\">, 21 (1st Cir. 2001).\"\n\n    On page 14, insert \"had\" before \"a background chorus\"\n\n    On page 20, capitalize \"report\"\n\n    On page 21, after \"constitutional\" insert \"right to\"\n\f-2-\n\f</pre>",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/199398/"
+  ]
+}

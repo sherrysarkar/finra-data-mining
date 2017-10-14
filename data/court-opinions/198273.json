@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/198273/",
+  "absolute_url": "/opinion/198273/feliciano-v-state/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/198273/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T03:49:11Z",
+  "date_modified": "2017-03-24T10:56:07.529525Z",
+  "type": "010combined",
+  "sha1": "0be1e4b1322ccba2052a15539c4bc2033980f2f0",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/cgi-bin/getopn.pl?OPINION=98-1436.01A",
+  "local_path": null,
+  "plain_text": "WPCJ  \n[     Z:E[{IK&gt;II'if'UHZqVvm\tIeNR0\nSeTO:`~xDv;#\"2W:J*u[A{]|(a5]tU5\\`=P91T!PPQGQdInKG mL0NT\r1QE#p&amp;$9|?)\tFAxA&gt;ajlQ2]m%htMuT3@8R|yH%#ANEUKIe!ikZO\"FV]%NT]^<kl></kl>",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

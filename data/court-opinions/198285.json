@@ -1,0 +1,25 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/198285/",
+  "absolute_url": "/opinion/198285/united-states-v-lopez-gomez/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/198285/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T03:49:25Z",
+  "date_modified": "2017-03-24T10:56:08.459527Z",
+  "type": "010combined",
+  "sha1": "d88fc7b212cb250eebad90b7cafb61d6e404bcd0",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/cgi-bin/getopn.pl?OPINION=98-1066.01A",
+  "local_path": null,
+  "plain_text": " [NOT FOR PUBLICATION--NOT TO BE CITED AS PRECEDENT]\r\n            United States Court of Appeals\r\n                For the First Circuit\r\n\nNo. 98-1066\r\n\n                     UNITED STATES,\r\n\n                       Appellee,\r\n\n                           v.\r\n\n                  JUAN A. LOPEZ GOMEZ,\r\n\n                 Defendant, Appellant.\r\n\n      APPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\n            FOR THE DISTRICT OF PUERTO RICO\r\n\n     [Hon. Hector M. Laffitte, U.S. District Judge]\r\n\n                         Before\r\n\n                 Stahl, Circuit Judge,\r\n           Campbell, Senior Circuit Judge,\r\n              and Lynch, Circuit Judge.\r\n\nLuis Rafael Rivera on brief for appellant.\r\nGuillermo Gil, United States Attorney, Jose A. Quiles-\r\nEspinosa, Senior Litigation Counsel, and Michelle Morales,\r\nAssistant United States Attorney, on brief for appellee.\r\n\nJanuary 12, 1999\r\n\nPer Curiam.  Upon careful review of the briefs and record, we\r\nperceive no clear error in the denial of safety valve relief under\r\n18 U.S.C.  3553(f)(5) and U.S.S.G.  5C1.2(5).  We will not\r\nsecond-guess the district court's negative assessment of\r\ndefendant's credibility, and there was adequate support for the\r\nconclusion that defendant had not truthfully provided all his\r\ninformation.  Accordingly, the district court had sufficient\r\ngrounds to refuse the safety valve.  See United States v. Montanez,\r\n82 F.3d 520, 523 (1st Cir. 1996).\r\nAffirmed.  See 1st Cir. Loc. R. 27.1.\r\n\n                          -2-\n",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<pre class=\"inline\"> [NOT FOR PUBLICATION--NOT TO BE CITED AS PRECEDENT]\r\n            United States Court of Appeals\r\n                For the First Circuit\r\n\nNo. 98-1066\r\n\n                     UNITED STATES,\r\n\n                       Appellee,\r\n\n                           v.\r\n\n                  JUAN A. LOPEZ GOMEZ,\r\n\n                 Defendant, Appellant.\r\n\n      APPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\n            FOR THE DISTRICT OF PUERTO RICO\r\n\n     [Hon. Hector M. Laffitte, U.S. District Judge]\r\n\n                         Before\r\n\n                 Stahl, Circuit Judge,\r\n           Campbell, Senior Circuit Judge,\r\n              and Lynch, Circuit Judge.\r\n\nLuis Rafael Rivera on brief for appellant.\r\nGuillermo Gil, United States Attorney, Jose A. Quiles-\r\nEspinosa, Senior Litigation Counsel, and Michelle Morales,\r\nAssistant United States Attorney, on brief for appellee.\r\n\nJanuary 12, 1999\r\n\nPer Curiam.  Upon careful review of the briefs and record, we\r\nperceive no clear error in the denial of safety valve relief under\r\n18 U.S.C.  3553(f)(5) and U.S.S.G.  5C1.2(5).  We will not\r\nsecond-guess the district court's negative assessment of\r\ndefendant's credibility, and there was adequate support for the\r\nconclusion that defendant had not truthfully provided all his\r\ninformation.  Accordingly, the district court had sufficient\r\ngrounds to refuse the safety valve.  See United States v. Montanez,\r\n</pre><span class=\"citation\" data-id=\"196724\"><a href=\"/opinion/196724/united-states-v-montanez/\"><span class=\"volume\">82</span> <span class=\"reporter\">F.3d</span> <span class=\"page\">520</span></a></span><pre class=\"inline\">, 523 (1st Cir. 1996).\r\nAffirmed.  See 1st Cir. Loc. R. 27.1.\r\n\n                          -2-\n</pre>",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/196724/"
+  ]
+}

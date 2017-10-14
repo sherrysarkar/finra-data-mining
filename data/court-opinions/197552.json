@@ -1,0 +1,25 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/197552/",
+  "absolute_url": "/opinion/197552/santos-v-ins/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/197552/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T03:32:48Z",
+  "date_modified": "2017-03-24T10:52:43.861660Z",
+  "type": "010combined",
+  "sha1": "8ea06cd336de13d87795a75ee0c1c9ad310281ba",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/cgi-bin/getopn.pl?OPINION=97-1428.01A",
+  "local_path": null,
+  "plain_text": "\n\n                  UNITED STATES COURT OF APPEALS\r\n                      FOR THE FIRST CIRCUIT\r\n\n                                        \r\n\nNo.  97-1428\r\n\n                       CARLOS D. A. SANTOS,\r\n                           Petitioner,\r\n\n                                v.\r\n\n             IMMIGRATION AND NATURALIZATION SERVICE,\r\n                           Respondent.\r\n\n                                           \r\n\n                              Before\r\n                     Torruella, Chief Judge,\r                                                     \r\n                         Stahl and Lynch,\r\n                         Circuit Judges.\r                                                 \r\n                                             \r\n\n                          ORDER OF COURT\r\n\n                     Entered  August 28, 1997\r\n\n     The  INS contends  that the  appropriate court  in  which to\r\nraise  a   constitutional  or   jurisdictional  challenge   to  a\r\ndeportation  order is  the court of  appeals in the  context of a\r\npetition for  judicial review, rather than the  district court in\r\nthe  context of  a habeas  petition.   Consequently, the  INS has\r\nmoved  for reconsideration  of our  April 17,  1997 order,  which\r\ndismissed petitioner's petition  for judicial review for  lack of\r\njurisdiction, but left open the possibility that petitioner might\r\nbe able to  obtain some review through a habeas petition filed in\r\nthe  district court.   The  INS's position  is foreclosed  by our\r\ndecision in Kolster v. INS, 101 F.3d 785 (1st Cir. 1996).\r\n\n     The petition for rehearing is denied.\r\n\n                                        By the Court\r\n",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<pre class=\"inline\">\n\n                  UNITED STATES COURT OF APPEALS\r\n                      FOR THE FIRST CIRCUIT\r\n\n                                        \r\n\nNo.  97-1428\r\n\n                       CARLOS D. A. SANTOS,\r\n                           Petitioner,\r\n\n                                v.\r\n\n             IMMIGRATION AND NATURALIZATION SERVICE,\r\n                           Respondent.\r\n\n                                           \r\n\n                              Before\r\n                     Torruella, Chief Judge,\r                                                     \r\n                         Stahl and Lynch,\r\n                         Circuit Judges.\r                                                 \r\n                                             \r\n\n                          ORDER OF COURT\r\n\n                     Entered  August 28, 1997\r\n\n     The  INS contends  that the  appropriate court  in  which to\r\nraise  a   constitutional  or   jurisdictional  challenge   to  a\r\ndeportation  order is  the court of  appeals in the  context of a\r\npetition for  judicial review, rather than the  district court in\r\nthe  context of  a habeas  petition.   Consequently, the  INS has\r\nmoved  for reconsideration  of our  April 17,  1997 order,  which\r\ndismissed petitioner's petition  for judicial review for  lack of\r\njurisdiction, but left open the possibility that petitioner might\r\nbe able to  obtain some review through a habeas petition filed in\r\nthe  district court.   The  INS's position  is foreclosed  by our\r\ndecision in Kolster v. INS, </pre><span class=\"citation\" data-id=\"730820\"><a href=\"/opinion/730820/alfredo-a-kolster-v-immigration-and-naturalization-service/\"><span class=\"volume\">101</span> <span class=\"reporter\">F.3d</span> <span class=\"page\">785</span></a></span><pre class=\"inline\"> (1st Cir. 1996).\r\n\n     The petition for rehearing is denied.\r\n\n                                        By the Court\r\n</pre>",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/730820/"
+  ]
+}

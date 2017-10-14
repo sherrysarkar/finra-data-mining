@@ -1,0 +1,27 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/198470/",
+  "absolute_url": "/opinion/198470/united-states-v-benitez/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/198470/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T03:53:00Z",
+  "date_modified": "2017-03-24T10:57:14.954639Z",
+  "type": "010combined",
+  "sha1": "2ed870f878e50c92434c7bde961af39c3b2feb3c",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/cgi-bin/getopn.pl?OPINION=98-1048.01A",
+  "local_path": null,
+  "plain_text": "     [NOT FOR PUBLICATION NOT TO BE CITED AS PRECEDENT]\n               United States Court of Appeals\n                   For the First Circuit\n\nNo. 98-1048\n\n                        UNITED STATES,\n\n                          Appellee,\n\n                              v.\n\n                        JUAN BENITEZ,\n\n                    Defendant, Appellant.\n\n         APPEAL FROM THE UNITED STATES DISTRICT COURT\n\n              FOR THE DISTRICT OF MASSACHUSETTS\n\n       [Hon. Douglas P. Woodlock, U.S. District Judge]\n\n                            Before\n\n                    Stahl, Circuit Judge,\n              Campbell, Senior Circuit Judge,\n                 and Lynch, Circuit Judge.\n\n   Juan Benitez on brief pro se.\n   Donald K. Stern, United States Attorney, and Robert Peabody,\nAssistant U.S. Attorney, on brief for appellee.\n\nMay 21, 1999\n\n          Per Curiam.  After carefully reviewing the briefs and\nrecord on appeal, we affirm the judgment below.  The district\ncourt's determination that the appellant was accountable for\nsufficient quantities of cocaine to support the sentence was\nnot clearly erroneous.  United States v. Jimenez Martinez, 83\nF.3d 488, 492 (1st Cir. 1996).  The court engaged in an\nindividualized inquiry into the appellant's involvement with\nthe cocaine at issue.  United States v. Innamorati, 996 F.2d\n456, 488-489 (1st Cir. 1993).  Appellant's remaining argument\nwas not raised below and will not be considered for the first\ntime on appeal.  United States v. Dietz, 950 F.2d 50, 55 (1st\nCir. 1991). \n          Affirmed.  Loc. R. 27.1.\n",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<pre class=\"inline\">     [NOT FOR PUBLICATION NOT TO BE CITED AS PRECEDENT]\n               United States Court of Appeals\n                   For the First Circuit\n\nNo. 98-1048\n\n                        UNITED STATES,\n\n                          Appellee,\n\n                              v.\n\n                        JUAN BENITEZ,\n\n                    Defendant, Appellant.\n\n         APPEAL FROM THE UNITED STATES DISTRICT COURT\n\n              FOR THE DISTRICT OF MASSACHUSETTS\n\n       [Hon. Douglas P. Woodlock, U.S. District Judge]\n\n                            Before\n\n                    Stahl, Circuit Judge,\n              Campbell, Senior Circuit Judge,\n                 and Lynch, Circuit Judge.\n\n   Juan Benitez on brief pro se.\n   Donald K. Stern, United States Attorney, and Robert Peabody,\nAssistant U.S. Attorney, on brief for appellee.\n\nMay 21, 1999\n\n          Per Curiam.  After carefully reviewing the briefs and\nrecord on appeal, we affirm the judgment below.  The district\ncourt's determination that the appellant was accountable for\nsufficient quantities of cocaine to support the sentence was\nnot clearly erroneous.  United States v. Jimenez Martinez, </pre><span class=\"citation\" data-id=\"196722\"><a href=\"/opinion/196722/united-states-v-jimenez-martinez/\"><span class=\"volume\">83</span>\n<span class=\"reporter\">F.3d</span> <span class=\"page\">488</span></a></span><pre class=\"inline\">, 492 (1st Cir. 1996).  The court engaged in an\nindividualized inquiry into the appellant's involvement with\nthe cocaine at issue.  United States v. Innamorati, </pre><span class=\"citation\" data-id=\"609734\"><a href=\"/opinion/609734/united-states-v-kenneth-innamorati-united-states-v-william-thompson/\"><span class=\"volume\">996</span> <span class=\"reporter\">F.2d</span>\n<span class=\"page\">456</span></a></span><pre class=\"inline\">, 488-489 (1st Cir. 1993).  Appellant's remaining argument\nwas not raised below and will not be considered for the first\ntime on appeal.  United States v. Dietz, </pre><span class=\"citation\" data-id=\"572657\"><a href=\"/opinion/572657/united-states-v-william-a-dietz/\"><span class=\"volume\">950</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">50</span></a></span><pre class=\"inline\">, 55 (1st\nCir. 1991). \n          Affirmed.  Loc. R. 27.1.\n</pre>",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/196722/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/572657/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/609734/"
+  ]
+}

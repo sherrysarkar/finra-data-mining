@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/199999/",
+  "absolute_url": "/opinion/199999/goya-foods-inc-v-unanue/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/199999/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:41:40Z",
+  "date_modified": "2017-03-24T11:04:31.124802Z",
+  "type": "010combined",
+  "sha1": "031c4f3e925f5cc618df74925b3f4e5aa3c3ea9a",
+  "page_count": 1,
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/01-1928A-01A.pdf",
+  "local_path": "pdf/2002/06/13/Goya_Foods_Inc._v._Unanue.pdf",
+  "plain_text": "          United States Court of Appeals\n                     For the First Circuit\n\n\nNos. 01-1928\n     01-2497\n\n                        GOYA FOODS, INC.,\n                      Petitioner, Appellee,\n\n                               v.\n\n                 WALLACK MANAGEMENT CO. ET AL.,\n                    Respondents, Appellants.\n\n\n                          ERRATA SHEET\n     The opinion of this Court issued on May 17, 2002 is\ncorrected as follows:\n     On page 9, line 10, replace $4,6000,000 with $4,600,000.\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

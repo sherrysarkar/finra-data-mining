@@ -1,0 +1,26 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/199987/",
+  "absolute_url": "/opinion/199987/tse-v-united-states/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/199987/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:41:25Z",
+  "date_modified": "2017-03-24T11:04:28.966983Z",
+  "type": "010combined",
+  "sha1": "3bf734f37641ef9129ca9c049cbdd759172f1406",
+  "page_count": 1,
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/00-2540A-01A.pdf",
+  "local_path": "pdf/2002/06/06/Tse_v._US.pdf",
+  "plain_text": "          United States Court of Appeals\n                      For the First Circuit\n\n\nNo. 00-2540\n\n\n                           STEPHEN TSE,\n\n                      Petitioner, Appellant,\n\n                                v.\n\n                          UNITED STATES,\n\n                      Respondent, Appellee.\n\n\n\n\n                           ERRATA SHEET\n\n\n     The opinion of this Court issued on May 17, 2002 is amended as\nfollows:\n\n     On page 3, lines 8 and 9, \"28 U.S.C. § 1756\" should be\ncorrected to read \"28 U.S.C. § 1746\".\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/2165/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/201586/"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/199152/",
+  "absolute_url": "/opinion/199152/fite-v-digital-equipment/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/199152/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:25:24Z",
+  "date_modified": "2017-03-24T11:01:05.901094Z",
+  "type": "010combined",
+  "sha1": "fbba6343700ec10726bf5447a46ad89e19614121",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/99-1935-01A.pdf",
+  "local_path": "pdf/2000/11/13/Fite_v._Digital_Equipment.pdf",
+  "plain_text": "Error: May not be a PDF file (continuing anyway)\nError: PDF file is damaged - attempting to reconstruct xref table...\nError: Couldn't find trailer dictionary\nError: Couldn't read xref table\n",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/199174/"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/199523/",
+  "absolute_url": "/opinion/199523/united-states-v-tejada/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/199523/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:32:11Z",
+  "date_modified": "2017-03-24T11:02:08.512292Z",
+  "type": "010combined",
+  "sha1": "4296b3d605556c390d4eb04d1ffb887bd9160be2",
+  "page_count": 2,
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/00-1461A-01A.pdf",
+  "local_path": "pdf/2001/07/30/US_v._Tejada.pdf",
+  "plain_text": "            United States Court of Appeals\n                       For the First Circuit\n\n\nNos.        00-1461\n       00-1491\n\n                      UNITED STATES OF AMERICA,\n\n                              Appellee,\n\n                                 v.\n\n                         PEDRO LUIS TEJADA,\n\n                        Defendant, Appellant.\n\n\n                               ERRATA\n\n\n     The opinion of the court published on June 27, 2001, is\namended as follows:\n\n     One page 7, on the second line following the block quote,\ninsert after \"We acknowledge\" the words \"counsel’s argument.\"\n\fPossible dates for lunch with\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

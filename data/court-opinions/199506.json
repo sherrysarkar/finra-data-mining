@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/199506/",
+  "absolute_url": "/opinion/199506/saldana-sanchez-v-lopez-gerena/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/199506/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:31:58Z",
+  "date_modified": "2017-03-24T11:02:08.136721Z",
+  "type": "010combined",
+  "sha1": "b3230fd5238e25d05806d8f7488a11c40dff4286",
+  "page_count": 2,
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/00-1703A-01A.pdf",
+  "local_path": "pdf/2001/07/23/Saldana-Sanchez_v._Lopez-Gerena.pdf",
+  "plain_text": "          United States Court of Appeals\n                      For the First Circuit\n\n\nNo. 00-1703\n\n NILDA M. SALDANA-SANCHEZ; RAFAEL DELGADO-MESTRE; JUAN NIEVES-\nSANTIAGO; MIGUEL RAMOS-CRUZ; SINFORIANO CASTILLO-GARCIA; JULIO\nC. MOJICA-UBILES; MIGUEL A. OCASIO-SANTOS; MARGARITA POUPART-\nFONTANEZ; HILDA TORRES-PENA; MINERVA PACHOT-RIVERA; JOSE L.\nORTIZ-ORTIZ; ZULMA RIVERA-ORTIZ; ANGEL L. RODRIGUEZ-LAZU; LUZ R.\nDIAZ-MORALES; JOSE L. BAEZ-RODRIGUEZ; JOSE IVAN CASTILLO-ORTIZ,\n\n                      Plaintiffs-Appellants,\n\n                      LUZ M. ORTIZ-QUINTANA,\n\n                            Plaintiff,\n\n                                v.\n\n    JULIO CESAR LOPEZ-GERENA, Mayor of the Municipality of\n                   Humacao; RAMON VEGA-SOSA,\n\n                       Defendants-Appellees,\n\n              MARGARITA GONZALEZ-VAZQUEZ; RAUL FERRER\n\n                            Defendants.\n\n\n\n                           ERRATA SHEET\n\n     The opinion of this Court issued on July 12, 2001, is\namended as follows:\n\n     On page 9, after the word “dismissed” at the end of the\npage, add a new footnote 10, reading:\n\nDismissal was sought by the plaintiffs on the ground that the\nissues presented in the second appeal duplicated those in the\nfirst, and was granted, without prejudice, pursuant to Fed. R.\nApp. P. 42(b). Although the dismissal of the second appeal\n\fprecludes our direct review of the denial of reconsideration,\nthere has been no suggestion that the dismissal affects our\nability to rely on the district court's written opinion --\nissued in connection with the second appeal -- as setting out\nthe court's reasons for granting the protective order in the\nfirst instance.\n\n     On page 12, line 19, strike the phrase “and later denial\nof reconsideration.”\n\n     On page 12, line 21, replace “these orders” with “this\norder” in both instances, and replace “were” with “was.”\n\n     On page 12, line 21, replace “'final decisions'” with “a\n'final decision.'”\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

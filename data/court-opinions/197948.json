@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/197948/",
+  "absolute_url": "/opinion/197948/united-states-v-guerrero-soriano/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/197948/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T03:42:21Z",
+  "date_modified": "2017-03-24T10:53:50.533391Z",
+  "type": "010combined",
+  "sha1": "e439c6f8a57b01ae1f191bf577f33b72157ecf96",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/cgi-bin/getopn.pl?OPINION=97-1789.01A",
+  "local_path": null,
+  "plain_text": "    [NOT FOR PUBLICATION--NOT TO BE CITED AS PRECEDENT]\r\n               United States Court of Appeals\r\n                   For the First Circuit\r\n\nNo. 97-1789\r\n\n                        UNITED STATES,\r\n\n                          Appellee,\r\n\n                              v.\r\n\n                 AMABLE D. GUERRERO-SORIANO,\r\n\n                    Defendant, Appellant.\r\n\n        APPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\n              FOR THE DISTRICT OF PUERTO RICO\r\n\n     [Hon. Juan M. Perez-Gimenez, U.S. District Judge]\r\n\n                           Before\r\n\n                   Torruella, Chief Judge,\r\n               Coffin, Senior Circuit Judge,\r\n                 and Stahl, Circuit Judge.\r\n\n   Evelyn Quinones Carrasquillo on brief for appellant.\r\n   Guillermo Gil, United States Attorney, Camille Velez-Rive,\r\nNelson Perez-Sosa, Assistant United States Attorneys, and Jose A.\r\nQuiles-Espinosa, Senior Litigation Counsel, on brief for appellee.\r\n\nMay 14, 1998\r\n\n                                       Per Curiam.  Upon careful review of the briefs and\r\nrecord, we conclude that the district court was not required\r\nto grant defendant safety valve relief under U.S.S.G. \r\n5C1.2(5) or an adjustment for his role in the offense under\r\nU.S.S.G.  3B1.2(b).  The findings underlying the district\r\ncourt's rulings -- that defendant had not truthfully provided\r\nall his information about the offense, and that he was not\r\nless culpable than most other participants -- are adequately\r\nsupported by the record and the inferences reasonably to be\r\ndrawn therefrom.\r\n          Affirmed.  See 1st Cir. Loc. R. 27.1.\n",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

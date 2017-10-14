@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/199062/",
+  "absolute_url": "/opinion/199062/norwood-ma-v-ferc/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/199062/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T04:23:45Z",
+  "date_modified": "2017-03-24T11:00:35.698274Z",
+  "type": "010combined",
+  "sha1": "4424f386c4aac75e7362f69500f41ed1e4b1f612",
+  "page_count": 2,
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/99-2155A-01A.pdf",
+  "local_path": "pdf/2000/08/25/Norwood_MA_v._FERC.pdf",
+  "plain_text": "         United States Court of Appeals\n                     For the First Circuit\n\n\nNo. 99-2155\n\n                 TOWN OF NORWOOD, MASSACHUSETTS,\n\n                            Petitioner,\n\n                                v.\n\n              FEDERAL ENERGY REGULATORY COMMISSION,\n\n                            Respondent.\n                             __________\n\n                   NEW ENGLAND POWER COMPANY,\n\n                            Intervenor.\n\n\n                              ERRATA\n\n\n    At page 12, line 11, delete: \"--by contrast to our case;\" and\n\nadd a semicolon after \"clause\".\n\n    Also on page 12, add the following full paragraph between the two\n\nexisting full paragraphs:\n\n         By contrast, in our case there is no effort by anyone\n\n    to charge or obtain a rate different than that on file with\n\n    the Commission. And, as for duration, all of the contract\n\n    terms being given effect by the FERC orders under review are\n\n    on file with the Commission; the Norwood-New England Power\n\n    contract amendment, filed with the Commission in 1989,\n\fexplicitly permitted Norwood to elect to extend the contract\n\n(which Norwood then did). Thus, the Commission, when it\n\naccepted the amendment for filing, knew that Norwood now had\n\nthe option to extend the duration by specific increments.\n\nThis is a situation very different from Arkla where, based\n\non a \"favored nations\" clause containing no specific rate,\n\nthe producer sought--over the Commission’s expressed\n\nobjection--to recover from the purchasing utility a rate for\n\nnatural gas higher than the specific rate on file with the\n\nCommission.\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

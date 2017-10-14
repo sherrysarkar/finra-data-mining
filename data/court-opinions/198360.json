@@ -1,0 +1,26 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/198360/",
+  "absolute_url": "/opinion/198360/taylor-v-rhode-island/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/198360/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T03:50:59Z",
+  "date_modified": "2017-03-24T10:56:39.299727Z",
+  "type": "010combined",
+  "sha1": "96e0f35db5e8f3c35b49ec8f7ada0202fdb88a44",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/cgi-bin/getopn.pl?OPINION=98-2066.01A",
+  "local_path": null,
+  "plain_text": "    [NOT FOR PUBLICATION--NOT TO BE CITED AS PRECEDENT]\r\n               United States Court of Appeals\r\n                   For the First Circuit\r\n\nNo. 98-2066\r\n\n                  WILLIAM L. TAYLOR, ET AL.,\r\n\n                   Plaintiffs, Appellants,\r\n\n                              v.\r\n\n                STATE OF RHODE ISLAND, ET AL.,\r\n\n                    Defendants, Appellees.\r\n\n         APPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\n               FOR THE DISTRICT OF RHODE ISLAND\r\n\n           [Hon. Mary M. Lisi, U.S. District Judge]\r\n\n                            Before\r\n\n                   Torruella, Chief Judge,\r\n                 Cyr, Senior Circuit Judge,\r\n                 and Selya, Circuit Judge.\r\n\n   Richard A. Sinapi, American Civil Liberties Union, Rhode\r\nIsland Affiliate and Sinapi Law Associates, Ltd. on brief for\r\nappellants.\r\n   Jeffrey B. Pine, Attorney General, Thomas A. Palombo, Special\r\nAssistant Attorney General, and Ellen Evans Alexander, Deputy Chief\r\nLegal Counsel on Motion for Summary Disposition for appellees.\r\n\nMarch 4, 1999\r\n\n           Per Curiam.  Upon careful review of the record, the\r\nbriefs, and the history of this case, Taylor  v. State of Rhode\r\nIsland, 101 F.3d 780 (1st Cir. 1996), rev'g 908 F.Supp. 92\r\n(D.R.I. 1995), we conclude that the district court properly\r\ngranted summary judgment on the remaining procedural due\r\nprocess issue.  We reach this conclusion essentially for the\r\nreasons stated by the district court in the Memorandum and\r\nDecision dated August 7, 1998, and we do not need to embellish\r\nupon those reasons.  The appellants' particular arguments do\r\nnot persuade us otherwise.\r\n           The appellees' motion for summary disposition is\r\ngranted. \r\n           The judgment is affirmed.  See 1st Cir. Loc. R. 27.1.\r\n",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<pre class=\"inline\">    [NOT FOR PUBLICATION--NOT TO BE CITED AS PRECEDENT]\r\n               United States Court of Appeals\r\n                   For the First Circuit\r\n\nNo. 98-2066\r\n\n                  WILLIAM L. TAYLOR, ET AL.,\r\n\n                   Plaintiffs, Appellants,\r\n\n                              v.\r\n\n                STATE OF RHODE ISLAND, ET AL.,\r\n\n                    Defendants, Appellees.\r\n\n         APPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\n               FOR THE DISTRICT OF RHODE ISLAND\r\n\n           [Hon. Mary M. Lisi, U.S. District Judge]\r\n\n                            Before\r\n\n                   Torruella, Chief Judge,\r\n                 Cyr, Senior Circuit Judge,\r\n                 and Selya, Circuit Judge.\r\n\n   Richard A. Sinapi, American Civil Liberties Union, Rhode\r\nIsland Affiliate and Sinapi Law Associates, Ltd. on brief for\r\nappellants.\r\n   Jeffrey B. Pine, Attorney General, Thomas A. Palombo, Special\r\nAssistant Attorney General, and Ellen Evans Alexander, Deputy Chief\r\nLegal Counsel on Motion for Summary Disposition for appellees.\r\n\nMarch 4, 1999\r\n\n           Per Curiam.  Upon careful review of the record, the\r\nbriefs, and the history of this case, Taylor  v. State of Rhode\r\nIsland, </pre><span class=\"citation\" data-id=\"197114\"><a href=\"/opinion/197114/taylor-v-state-of-ri/\"><span class=\"volume\">101</span> <span class=\"reporter\">F.3d</span> <span class=\"page\">780</span></a></span><pre class=\"inline\"> (1st Cir. 1996), rev'g </pre><span class=\"citation\" data-id=\"1457546\"><a href=\"/opinion/1457546/taylor-v-state-of-ri-dept-of-corrections/\"><span class=\"volume\">908</span> <span class=\"reporter\">F. Supp.</span> <span class=\"page\">92</span></a></span><pre class=\"inline\">\r\n(D.R.I. 1995), we conclude that the district court properly\r\ngranted summary judgment on the remaining procedural due\r\nprocess issue.  We reach this conclusion essentially for the\r\nreasons stated by the district court in the Memorandum and\r\nDecision dated August 7, 1998, and we do not need to embellish\r\nupon those reasons.  The appellants' particular arguments do\r\nnot persuade us otherwise.\r\n           The appellees' motion for summary disposition is\r\ngranted. \r\n           The judgment is affirmed.  See 1st Cir. Loc. R. 27.1.\r\n</pre>",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/197114/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/1457546/"
+  ]
+}

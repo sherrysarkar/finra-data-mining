@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/198418/",
+  "absolute_url": "/opinion/198418/capo-roman-v-la-electronica-inc/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/198418/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T03:51:59Z",
+  "date_modified": "2017-03-24T10:56:52.531201Z",
+  "type": "010combined",
+  "sha1": "b4ccc111449330f90a0feb3523630a7cf8bc825c",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/cgi-bin/getopn.pl?OPINION=98-2118.01A",
+  "local_path": null,
+  "plain_text": "  [NOT FOR PUBLICATION--NOT TO BE CITED AS PRECEDENT]\r\n             United States Court of Appeals\r\n                 For the First Circuit\r\n\nNo. 98-2118\r\n\n                     OLGA CAPO ROMAN,\r\n\n                        Appellant,\r\n\n                            v.\r\n\n                  LA ELECTRONICA, INC.,\r\n\n                        Appellee.\r\n\n       APPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\n             FOR THE DISTRICT OF PUERTO RICO\r\n\n      [Hon. Jose Antonio Fuste, U.S. District Judge]\r\n\n                          Before\r\n\n                  Lynch, Circuit Judge,\r\n             Bownes, Senior Circuit Judge,\r\n               and Lipez, Circuit Judge.\r\n\n Fernando Van Derdys, Jose A. Acosta Grubb and Fiddler,\r\nGonzalez &amp; Rodriguez on brief for appellant.\r\n\nAPRIL 6, 1999\r\n\n                                                Per Curiam.  Upon careful consideration of\r\nappellant's brief and the record, we conclude that there is no\r\nreason to disturb the district court's affirmance of the\r\nbankruptcy court's order.  We reach this conclusion\r\nsubstantially for the reasons stated in the district court's\r\norder dated July 30, 1998.\r\n          Affirmed.  See 1st Cir. Loc. R. 27.1.\r\n",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

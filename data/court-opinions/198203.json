@@ -1,0 +1,26 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/198203/",
+  "absolute_url": "/opinion/198203/lheureux-v-pine/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/198203/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "date_created": "2011-02-07T03:47:41Z",
+  "date_modified": "2017-03-24T10:55:07.718020Z",
+  "type": "010combined",
+  "sha1": "38655863b172e9cbfc6d228cf49c54a69e378406",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/cgi-bin/getopn.pl?OPINION=98-1333.01A",
+  "local_path": null,
+  "plain_text": " [NOT FOR PUBLICATION--NOT TO BE CITED AS PRECEDENT]\r\n            United States Court of Appeals\r\n                For the First Circuit\r\n\nNo. 98-1333\r\n\n                   RONALD L'HEUREUX,\r\n\n                      Petitioner,\r\n\n                           v.\r\n\n           JEFFREY J. PINE, ATTORNEY GENERAL,\r\n\n                      Respondent.\r\n\n      APPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\n            FOR THE DISTRICT OF RHODE ISLAND\r\n\n      [Hon. Ernest C. Torres, U.S. District Judge]\r\n\n                         Before\r\n\n                Selya, Stahl and Lynch,\r\n                   Circuit Judges.\r\n\nRonald L'Heureux on brief pro se.\r\nAaron L. Weisman on brief for respondent.\r\n\nNovember 10, 1998\r\n\nPer Curiam.  After careful review of the briefs and record,\r\nand in light of the pending state court proceedings, we cannot say\r\nthat the district court abused its discretion in dismissing the\r\npetition for lack of exhaustion.  28 U.S.C.  2254(b)(1); seeJohnson v. Moran, 812 F.2d 23, 23 (1st Cir. 1987); Layne v. Gunter,\r\n559 F.2d 850, 851-52 (1st Cir. 1977).\r\nPetitioner's remaining arguments and requests are not properly\r\nbefore this court.\r\nAffirmed.  See 1st Cir. Loc. R. 27.1.\r\n\n                          -2-\n",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<pre class=\"inline\"> [NOT FOR PUBLICATION--NOT TO BE CITED AS PRECEDENT]\r\n            United States Court of Appeals\r\n                For the First Circuit\r\n\nNo. 98-1333\r\n\n                   RONALD L'HEUREUX,\r\n\n                      Petitioner,\r\n\n                           v.\r\n\n           JEFFREY J. PINE, ATTORNEY GENERAL,\r\n\n                      Respondent.\r\n\n      APPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\n            FOR THE DISTRICT OF RHODE ISLAND\r\n\n      [Hon. Ernest C. Torres, U.S. District Judge]\r\n\n                         Before\r\n\n                Selya, Stahl and Lynch,\r\n                   Circuit Judges.\r\n\nRonald L'Heureux on brief pro se.\r\nAaron L. Weisman on brief for respondent.\r\n\nNovember 10, 1998\r\n\nPer Curiam.  After careful review of the briefs and record,\r\nand in light of the pending state court proceedings, we cannot say\r\nthat the district court abused its discretion in dismissing the\r\npetition for lack of exhaustion.  28 U.S.C.  2254(b)(1); seeJohnson v. Moran, </pre><span class=\"citation\" data-id=\"483540\"><a href=\"/opinion/483540/paul-c-johnson-v-john-moran/\"><span class=\"volume\">812</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">23</span></a></span><pre class=\"inline\">, 23 (1st Cir. 1987); Layne v. Gunter,\r\n</pre><span class=\"citation\" data-id=\"347651\"><a href=\"/opinion/347651/robert-m-layne-v-frank-o-gunter/\"><span class=\"volume\">559</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">850</span></a></span><pre class=\"inline\">, 851-52 (1st Cir. 1977).\r\nPetitioner's remaining arguments and requests are not properly\r\nbefore this court.\r\nAffirmed.  See 1st Cir. Loc. R. 27.1.\r\n\n                          -2-\n</pre>",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/347651/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/483540/"
+  ]
+}
