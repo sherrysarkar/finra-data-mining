@@ -1,8 +1,11 @@
-import java.util.List;
+import java.util.HashSet;
 /**
  * Created by sherrysarkar on 10/15/17.
  */
 public class Graph {
-    private List<Node> vertices;
+    public HashSet<Node> vertices;
 
+    public Graph (HashSet<Node> v) {
+        vertices = v;
+    }
 }

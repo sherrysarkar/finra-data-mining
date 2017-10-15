@@ -1,29 +1,25 @@
-import java.util.List;
+import java.util.HashSet;
 
 /**
  * Created by sherrysarkar on 10/15/17.
  */
 public class Node {
     private String companyName;
-    public List<Edge> edges;
+    public HashSet<Edge> edges;
     private int temperature;
 
-    public Node (String name, List<Edge> e, int temp) {
+    public Node (String name, HashSet e, int temp) {
         companyName = name;
         edges = e;
         temperature = temp;
     }
 
-    public Node (String name, List<Edge> e) {
+    public Node (String name, HashSet<Edge> e) {
         this(name, e, 0);
     }
 
     public String getCompanyName() {
         return companyName;
-    }
-
-    public List<Edge> getEdges() {
-        return edges;
     }
 
     public int getTemperature() {
@@ -33,6 +29,5 @@ public class Node {
     public void setTemperature(int t) {
         temperature = t;
     }
-
 
 }

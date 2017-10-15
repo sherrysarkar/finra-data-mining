@@ -24,9 +24,7 @@ public class Edge {
         return start;
     }
 
-    public Node getEnd() {
-        return end;
-    }
+    public Node getEnd() { return end; }
 
     public ArrayList<String> getEmployees() {
         return employees;
