@@ -633,6 +633,7 @@
 3021910.json,Paul Mueller,Paul Mueller
 3018430.json,Michael Schaffer,Michael Schaffer
 4119351.json,Arthur Andersen,Morgan Stanley
+<<<<<<< HEAD
 818416.json,Paul Mueller,Paul Mueller
 818376.json,Paul Mueller,Paul Mueller
 820151.json,Matthew Thomas,Matthew Thomas
@@ -670,3 +671,120 @@
 4107615.json,David Moore,Moore
 3167311.json,Mark Wade,Mark Wade
 2828364.json,Steven Richard,Steven Richard
+=======
+217515.json,Curtis Brown,Curtis Brown
+3158478.json,Mark Wilson,Mark Wilson
+890974.json,Steven Richard,Steven Richard
+881507.json,Matthew Anthony,Matthew Anthony
+159965.json,Richard King,Richard King
+2641215.json,George Roberts,George Roberts
+4025902.json,Dana Anspach,Wealth Management Solutions
+162360.json,David Miller,David Miller
+2803711.json,David Miller,David Miller
+165199.json,David Moore,Moore
+164659.json,Sean Connelly,Kpmg
+162744.json,Robert Campbell,Robert Campbell
+171011.json,Pamela Harris,Pamela Harris
+171965.json,Byron Smith,Byron Smith
+875381.json,John Morris,John Morris
+168461.json,Christian Wehba,Bentley Forbes
+166637.json,William Leonard,William Leonard
+165943.json,James Hanna,James Hanna
+676446.json,William Leonard,William Leonard
+164449.json,Mark Wilson,Mark Wilson
+3062081.json,William Leonard,William Leonard
+166807.json,Larry Paul,Larry Paul
+176605.json,William Leonard,William Leonard
+820818.json,Steven Richard,Steven Richard
+170764.json,Michael Cave,Cave
+157046.json,David Miller,David Miller
+159878.json,Steve Ruiz,Steve Ruiz
+814490.json,David Miller,David Miller
+3062188.json,Eric Wheeler,Eric Wheeler
+3150720.json,Brian Collins,Brian Collins
+173175.json,David Miller,David Miller
+150510.json,Charles Nunez,Charles Nunez
+173146.json,Michael French,Michael French
+161037.json,Larry Paul,Larry Paul
+173272.json,Michael Duncan,Merrill Lynch
+153186.json,David Queen,David Queen
+2641214.json,William Leonard,William Leonard
+156999.json,Kathleen Ryan,Kathleen Ryan
+802464.json,William Leonard,William Leonard
+169487.json,Larry Paul,Larry Paul
+160010.json,David Miller,David Miller
+167261.json,William Leonard,William Leonard
+1033271.json,Denis Roy,Citigroup Global Markets
+615475.json,William Leonard,William Leonard
+161175.json,Robert Lincoln,Robert Lincoln
+3184153.json,William Leonard,William Leonard
+820139.json,Matthew Thomas,Matthew Thomas
+818416.json,Paul Mueller,Paul Mueller
+818375.json,Paul Mueller,Paul Mueller
+817624.json,Michael Simon,Target
+820151.json,Matthew Thomas,Matthew Thomas
+818376.json,Paul Mueller,Paul Mueller
+865442.json,Sharon Parker,Sharon Parker
+862042.json,Mark Wilson,Mark Wilson
+864363.json,Jason Taylor,Central Bank
+863066.json,Holmes Pettey,Holmes Pettey
+3154254.json,Paul Rogers,Paul Rogers
+863050.json,John Morris,John Morris
+864693.json,Kenneth Davis,Kenneth Davis
+1039080.json,Matthew Thomas,Matthew Thomas
+3133272.json,John Janis,John Janis
+880134.json,Carey Perkins,Carey Perkins
+4094909.json,Carey Perkins,Carey Perkins
+874216.json,Carey Perkins,Carey Perkins
+2657235.json,Carey Perkins,Carey Perkins
+874139.json,Carey Perkins,Carey Perkins
+1082174.json,David Miller,David Miller
+2686670.json,Rebecca Keller,University
+1083182.json,Walter Keith,Walter Keith
+1074461.json,James Davis,State Of Tennessee
+1084290.json,Mark Stephens,Mark Stephens
+1055217.json,David Miller,David Miller
+1049108.json,David Miller,David Miller
+1050049.json,Marie Burns,Marie Burns
+2658429.json,Mark Wilson,Mark Wilson
+1077224.json,Justin Johnson,Justin Johnson
+1055363.json,Richard Frank,Richard Frank
+4025601.json,Richard Frank,Richard Frank
+1055590.json,James Davis,State Of Tennessee
+2644779.json,James Davis,State Of Tennessee
+2754689.json,James Davis,State Of Tennessee
+1056468.json,James Vandergriff,James Vandergriff
+1076029.json,Matthew Anthony,Matthew Anthony
+1047810.json,Richard Frank,Richard Frank
+1046378.json,Richard Frank,Richard Frank
+3158750.json,Marie Burns,Marie Burns
+1053791.json,Curtis Brown,Curtis Brown
+2787202.json,Justin Johnson,Justin Johnson
+1050310.json,Justin Johnson,Justin Johnson
+1085965.json,Justin Gibson,Justin Gibson
+1044089.json,David Moore,Moore
+1046574.json,Richard Frank,Richard Frank
+1083091.json,Justin Johnson,Justin Johnson
+1083996.json,George Ross,George Ross
+1053729.json,James Davis,State Of Tennessee
+1049419.json,James Davis,State Of Tennessee
+1080325.json,Justin Johnson,Justin Johnson
+1057058.json,Justin Johnson,Justin Johnson
+1052036.json,Sandra Cannon,First Tennessee
+1077982.json,Curtis Brown,Curtis Brown
+1072187.json,Mark Stephens,Mark Stephens
+1051707.json,Kenneth Knox,Kenneth Knox
+1048065.json,Andrew Warner,Warner
+1049500.json,Larry Paul,Larry Paul
+1053966.json,Larry Paul,Larry Paul
+1047500.json,Justin Gibson,Justin Gibson
+2827527.json,Amy Parker,Amy Parker
+1044756.json,Larry Paul,Larry Paul
+1074172.json,Joshua Marino,Joshua Marino
+1080229.json,Lawrence Jackson,Lawrence Jackson
+1049655.json,Kenneth Knox,Kenneth Knox
+4093794.json,Kenneth Davis,Kenneth Davis
+1044881.json,Christopher Crandall,Christopher Crandall
+2898080.json,Betty Davis,Chrysler
+1080714.json,Mark Stephens,Mark Stephens
+>>>>>>> b696c50e8d087bdb4aed5ad32d8e0dfa70eb5663

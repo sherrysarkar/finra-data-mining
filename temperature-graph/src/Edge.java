@@ -15,10 +15,6 @@ public class Edge {
         end = e;
         employees = em;
         weight = w;
-
-        // When an edge is created, the nodes are updated.
-        start.edges.add(this);
-        end.edges.add(this);
     }
 
     public Edge(Node s, Node e, int w) {
@@ -39,6 +35,10 @@ public class Edge {
         return weight;
     }
 
+    public void incrementWeight(int i) {
+        weight += i;
+    }
+
     @Override
     public boolean equals(Object obj) {
         if (obj instanceof Edge) {
@@ -49,5 +49,10 @@ public class Edge {
             return start.equals(st) && end.equals(en);
         }
         return false;
+    }
+
+    @Override
+    public int hashCode() {
+        return 13 * start.hashCode() + end.hashCode();
     }
 }

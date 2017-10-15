@@ -6,20 +6,16 @@ import java.util.HashSet;
  */
 public class Node {
     private String companyName;
-    public HashSet<Edge> edges;
     private int temperature;
 
-    public Node (String name, HashSet e, int temp) {
+    public Node (String name, int temp) {
         companyName = name;
-        edges = e;
         temperature = temp;
     }
 
-    public Node (String name, HashSet<Edge> e) {
-        this(name, e, 0);
+    public Node (String name) {
+        this(name, 0);
     }
-
-    public Node (String name) { this(name, null); }
 
     public String getCompanyName() {
         return companyName;
@@ -33,15 +29,21 @@ public class Node {
         temperature = t;
     }
 
-    public void setEdges(HashSet<Edge> e) { edges = e; }
+    public void incrementTemperature(int t) {
+        temperature += t;
+    }
 
     @Override
     public boolean equals(Object obj) {
         if (obj instanceof Node) {
             Node n = (Node) obj;
-            return n.getCompanyName() == companyName;
+            return companyName.equals(n.getCompanyName());
         }
         return false;
     }
 
+    @Override
+    public int hashCode() {
+        return companyName.hashCode();
+    }
 }
