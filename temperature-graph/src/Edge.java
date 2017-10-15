@@ -2,6 +2,7 @@ import java.util.ArrayList;
 
 /**
  * Created by sherrysarkar on 10/15/17.
+ * TODO: Hashcodes?
  */
 public class Edge {
     private Node start;
@@ -14,6 +15,10 @@ public class Edge {
         end = e;
         employees = em;
         weight = w;
+
+        // When an edge is created, the nodes are updated.
+        start.edges.add(this);
+        end.edges.add(this);
     }
 
     public Edge(Node s, Node e, int w) {
@@ -32,5 +37,17 @@ public class Edge {
 
     public int getWeight() {
         return weight;
+    }
+
+    @Override
+    public boolean equals(Object obj) {
+        if (obj instanceof Edge) {
+            Edge e = (Edge) obj;
+            Node st = e.getStart();
+            Node en = e.getEnd();
+
+            return start.equals(st) && end.equals(en);
+        }
+        return false;
     }
 }
