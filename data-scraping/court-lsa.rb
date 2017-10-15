@@ -38,7 +38,7 @@ Dir.glob('../data/court-opinions/*.json') do |data_file|
 
     if i > 1000 then
         break
-    end
+    end 
 
 end
 
