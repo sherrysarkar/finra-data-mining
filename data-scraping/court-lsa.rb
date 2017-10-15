@@ -14,15 +14,24 @@ Dir.glob('../data/court-opinions/*.json') do |data_file|
     data_hash = JSON.parse(file)
     relevant_text = data_hash['plain_text'].gsub('\n', '')
 
-    array = relevant_text.split do |word|
+    array = relevant_text.split
+    frequency = Hash.new 0
+
+    array.each do |word|
         key_words.each do |key|
             if word.include? key then
-                word = ""
+                frequency[key] = frequency[key] + 1
             end
         end
     end
 
-    pruned_text = array.join(" ")
+    pruned_text = ""
+
+    frequency.keys.each do |key|
+        frequency[key].times do
+            pruned_text.concat(" #{key}")
+        end
+    end
 
     documents[i] = pruned_text
     i = i + 1
@@ -41,4 +50,4 @@ search = RSemantic::Search.new(documents, :verbose => true)
 
 #Find documents that are related to documents[0] with a ranking for how related they are.
 #puts search.related(0)
-puts search.related(0).first(100)
+puts search.related(0).first(100).sort
