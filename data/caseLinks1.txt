@@ -1,0 +1,93 @@
+2747160.json,David Miller,David Miller
+3209899.json,David Wray,David Wray
+3167100.json,Lawrence Jackson,Lawrence Jackson
+2726962.json,Scott Fischer,Wells Fargo
+2729258.json,Mark Stephens,Mark Stephens
+3209971.json,Beth Walker,Lpl Financial
+4090182.json,David Maxwell,David Maxwell
+2727025.json,Brad Long,Brad Long
+4146574.json,James Hauser,Edward Jones
+2729219.json,David Wray,David Wray
+4108839.json,Justin Johnson,Justin Johnson
+4110472.json,Justin Johnson,Justin Johnson
+3132737.json,Mark Wilson,Mark Wilson
+3162493.json,Dale Buckner,Dale Buckner
+4197246.json,David Wray,David Wray
+2829612.json,Jason Young,Staples
+3004793.json,Janice Williams,First Citizens Bank
+1039549.json,Joe Woods,Woods
+3207826.json,Amy Parker,Amy Parker
+2695298.json,Richard King,Richard King
+2694943.json,Lee Matthew,Lee Matthew
+2694646.json,Daren Johnson,Daren Johnson
+2694917.json,Daren Johnson,Daren Johnson
+4036696.json,Steven Richard,Steven Richard
+2802198.json,Steven Richard,Steven Richard
+2772622.json,Reed Smith,Bank Of America
+2774144.json,Reed Smith,Bank Of America
+4163857.json,Andrew Heller,Exis Capital
+2689827.json,David Moore,Moore
+2690781.json,Gene Smith,Gene Smith
+2691963.json,Paul Mueller,Paul Mueller
+2690406.json,William Leonard,William Leonard
+892769.json,Mark Wade,Mark Wade
+2672335.json,Sandra Perez,Unemployment
+2743236.json,David Miller,David Miller
+2819738.json,Helen Bennett,Philip Morris
+2771578.json,David Miller,David Miller
+2646341.json,Sandra Perez,Unemployment
+893768.json,Michael Gray,Self
+892608.json,Kenneth Shaffer,Kenneth Shaffer
+2701818.json,Gregory Perram,Fifth Third Securities
+2699276.json,Richard King,Richard King
+2702472.json,John Southworth,Northern Trust Company
+2699830.json,Larry Harmon,Harmon
+2705645.json,Brian Price,Brian Price
+2852514.json,Shawn Murphy,Shawn Murphy
+2705568.json,Alan Evans,Alan Evans
+4177088.json,Richard King,Richard King
+2694321.json,Gene Smith,Gene Smith
+2700008.json,Jeremy Hannah,Trailpass
+2704457.json,John Daley,John Daley
+2739050.json,Daniel Lockwood,Daniel Lockwood
+2692372.json,James Mann,James Mann
+3217634.json,Ria Busch,Authentic Investments
+2694162.json,David Moore,Moore
+2703281.json,Brian Collins,Brian Collins
+2694080.json,David Moore,Moore
+4123631.json,David Miller,David Miller
+4151608.json,Ryan Pontbriand,Cleveland Browns
+2694277.json,Robert Knapke,Robert Knapke
+3199659.json,Richard King,Richard King
+2696146.json,Jack Miller,Jack Miller
+3162703.json,John Sowell,Wells Fargo Bank
+4079401.json,Crystal Davis,Crystal Davis
+4172132.json,Eric Wheeler,Eric Wheeler
+4194788.json,Robert Frost,Wells Fargo Bank
+2705497.json,Matthew Thomas,Matthew Thomas
+2699501.json,Brian Joyce,Brian Joyce
+2764953.json,Crystal Davis,Crystal Davis
+2703182.json,Lawrence Jackson,Lawrence Jackson
+3203346.json,Eric Wheeler,Eric Wheeler
+2700040.json,Matthew Carter,Matthew Carter
+4150780.json,David Miller,David Miller
+2708048.json,Amy Parker,Amy Parker
+3174435.json,James Mann,James Mann
+2698559.json,Joseph Oliver,Edward Jones
+2717633.json,David Brooker,David Brooker
+2699996.json,Richard King,Richard King
+2697564.json,David Moore,Moore
+3174434.json,James Mann,James Mann
+2704636.json,John Janis,John Janis
+2791899.json,Sandra Perez,Unemployment
+891626.json,Helen Bennett,Philip Morris
+4124214.json,David Miller,David Miller
+4091348.json,David Miller,David Miller
+2784744.json,Sandra Perez,Unemployment
+3154114.json,Erin Murphy,Erin Murphy
+4113357.json,Richard Swanson,Tiaa
+4084781.json,Stephen Eldridge,Stephen Eldridge
+4082496.json,David Miller,David Miller
+4081139.json,Sarah Creath,Bck Partners
+4113380.json,Richard Swanson,Tiaa
+3158478.json,Mark Wilson,Mark Wilson

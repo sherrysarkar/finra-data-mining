@@ -1,0 +1,178 @@
+4075359.json,Christopher Todd,Compass Bank
+4064201.json,Arthur Andersen,Morgan Stanley
+4050204.json,Jeffrey Todd,Wells Fargo
+2864464.json,Kenneth Perkins,Perkins
+4044238.json,Robert Scott,Turner
+2899098.json,Brian Quinn,Citigroup Global Markets
+4074362.json,Christopher Yeager,Yeager
+4078307.json,Glen Rauch,Glen Rauch Securities
+3096070.json,Terry Lee,Edward Jones
+2873946.json,David Moore,Moore
+4077318.json,Arthur Andersen,Morgan Stanley
+4074368.json,Christopher Yeager,Yeager
+4059716.json,Jeffrey Todd,Wells Fargo
+4055628.json,Jocelyn Mcgregor,Chase
+4078114.json,Stephanie Lee,Moody
+4069954.json,William Evans,Chick
+3068745.json,Arthur Andersen,Morgan Stanley
+3067194.json,Mark Okada,Highland Capital Management
+3072511.json,John Michael,Wells Fargo Bank
+4065280.json,Michael Torres,Usaa
+4050837.json,Jackson Walker,Federal Emergency Management Agency
+2880570.json,Robert Scott,Turner
+4066899.json,Jackson Walker,Federal Emergency Management Agency
+4041253.json,Jeffrey Morrison,Attorney
+3110822.json,Kevin Williams,Wells Fargo
+4065704.json,Joseph Griffin,Morgan Stanley
+4077657.json,Michael David,Stryker
+4165585.json,Carey Sunderlage,Sunderlage Resource Group
+4058670.json,Christopher Yeager,Yeager
+4030570.json,Ian Garrett,Beaty Insurance Agency
+4058669.json,Michael Patrick,Health Insurance
+4076248.json,Jimmy Rodriguez,Wachovia Bank
+4039220.json,Robert Scott,Turner
+4076769.json,Mark Walker,Compass Bank
+3099167.json,Antonio Reyna,Lpl Financial Corporation
+3124218.json,Robert Scott,Turner
+3004793.json,Janice Williams,First Citizens Bank
+2700008.json,Jeremy Hannah,Trailpass
+4081139.json,Sarah Creath,Bck Partners
+2701818.json,Gregory Perram,Fifth Third Securities
+2819738.json,Helen Bennett,Philip Morris
+2702472.json,John Southworth,Northern Trust Company
+891626.json,Helen Bennett,Philip Morris
+4113357.json,Richard Swanson,Tiaa
+3217634.json,Ria Busch,Authentic Investments
+2829612.json,Jason Young,Staples
+4163857.json,Andrew Heller,Exis Capital
+4151608.json,Ryan Pontbriand,Cleveland Browns
+4194788.json,Robert Frost,Wells Fargo Bank
+2698559.json,Joseph Oliver,Edward Jones
+2772622.json,Reed Smith,Bank Of America
+4113380.json,Richard Swanson,Tiaa
+2699830.json,Larry Harmon,Harmon
+4146574.json,James Hauser,Edward Jones
+2726962.json,Scott Fischer,Wells Fargo
+1039549.json,Joe Woods,Woods
+2774144.json,Reed Smith,Bank Of America
+3162703.json,John Sowell,Wells Fargo Bank
+3177882.json,Sardar Biglari,Biglari Holdings
+2995535.json,Edwin Taylor,Chase
+4027030.json,Barry Guariglia,Citigroup Global Markets
+4027028.json,Kelly Stefanowicz,Bucknell University
+3010682.json,Robert Scott,Turner
+3014821.json,Thomas Gallina,Northwestern Mutual Life
+3010456.json,John Paul,John Hancock
+3045078.json,Michael Mack,Villanova University
+2679739.json,Craig Engler,Yorkville Advisors
+2670959.json,Thomas Thorndike,Cornerstone Financial
+810759.json,Katherine Kennedy,Charles
+2689117.json,Katherine Rhodes,Citigroup Global Markets
+3204909.json,James Scott,Morgan Stanley
+858497.json,Reed Smith,Bank Of America
+2439.json,William Pigott,Liberty Corner Capital Strategies
+2754952.json,Arthur Andersen,Morgan Stanley
+149091.json,Glen Rauch,Glen Rauch Securities
+2742327.json,Raymond Thomas,Bank Of America
+173907.json,Eric Propper,Stein Roe Investment Counsel
+2820088.json,Joseph David,Morgan Stanley
+2820089.json,William Blair,Wells Fargo
+4184366.json,Daniel Lima,Morgan Stanley
+1087274.json,Paul Wesolowski,Wesolowski
+4111197.json,William Blair,Wells Fargo
+149655.json,Arthur Andersen,Morgan Stanley
+3218110.json,Tu Nguyen,Wachovia Bank
+2960276.json,Joseph Friedman,Citigroup Global Markets
+809476.json,Phillip Goldstein,Bulldog Investors
+3186760.json,Marsha Johnson,Citigroup Global Markets
+1039743.json,Richard Silva,Wells Fargo Securities
+2745679.json,Thomas Caskey,Bank Of America
+148392.json,Glen Rauch,Glen Rauch Securities
+4118881.json,Julia Smith,Morgan Stanley
+4115796.json,John Verble,Morgan Stanley Smith Barney
+812951.json,Julia Smith,Morgan Stanley
+2976250.json,Raymond Grenier,Delta Equity Services Corporation
+2974782.json,Tim Shaw,Parker
+2974632.json,Ronald Carson,Carson
+2981411.json,Chris Kimler,First Tennessee Bank
+2972971.json,Julia Smith,Morgan Stanley
+2971003.json,Thomas Dusing,Fidelity
+2741514.json,Karen Nelson,Oppenheimer
+2732791.json,Eric Schmitt,United States Marine Corps
+2663989.json,John Patrick,Capital Bank
+2666800.json,Elise Shartsis,Citigroup Global Markets
+4157246.json,John Stephens,Stephens
+2789506.json,Alpesh Patel,Wachovia Securities
+4106251.json,John Levin,Levin Capital Strategies
+4191246.json,David Singer,Merrill Lynch
+3174943.json,Lisa Hammond,Morgan Stanley
+187352.json,Michael Margolis,Fedex
+1033271.json,Denis Roy,Citigroup Global Markets
+168461.json,Christian Wehba,Bentley Forbes
+4025902.json,Dana Anspach,Wealth Management Solutions
+164659.json,Sean Connelly,Kpmg
+173272.json,Michael Duncan,Merrill Lynch
+4148016.json,Robert Searle,Searle
+1025608.json,William Bond,Bank Of America
+2968541.json,John Curtis,Gmac Mortgage
+1003491.json,Charles Foster,Internal Revenue Service
+4148966.json,Joshua Crapps,Gemini Land Trust
+1026000.json,Jennifer Lee,Wells Fargo Bank
+2759199.json,Debbie Hines,Lehman Brothers
+3179627.json,Julian Diaz,Chase
+2774861.json,Jin Park,Wells Fargo Bank
+2746890.json,Adam Spencer,Comcast
+2742179.json,Isaac Richard,Chabot College
+3219194.json,Andrew Russell,Jpmorgan Chase Bank
+4020240.json,Adam Antoniades,First Allied Securities
+2735800.json,Isaac Richard,Chabot College
+1036651.json,Stanford Baer,Ubs Financial Services
+2679613.json,Charles Fish,Rockwater Municipal Advisors
+3162388.json,Mark Cone,Causeway Capital Management
+1042095.json,Bernard Lauper,Maccorkle Insurance
+2654549.json,Anthony Juarez,Juarez
+2793125.json,James Franceus,Crown Capital Securities
+1039702.json,Raul Munoz,Jp Morgan Chase Bank
+3196747.json,Jennifer Key,State Farm
+2683880.json,Charles Fish,Rockwater Municipal Advisors
+854298.json,Kenneth Catanzarite,Catanzarite Law Corporation
+2641761.json,Kenneth Catanzarite,Catanzarite Law Corporation
+2788618.json,Emma Bridges,Morgan Stanley
+149010.json,Michael Simon,Target
+208045.json,Kevin Mertens,Mertens
+2797389.json,Helen Rice,Edward Jones
+2645668.json,Robert Bird,Edward Jones
+3164104.json,Gil Cohen,Metropolitan Life Insurance Company
+4148524.json,Brett Laferrera,Valic Financial Advisors
+77123.json,Arthur Andersen,Morgan Stanley
+4019519.json,Michael Strickland,Strickland
+625621.json,Daniel Gomez,Merrill Lynch
+7424.json,Clifford Rice,Rice
+4121529.json,Charles Rawl,Stanford Group Company
+625746.json,Daniel Gomez,Merrill Lynch
+625620.json,Daniel Gomez,Merrill Lynch
+612791.json,Richard Wang,Pruco Securities
+625622.json,Daniel Gomez,Merrill Lynch
+618747.json,Jorge Gonzalez,Bank Of America
+23912.json,David Olson,Wells Fargo
+625748.json,Daniel Gomez,Merrill Lynch
+820290.json,John Wanken,Raymond James Financial Services
+899539.json,Phillip Goldstein,Bulldog Investors
+195251.json,Joseph Gormley,Gormley
+199851.json,Jose Ortiz,Dickerson
+3036394.json,Timothy Miller,Northwestern Mutual
+174092.json,Molly Kerr,Bank Of America
+855314.json,Kenneth Perkins,Perkins
+3044499.json,Dan Nguyen,Wells Fargo Bank
+2685890.json,Spencer Reed,Wells Fargo
+805249.json,Michael Weston,Fisher Investments
+4119351.json,Arthur Andersen,Morgan Stanley
+817624.json,Michael Simon,Target
+2993623.json,William Morrow,Apple
+2819793.json,Jeffrey Schouten,Miller
+4189227.json,Derek Hoggett,Apollo Group
+2745318.json,Kristine Davenport,Scottrade
+182919.json,Peter Simmonds,Bank Of America
+806131.json,Reed Smith,Bank Of America
+857589.json,Marcia Bloemendaal,Morgan Stanley Smith Barney
+3033541.json,Arthur Andersen,Morgan Stanley
