@@ -1,6 +1,9 @@
 import json
 
-danielstuff = open('./lists/peopleObjects.json', 'r')
+names = set([])
+companies = {}
+
+danielstuff = open('./peopleObjects.json', 'r')
 peops = json.loads(danielstuff.read());
 peops = peops['people']
 for peop in peops:
@@ -10,3 +13,11 @@ for peop in peops:
         peopcomps.add(elem['name'])
     companies[peop['person']] = peopcomps
 danielstuff.close()
+
+f = open('peopleObjects.csv', 'w')
+for key in companies.keys():
+    f.write(key)
+    for comp in companies[key]:
+        f.write("," + comp)
+    f.write("\n")
+f.close()
