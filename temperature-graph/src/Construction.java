@@ -91,6 +91,7 @@ public class Construction {
             stream.print(";");
         }
 
+        stream.println();
         for (Node key : adj.keySet()) {
             stream.print(key.getCompanyName());
             for (Node edge : adj.get(key).keySet()) {
