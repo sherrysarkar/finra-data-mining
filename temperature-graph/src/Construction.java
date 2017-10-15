@@ -30,7 +30,7 @@ public class Construction {
      * @return Fully constructed graph
      */
     public static void main(String[] args) throws FileNotFoundException {
-        Scanner scan = new Scanner(new File("caseLinks.txt"));
+        Scanner scan = new Scanner(new File("../../data/FINALCASELINKS.txt"));
         while(scan.hasNextLine()) {
             String line = scan.nextLine();
             line = line.replaceAll("\\s+", "");
@@ -75,6 +75,9 @@ public class Construction {
                 }
             }
         }
+
+
+
         PrintStream stream = new PrintStream(new File("graph.csv"));
         stream.println(adj.keySet().size());
         for (Node key : adj.keySet()) {
