@@ -19,13 +19,16 @@ for peop in peops:
         peopcomps.add(elem['name'])
     companies[peop['person']] = peopcomps
 danielstuff.close()
-path = Path('/home/shyamal/data/opinions-all/')
+path = Path('/home/daniel/Downloads/hackgt/CourtListener/opinions/')
 relevant = open('revelant.txt', 'w')
 caseLinks = open('caseLinks.txt', 'w')
 
 counter = 0
 total = 0
 for g in path.iterdir():
+    if not g.is_dir():
+        continue
+
     for f in g.iterdir():
         counter += 1
         r = f.open('r')

@@ -1,201 +1,677 @@
-2694917.json,Daren Johnson,Daren Johnson
-2694646.json,Daren Johnson,Daren Johnson
-2694943.json,Lee Matthew,Lee Matthew
-2695298.json,Richard King,Richard King
-2771578.json,David Miller,David Miller
-2743236.json,David Miller,David Miller
-892608.json,Kenneth Shaffer,Kenneth Shaffer
-2672335.json,Sandra Perez,Unemployment
-2646341.json,Sandra Perez,Unemployment
-892769.json,Mark Wade,Mark Wade
-2819738.json,Helen Bennett,Philip Morris
-893768.json,Michael Gray,Self
-3162493.json,Dale Buckner,Dale Buckner
-2729258.json,Mark Stephens,Mark Stephens
-3209899.json,David Wray,David Wray
-2727025.json,Brad Long,Brad Long
-3132737.json,Mark Wilson,Mark Wilson
-4090182.json,David Maxwell,David Maxwell
-4108839.json,Justin Johnson,Justin Johnson
-2726962.json,Scott Fischer,Wells Fargo
-2729219.json,David Wray,David Wray
-4146574.json,James Hauser,Edward Jones
-4110472.json,Justin Johnson,Justin Johnson
-3167100.json,Lawrence Jackson,Lawrence Jackson
-3209971.json,Beth Walker,Lpl Financial
-2646880.json,David Llewellyn,David Llewellyn
-844210.json,John Morris,John Morris
-4103812.json,Tommy Thompson,Self
-2766626.json,John Morris,John Morris
-4024346.json,Valerie Horner,Valerie Horner
-844239.json,Albert Martinez,Albert Martinez
-4027040.json,John Morris,John Morris
-2720490.json,Karen Flowers,Karen Flowers
-4117805.json,David Moore,Moore
-2714962.json,Hoang Nguyen,Hoang Nguyen
-2781493.json,Robert Williams,Bankers Life
-987393.json,Robert Campbell,Robert Campbell
-2647918.json,Robert Scott,Turner
-2715563.json,Deborah Tanner,Olympic Home Inspections
-4189341.json,David Miller,David Miller
-2797091.json,David Miller,David Miller
-1039206.json,David Maxwell,David Maxwell
-2771453.json,Michelle Nielsen,Aig Financial Advisors
-4020510.json,Mark Wilson,Mark Wilson
-4092372.json,Steven Richard,Steven Richard
-2715113.json,Michelle Nielsen,Aig Financial Advisors
-987322.json,John Morris,John Morris
-2783640.json,Matthew Dickinson,Lowe
-4101158.json,Victor Cheng,Victor Cheng
-2647402.json,Hoang Nguyen,Hoang Nguyen
-3185549.json,Clark Permann,Financial Management
-3164550.json,Larry Paul,Larry Paul
-3210865.json,Byron Smith,Byron Smith
-2975450.json,David Moore,Moore
-2974349.json,Robert Campbell,Robert Campbell
-2981411.json,Chris Kimler,First Tennessee Bank
-2971003.json,Thomas Dusing,Fidelity
-2976362.json,Kenneth Davis,Kenneth Davis
-2973086.json,David Moore,Moore
-799829.json,Michael Schaffer,Michael Schaffer
-2739644.json,Johnny Moore,Johnny Moore
-2976250.json,Raymond Grenier,Delta Equity Services Corporation
-4115796.json,John Verble,Morgan Stanley Smith Barney
-2972971.json,Julia Smith,Morgan Stanley
-3160083.json,Eric Wheeler,Eric Wheeler
-2723227.json,Matthew Thomas,Matthew Thomas
-2669294.json,Eddie Rollins,Rollins
-812951.json,Julia Smith,Morgan Stanley
-626810.json,Julie Paulson,Julie Paulson
-4165238.json,David Moore,Moore
-2976698.json,David Moore,Moore
-2982843.json,Richard Hogan,Richard Hogan
-2741514.json,Karen Nelson,Oppenheimer
-808396.json,David Miller,David Miller
-2981652.json,Herman Johnson,Herman Johnson
-2974782.json,Tim Shaw,Parker
-2983029.json,Mark Wilson,Mark Wilson
-4115790.json,David Miller,David Miller
-2975692.json,Rebecca Keller,University
-2974632.json,Ronald Carson,Carson
-4118881.json,Julia Smith,Morgan Stanley
-4028515.json,Brian Price,Brian Price
-2657933.json,Carl Carlson,Carl Carlson
-2971804.json,Gene Smith,Gene Smith
-2973341.json,Frank Horton,Frank Horton
-804283.json,Jack Miller,Jack Miller
-2982715.json,George Roberts,George Roberts
-3158894.json,Erin Murphy,Erin Murphy
-2971166.json,Robert Campbell,Robert Campbell
-2652409.json,Matthew Carter,Matthew Carter
-2973883.json,Charles Bryce,Charles Bryce
-2977108.json,Julia Smith,Homemaker
-819971.json,David Moore,Moore
-2970872.json,Paul Winkler,Paul Winkler
-2752093.json,David Moore,Moore
-2663795.json,Mark Schreiber,Mark Schreiber
-4177559.json,Julie Price,None
-2750351.json,David Miller,David Miller
-2665259.json,David Karp,David Karp
-2667601.json,David Miller,David Miller
-2663989.json,John Patrick,Capital Bank
-2732791.json,Eric Schmitt,United States Marine Corps
-4175966.json,Mark Leone,Mark Leone
-2661220.json,Scott Meredith,Scott Meredith
-2686179.json,David Croney,David Croney
-4157246.json,John Stephens,Stephens
-2658790.json,David Karp,David Karp
-2666800.json,Elise Shartsis,Citigroup Global Markets
-2664917.json,David Karp,David Karp
-3008631.json,Scott Caldwell,Scott Caldwell
-2742689.json,Paul Massey,Paul Massey
-3011569.json,George Ross,George Ross
-175286.json,Roger Morrison,Roger Morrison
-3034563.json,William Brennan,William Brennan
-3162646.json,Robert Lincoln,Robert Lincoln
-3020766.json,Mark Wilson,Mark Wilson
-3019005.json,Thomas Muir,Thomas Muir
-3019722.json,Erin Murphy,Erin Murphy
-3045905.json,Mark Wilson,Mark Wilson
-214890.json,Kenneth Shaffer,Kenneth Shaffer
-620537.json,William Brennan,William Brennan
-3010490.json,Curtis Brown,Curtis Brown
-866767.json,Robert Weston,Robert Weston
-181086.json,Jay Small,Jay Small
-3016608.json,Robert Wermuth,Robert Wermuth
-2679739.json,Craig Engler,Yorkville Advisors
-3031251.json,John Morris,John Morris
-3027273.json,Jason Crump,Jason Crump
-613291.json,William Brennan,William Brennan
-3009565.json,Curtis Brown,Curtis Brown
-3015150.json,David Miller,David Miller
-3017028.json,John Morris,John Morris
+3177882.json,Sardar Biglari,Biglari Holdings
+4094451.json,Larry Paul,Larry Paul
+2997560.json,Justin Johnson,Justin Johnson
+173966.json,Johnny Moore,Johnny Moore
+3001004.json,John Morris,John Morris
+3001243.json,David Sherman,David Sherman
+2998288.json,Kenneth Davis,Kenneth Davis
+2998262.json,John Daley,John Daley
+2708716.json,Crystal Davis,Crystal Davis
+3003400.json,David Miller,David Miller
+622102.json,Richard Sandoval,Richard Sandoval
+855809.json,Larry Harmon,Harmon
+2996691.json,Matthew Thomas,Matthew Thomas
+625181.json,Steven Blanchard,Steven Blanchard
+3002984.json,Angela Ip,Angela Ip
+2709282.json,Francis Sanchez,None
+2998167.json,David Miller,David Miller
+2995535.json,Edwin Taylor,Chase
+2997790.json,Mark Wilson,Mark Wilson
+871756.json,Robert Campbell,Robert Campbell
+870809.json,David Maxwell,David Maxwell
 215441.json,Leon Henry,Leon Henry
-2657018.json,Robert Lincoln,Robert Lincoln
-3013198.json,Emilio Garcia,Emilio Garcia
-4161496.json,Justin Johnson,Justin Johnson
-2818482.json,Kenneth Davis,Kenneth Davis
-216553.json,Barry Young,Barry Young
-3014430.json,John Morris,John Morris
-148998.json,Robert Lincoln,Robert Lincoln
-2760344.json,Robert Lincoln,Robert Lincoln
-3045078.json,Michael Mack,Villanova University
-3012067.json,David Miller,David Miller
-145327.json,Richard King,Richard King
-3010682.json,Robert Scott,Turner
-213537.json,Kenneth Shaffer,Kenneth Shaffer
-180848.json,Richard King,Richard King
+4027030.json,Barry Guariglia,Citigroup Global Markets
+3015150.json,David Miller,David Miller
 3036369.json,David Miller,David Miller
-3010456.json,John Paul,John Hancock
+3014430.json,John Morris,John Morris
+175286.json,Roger Morrison,Roger Morrison
+4161496.json,Justin Johnson,Justin Johnson
+3027273.json,Jason Crump,Jason Crump
+3017028.json,John Morris,John Morris
+216553.json,Barry Young,Barry Young
+4027028.json,Kelly Stefanowicz,Bucknell University
+620537.json,William Brennan,William Brennan
+3012067.json,David Miller,David Miller
+3010682.json,Robert Scott,Turner
+3013198.json,Emilio Garcia,Emilio Garcia
+3011569.json,George Ross,George Ross
+3034563.json,William Brennan,William Brennan
+145327.json,Richard King,Richard King
+3019722.json,Erin Murphy,Erin Murphy
+3162646.json,Robert Lincoln,Robert Lincoln
+148998.json,Robert Lincoln,Robert Lincoln
 3014821.json,Thomas Gallina,Northwestern Mutual Life
+3009565.json,Curtis Brown,Curtis Brown
+2657018.json,Robert Lincoln,Robert Lincoln
+866767.json,Robert Weston,Robert Weston
+3019005.json,Thomas Muir,Thomas Muir
+3020766.json,Mark Wilson,Mark Wilson
+3010456.json,John Paul,John Hancock
+3010490.json,Curtis Brown,Curtis Brown
+3045078.json,Michael Mack,Villanova University
+613291.json,William Brennan,William Brennan
+180848.json,Richard King,Richard King
+2818482.json,Kenneth Davis,Kenneth Davis
+3031251.json,John Morris,John Morris
 3021178.json,Lisa Dean,Lisa Dean
 3012454.json,David Karp,David Karp
-4027030.json,Barry Guariglia,Citigroup Global Markets
-4027028.json,Kelly Stefanowicz,Bucknell University
-2740640.json,David Miller,David Miller
-3176278.json,Cynthia Frazier,Cynthia Frazier
-2797389.json,Helen Rice,Edward Jones
-2750542.json,David Miller,David Miller
-3150174.json,David Miller,David Miller
-2645668.json,Robert Bird,Edward Jones
-2798944.json,Scott Meredith,Scott Meredith
-4061888.json,David Colley,David Colley
-4043195.json,Steven Richard,Steven Richard
-4061792.json,Steven Richard,Steven Richard
-2948786.json,Curtis Brown,Curtis Brown
-4062155.json,Larry Paul,Larry Paul
-4043194.json,Steven Richard,Steven Richard
-2831304.json,Richard King,Richard King
-2834187.json,Kyle Albright,Southwest Adjusters
-2834659.json,William Leonard,William Leonard
-4041846.json,John Donovan,None
-4057215.json,Robert Clary,Robert Clary
-3008422.json,Kyle Albright,Southwest Adjusters
-4042658.json,Michael Hess,Michael Hess
-2808640.json,James Lee,Morgan Stanley
-2674755.json,Mark Wilson,Mark Wilson
-2959698.json,Michael Cave,Cave
+181086.json,Jay Small,Jay Small
+214890.json,Kenneth Shaffer,Kenneth Shaffer
+2679739.json,Craig Engler,Yorkville Advisors
+3016608.json,Robert Wermuth,Robert Wermuth
+2760344.json,Robert Lincoln,Robert Lincoln
+3045905.json,Mark Wilson,Mark Wilson
+213537.json,Kenneth Shaffer,Kenneth Shaffer
+2670959.json,Thomas Thorndike,Cornerstone Financial
+810759.json,Katherine Kennedy,Charles
+2689117.json,Katherine Rhodes,Citigroup Global Markets
+3204909.json,James Scott,Morgan Stanley
+858497.json,Reed Smith,Bank Of America
+2439.json,William Pigott,Liberty Corner Capital Strategies
+2754952.json,Arthur Andersen,Morgan Stanley
+149091.json,Glen Rauch,Glen Rauch Securities
+621575.json,David Miller,David Miller
+2742327.json,Raymond Thomas,Bank Of America
+173907.json,Eric Propper,Stein Roe Investment Counsel
+2820088.json,Joseph David,Morgan Stanley
+2820089.json,William Blair,Wells Fargo
+803954.json,Shawn Murphy,Shawn Murphy
+148884.json,David Miller,David Miller
+4184366.json,Daniel Lima,Morgan Stanley
+1087274.json,Paul Wesolowski,Wesolowski
+152214.json,Kevin Costello,Kevin Costello
+4111197.json,William Blair,Wells Fargo
+149655.json,Arthur Andersen,Morgan Stanley
+3218110.json,Tu Nguyen,Wachovia Bank
+2646028.json,Andrew Silverman,Andrew Silverman
+2960276.json,Joseph Friedman,Citigroup Global Markets
+809476.json,Phillip Goldstein,Bulldog Investors
+205979.json,David Miller,David Miller
+625172.json,Curtis Brown,Curtis Brown
+3186760.json,Marsha Johnson,Citigroup Global Markets
+2959837.json,Scott Meredith,Scott Meredith
+1039743.json,Richard Silva,Wells Fargo Securities
+2745679.json,Thomas Caskey,Bank Of America
+148392.json,Glen Rauch,Glen Rauch Securities
+4118881.json,Julia Smith,Morgan Stanley
+2983029.json,Mark Wilson,Mark Wilson
+2970872.json,Paul Winkler,Paul Winkler
+4115796.json,John Verble,Morgan Stanley Smith Barney
+812951.json,Julia Smith,Morgan Stanley
+819971.json,David Moore,Moore
+4115790.json,David Miller,David Miller
+2973341.json,Frank Horton,Frank Horton
+2976362.json,Kenneth Davis,Kenneth Davis
+4165238.json,David Moore,Moore
+2976250.json,Raymond Grenier,Delta Equity Services Corporation
+2973883.json,Charles Bryce,Charles Bryce
+2974782.json,Tim Shaw,Parker
+2975450.json,David Moore,Moore
+2974632.json,Ronald Carson,Carson
+2971804.json,Gene Smith,Gene Smith
+2739644.json,Johnny Moore,Johnny Moore
+2982715.json,George Roberts,George Roberts
+3158894.json,Erin Murphy,Erin Murphy
+808396.json,David Miller,David Miller
+626810.json,Julie Paulson,Julie Paulson
+4028515.json,Brian Price,Brian Price
+2981411.json,Chris Kimler,First Tennessee Bank
+2723227.json,Matthew Thomas,Matthew Thomas
+2977108.json,Julia Smith,Homemaker
+2971166.json,Robert Campbell,Robert Campbell
+2652409.json,Matthew Carter,Matthew Carter
+2973086.json,David Moore,Moore
+2972971.json,Julia Smith,Morgan Stanley
+2975692.json,Rebecca Keller,University
+804283.json,Jack Miller,Jack Miller
+2974349.json,Robert Campbell,Robert Campbell
+3160083.json,Eric Wheeler,Eric Wheeler
+2657933.json,Carl Carlson,Carl Carlson
+2669294.json,Eddie Rollins,Rollins
+2981652.json,Herman Johnson,Herman Johnson
+2982843.json,Richard Hogan,Richard Hogan
+2971003.json,Thomas Dusing,Fidelity
+799829.json,Michael Schaffer,Michael Schaffer
+2976698.json,David Moore,Moore
+2741514.json,Karen Nelson,Oppenheimer
+2757181.json,David Moore,Moore
+2667601.json,David Miller,David Miller
+2663795.json,Mark Schreiber,Mark Schreiber
+2732791.json,Eric Schmitt,United States Marine Corps
+2661220.json,Scott Meredith,Scott Meredith
+2686179.json,David Croney,David Croney
+2664917.json,David Karp,David Karp
+2663989.json,John Patrick,Capital Bank
+4177559.json,Julie Price,None
+2666800.json,Elise Shartsis,Citigroup Global Markets
+2750351.json,David Miller,David Miller
+2658790.json,David Karp,David Karp
+2665259.json,David Karp,David Karp
+4157246.json,John Stephens,Stephens
+4175966.json,Mark Leone,Mark Leone
+2742189.json,George Roberts,George Roberts
+2789506.json,Alpesh Patel,Wachovia Securities
+4106251.json,John Levin,Levin Capital Strategies
+4191246.json,David Singer,Merrill Lynch
+3205107.json,Carrie Baker,Principal
+3207869.json,George Roberts,George Roberts
+2734219.json,David Miller,David Miller
+3174943.json,Lisa Hammond,Morgan Stanley
+4171009.json,John Morris,John Morris
+4175207.json,Matthew Thomas,Matthew Thomas
+2807429.json,James Mann,James Mann
+4095250.json,Joshua Charles,Real Estate
+4153236.json,Joshua Charles,Real Estate
+184467.json,Robert Campbell,Robert Campbell
+186782.json,Mark Wilson,Mark Wilson
+186265.json,Robert Campbell,Robert Campbell
+186995.json,Anthony Willis,Anthony Willis
+187352.json,Michael Margolis,Fedex
+184602.json,Robert Campbell,Robert Campbell
+3154494.json,William Leonard,William Leonard
+4178665.json,Brian Price,Brian Price
+160010.json,David Miller,David Miller
+3184153.json,William Leonard,William Leonard
+820818.json,Steven Richard,Steven Richard
+3062188.json,Eric Wheeler,Eric Wheeler
+167261.json,William Leonard,William Leonard
+156999.json,Kathleen Ryan,Kathleen Ryan
+173175.json,David Miller,David Miller
+162744.json,Robert Campbell,Robert Campbell
+165199.json,David Moore,Moore
+802464.json,William Leonard,William Leonard
+157046.json,David Miller,David Miller
+176605.json,William Leonard,William Leonard
+1033271.json,Denis Roy,Citigroup Global Markets
+161175.json,Robert Lincoln,Robert Lincoln
+169487.json,Larry Paul,Larry Paul
+171965.json,Byron Smith,Byron Smith
+615475.json,William Leonard,William Leonard
+168461.json,Christian Wehba,Bentley Forbes
+159965.json,Richard King,Richard King
+4025902.json,Dana Anspach,Wealth Management Solutions
+153186.json,David Queen,David Queen
+173146.json,Michael French,Michael French
+2803711.json,David Miller,David Miller
+159878.json,Steve Ruiz,Steve Ruiz
+170764.json,Michael Cave,Cave
+164659.json,Sean Connelly,Kpmg
+166807.json,Larry Paul,Larry Paul
+150510.json,Charles Nunez,Charles Nunez
+165943.json,James Hanna,James Hanna
+3062081.json,William Leonard,William Leonard
+676446.json,William Leonard,William Leonard
+3150720.json,Brian Collins,Brian Collins
+814490.json,David Miller,David Miller
+171011.json,Pamela Harris,Pamela Harris
+162360.json,David Miller,David Miller
+2641214.json,William Leonard,William Leonard
+2641215.json,George Roberts,George Roberts
+166637.json,William Leonard,William Leonard
+875381.json,John Morris,John Morris
+164449.json,Mark Wilson,Mark Wilson
+161037.json,Larry Paul,Larry Paul
+173272.json,Michael Duncan,Merrill Lynch
+1025350.json,Matthew Anthony,Matthew Anthony
+988718.json,Kenneth Davis,Kenneth Davis
+1019640.json,Mark Wade,Mark Wade
+994169.json,Kenneth Davis,Kenneth Davis
+992352.json,Kenneth Davis,Kenneth Davis
+991348.json,Kenneth Davis,Kenneth Davis
+992153.json,Kenneth Davis,Kenneth Davis
+2967925.json,Renee Carter,None
+993983.json,Matthew Anthony,Matthew Anthony
+1002970.json,Kenneth Davis,Kenneth Davis
+999186.json,Matthew Anthony,Matthew Anthony
+799503.json,William Leonard,William Leonard
+991109.json,Kenneth Davis,Kenneth Davis
+993446.json,Mark Wilson,Mark Wilson
+613325.json,Joseph Solomon,Joseph Solomon
+178862.json,George Ross,George Ross
+1008032.json,Mark Wilson,Mark Wilson
+988603.json,Kenneth Davis,Kenneth Davis
+991340.json,Kenneth Davis,Kenneth Davis
+1008649.json,Eric Wheeler,Eric Wheeler
+996891.json,Kenneth Davis,Kenneth Davis
+4148016.json,Robert Searle,Searle
+990629.json,Kenneth Davis,Kenneth Davis
+990239.json,Roy Leonard,Roy Leonard
+68.json,Stephen Eldridge,Stephen Eldridge
+1025608.json,William Bond,Bank Of America
+999402.json,Kenneth Davis,Kenneth Davis
+989011.json,Mark Wilson,Mark Wilson
+1008388.json,Kenneth Davis,Kenneth Davis
+989802.json,Roy Leonard,Roy Leonard
+994164.json,Kenneth Davis,Kenneth Davis
+995772.json,Mark Wilson,Mark Wilson
+1001208.json,Kenneth Davis,Kenneth Davis
+992339.json,Roy Leonard,Roy Leonard
+1004392.json,Kenneth Davis,Kenneth Davis
+1004351.json,Eric Wheeler,Eric Wheeler
+994518.json,Kenneth Davis,Kenneth Davis
+997870.json,Kenneth Davis,Kenneth Davis
+1024765.json,Steven Richard,Steven Richard
+1010002.json,John Daley,John Daley
+1026507.json,William Leonard,William Leonard
+997196.json,Kenneth Davis,Kenneth Davis
+995601.json,Eric Wheeler,Eric Wheeler
+1021513.json,Larry Paul,Larry Paul
+4191193.json,Brian Collins,Brian Collins
+997534.json,Kenneth Davis,Kenneth Davis
+999931.json,Kenneth Davis,Kenneth Davis
+989710.json,Kenneth Davis,Kenneth Davis
+149727.json,Steven Barry,Steven Barry
+222363.json,Steven Barry,Steven Barry
+2968252.json,Matthew Anthony,Matthew Anthony
+809510.json,Matthew Thomas,Matthew Thomas
+1011563.json,Matthew Thomas,Matthew Thomas
+613718.json,Joseph Solomon,Joseph Solomon
+1005080.json,Brian Richmond,Brian Richmond
+2967389.json,Kenneth Davis,Kenneth Davis
+2809363.json,Steven Barry,Steven Barry
+1025634.json,William Leonard,William Leonard
+998239.json,Kenneth Davis,Kenneth Davis
+995926.json,Kenneth Davis,Kenneth Davis
+614339.json,Robert Campbell,Robert Campbell
+1028400.json,William Leonard,William Leonard
+995806.json,Curtis Brown,Curtis Brown
+4200161.json,Danny Webb,Danny Webb
+1019652.json,Thomas Drake,Thomas Drake
+1023221.json,William Leonard,William Leonard
+993076.json,Thomas Drake,Thomas Drake
+999178.json,Steven Barry,Steven Barry
+2967733.json,James Horton,James Horton
+805082.json,Steven Barry,Steven Barry
+999182.json,Kenneth Davis,Kenneth Davis
+989965.json,Roy Leonard,Roy Leonard
+993464.json,David Miller,David Miller
+4106529.json,Matthew Thomas,Matthew Thomas
+997363.json,Kenneth Davis,Kenneth Davis
+2966411.json,Curtis Brown,Curtis Brown
+812515.json,Sherry Taylor,Sherry Taylor
+1004865.json,Kenneth Davis,Kenneth Davis
+995295.json,Mark Wilson,Mark Wilson
+997741.json,Matthew Anthony,Matthew Anthony
+1048532.json,Matthew Thomas,Matthew Thomas
+799950.json,Steven Barry,Steven Barry
+1009036.json,Kenneth Davis,Kenneth Davis
+990704.json,Mark Wilson,Mark Wilson
+995566.json,Matthew Anthony,Matthew Anthony
+1003379.json,Kenneth Davis,Kenneth Davis
+1004731.json,William Leonard,William Leonard
+1009111.json,Kenneth Davis,Kenneth Davis
+988114.json,Kenneth Davis,Kenneth Davis
+2968541.json,John Curtis,Gmac Mortgage
+994204.json,Kenneth Davis,Kenneth Davis
+997641.json,Mark Wilson,Mark Wilson
+2966447.json,Kenneth Davis,Kenneth Davis
+1005657.json,Kenneth Davis,Kenneth Davis
+1031656.json,William Leonard,William Leonard
+991285.json,Kenneth Davis,Kenneth Davis
+4175800.json,Matthew Thomas,Matthew Thomas
+989366.json,Roy Leonard,Roy Leonard
+990466.json,Kenneth Davis,Kenneth Davis
+1007265.json,Kenneth Davis,Kenneth Davis
+180284.json,Steven Barry,Steven Barry
+813866.json,Donald Stegall,Donald Stegall
+2966543.json,Kenneth Davis,Kenneth Davis
+1003887.json,Kenneth Davis,Kenneth Davis
+996895.json,Kenneth Davis,Kenneth Davis
+1023664.json,Matthew Anthony,Matthew Anthony
+1007953.json,Kenneth Davis,Kenneth Davis
+989224.json,Albert Martinez,Albert Martinez
+1003200.json,Kenneth Davis,Kenneth Davis
+1021633.json,Matthew Anthony,Matthew Anthony
+1007859.json,Kenneth Davis,Kenneth Davis
+995153.json,Mark Wilson,Mark Wilson
+998400.json,Walter Keith,Walter Keith
+614821.json,Steven Barry,Steven Barry
+1013765.json,Matthew Anthony,Matthew Anthony
+1026266.json,William Brennan,William Brennan
+214023.json,Steven Barry,Steven Barry
+1005329.json,Brian Richmond,Brian Richmond
+1003491.json,Charles Foster,Internal Revenue Service
+1001921.json,Kenneth Davis,Kenneth Davis
+2967445.json,Kenneth Davis,Kenneth Davis
+2967887.json,Matthew Anthony,Matthew Anthony
+989088.json,Mark Wilson,Mark Wilson
+1011671.json,Thomas Drake,Thomas Drake
+992046.json,Mark Wilson,Mark Wilson
+1024525.json,Paul Rogers,Paul Rogers
+991130.json,Kenneth Davis,Kenneth Davis
+993760.json,Kenneth Davis,Kenneth Davis
+990631.json,Kenneth Davis,Kenneth Davis
+2966918.json,Kenneth Davis,Kenneth Davis
+1012265.json,William Brennan,William Brennan
+1023111.json,Robert Lincoln,Robert Lincoln
+995530.json,Roy Leonard,Roy Leonard
+3203726.json,Matthew Thomas,Matthew Thomas
+873154.json,Eric Wheeler,Eric Wheeler
+2967684.json,Kenneth Davis,Kenneth Davis
+988927.json,Mark Wilson,Mark Wilson
+1021176.json,John Daley,John Daley
+2686024.json,Matthew Thomas,Matthew Thomas
+1015226.json,George Roberts,George Roberts
+2746534.json,Steven Barry,Steven Barry
+181897.json,Steven Barry,Steven Barry
+1022523.json,Matthew Anthony,Matthew Anthony
+4148966.json,Joshua Crapps,Gemini Land Trust
+993618.json,Kenneth Davis,Kenneth Davis
+1026000.json,Jennifer Lee,Wells Fargo Bank
+2967393.json,Steven Richard,Steven Richard
+1021955.json,Mark Wilson,Mark Wilson
+147024.json,Richard Frank,Richard Frank
+1005666.json,Kenneth Davis,Kenneth Davis
+1008513.json,Kenneth Davis,Kenneth Davis
+995438.json,Kenneth Davis,Kenneth Davis
+1007971.json,Kenneth Davis,Kenneth Davis
+996268.json,Kenneth Davis,Kenneth Davis
+1007497.json,Kenneth Davis,Kenneth Davis
+1004989.json,Kenneth Davis,Kenneth Davis
+996763.json,Kenneth Davis,Kenneth Davis
+802940.json,Steven Barry,Steven Barry
+989084.json,Curtis Brown,Curtis Brown
+4080647.json,Matthew Thomas,Matthew Thomas
+4151408.json,Richard Weinberg,Retired
+2770757.json,George Roberts,George Roberts
+2688950.json,John Morris,John Morris
+4023207.json,Kenneth Davis,Kenneth Davis
+2764737.json,Vickie Adams,Vickie Adams
+4197729.json,Ben Carson,Student
+2687885.json,Matthew Thomas,Matthew Thomas
+3184799.json,Kenneth Davis,Kenneth Davis
+870735.json,Robert Campbell,Robert Campbell
+2751063.json,John Morris,John Morris
 2759199.json,Debbie Hines,Lehman Brothers
-2748175.json,David Miller,David Miller
 4114232.json,Curtis Brown,Curtis Brown
 2827667.json,David Miller,David Miller
-4183838.json,Brian Collins,Brian Collins
-2730092.json,David Williams,Morgan Stanley
-2800091.json,David Miller,David Miller
-2729759.json,Robert Campbell,Robert Campbell
-2725551.json,Kenneth Davis,Kenneth Davis
-2731065.json,Jill Carr,Jill Carr
-2731097.json,Justin Johnson,Justin Johnson
-2725070.json,Robert Campbell,Robert Campbell
-4107136.json,Sharon Parker,Sharon Parker
-3164695.json,Robert Campbell,Robert Campbell
-2739239.json,Robert Campbell,Robert Campbell
-2727473.json,Robert Begley,Insurance
-4105212.json,John Morris,John Morris
-4112430.json,David Miller,David Miller
-2726885.json,Jill Carr,Jill Carr
-2772717.json,Matthew Thomas,Matthew Thomas
+2748175.json,David Miller,David Miller
+2647351.json,William Leonard,William Leonard
+4158669.json,Curtis Brown,Curtis Brown
+3166152.json,John Morris,John Morris
+3179627.json,Julian Diaz,Chase
+2674083.json,Mark Schreiber,Mark Schreiber
+2753169.json,John Morris,John Morris
+2774861.json,Jin Park,Wells Fargo Bank
+858181.json,Richard Frank,Richard Frank
+2746890.json,Adam Spencer,Comcast
+866889.json,Albert Martinez,Albert Martinez
+1042030.json,Richard Hague,Richard Hague
+2742179.json,Isaac Richard,Chabot College
+2758035.json,John Morris,John Morris
+2654840.json,Steven Barry,Steven Barry
+2808836.json,Mark Wade,Mark Wade
+3219194.json,Andrew Russell,Jpmorgan Chase Bank
+2655774.json,Steven Richard,Steven Richard
+866477.json,Matthew Thomas,Matthew Thomas
+2788537.json,John Morris,John Morris
+2670426.json,Daniel Machado,Daniel Machado
+4020240.json,Adam Antoniades,First Allied Securities
+3185222.json,John Morris,John Morris
+2903293.json,William Leonard,William Leonard
+3162387.json,William Leonard,William Leonard
+2752824.json,David Sherman,David Sherman
+2805982.json,John Morris,John Morris
+4093413.json,Kenneth Davis,Kenneth Davis
+4079934.json,Larry Paul,Larry Paul
+2735800.json,Isaac Richard,Chabot College
+1036651.json,Stanford Baer,Ubs Financial Services
+4165414.json,Matthew Thomas,Matthew Thomas
+2650777.json,John Morris,John Morris
+2679613.json,Charles Fish,Rockwater Municipal Advisors
+1042834.json,John Morris,John Morris
+4014805.json,Byron Smith,Byron Smith
+3192456.json,Armando Herrera,None
+2771424.json,Marc Guerra,Marc Guerra
+2753723.json,John Morris,John Morris
+1034802.json,John Morris,John Morris
+3162388.json,Mark Cone,Causeway Capital Management
+2756321.json,Larry Paul,Larry Paul
+2800323.json,Hector Garza,None
+2685553.json,John Morris,John Morris
+856055.json,Steven Richard,Steven Richard
+2654135.json,Jason Crum,Jason Crum
+1042095.json,Bernard Lauper,Maccorkle Insurance
+3165761.json,John Morris,John Morris
+2655989.json,Curtis Brown,Curtis Brown
+2654549.json,Anthony Juarez,Juarez
+2793125.json,James Franceus,Crown Capital Securities
+1039702.json,Raul Munoz,Jp Morgan Chase Bank
+1034156.json,John Morris,John Morris
+3196747.json,Jennifer Key,State Farm
+2683880.json,Charles Fish,Rockwater Municipal Advisors
+4077101.json,John Morris,John Morris
+1034352.json,Scott Meredith,Scott Meredith
+2670428.json,Larry Paul,Larry Paul
+2820310.json,William Leonard,William Leonard
+2741324.json,David Moore,Moore
+3179101.json,Stephanie Hicks,Stephanie Hicks
+857633.json,Patrick Stark,Patrick Stark
+866385.json,George Ross,George Ross
+854298.json,Kenneth Catanzarite,Catanzarite Law Corporation
+2804746.json,Jack Miller,Jack Miller
+3200904.json,Hoang Nguyen,Hoang Nguyen
+1034348.json,Eric Wheeler,Eric Wheeler
+2641761.json,Kenneth Catanzarite,Catanzarite Law Corporation
+2788618.json,Emma Bridges,Morgan Stanley
+844239.json,Albert Martinez,Albert Martinez
+2766626.json,John Morris,John Morris
+844210.json,John Morris,John Morris
+4024346.json,Valerie Horner,Valerie Horner
+4103812.json,Tommy Thompson,Self
+4027040.json,John Morris,John Morris
+2720490.json,Karen Flowers,Karen Flowers
+2646880.json,David Llewellyn,David Llewellyn
+2704858.json,Brian Price,Brian Price
+4166527.json,Richard King,Richard King
+211674.json,Michael Strickland,Strickland
+2805903.json,Matthew Thomas,Matthew Thomas
+149010.json,Michael Simon,Target
+208045.json,Kevin Mertens,Mertens
+3150174.json,David Miller,David Miller
+3176278.json,Cynthia Frazier,Cynthia Frazier
+2798944.json,Scott Meredith,Scott Meredith
+2797389.json,Helen Rice,Edward Jones
+2645668.json,Robert Bird,Edward Jones
+2750542.json,David Miller,David Miller
+2740640.json,David Miller,David Miller
+867403.json,Justin Johnson,Justin Johnson
+867444.json,Albert Martinez,Albert Martinez
+2677200.json,Danny Webb,Danny Webb
+816197.json,Steven Richard,Steven Richard
+43857.json,Gene Smith,Gene Smith
+71937.json,David Walker,Education
+74263.json,Curtis Brown,Curtis Brown
+799612.json,Charles Mansfield,Charles Mansfield
+77969.json,Mark Wilson,Mark Wilson
+2648802.json,Michael Chow,Michael Chow
+74709.json,Curtis Brown,Curtis Brown
+3217623.json,Richard King,Richard King
+3155415.json,Michael Chow,Michael Chow
+66119.json,Richard King,Richard King
+618520.json,Paul Rogers,Paul Rogers
+74708.json,Curtis Brown,Curtis Brown
+42471.json,Linda Gardner,Linda Gardner
+3164104.json,Gil Cohen,Metropolitan Life Insurance Company
+76900.json,Raymond Russo,Raymond Russo
+616176.json,Paul Rogers,Paul Rogers
+65828.json,Hoang Nguyen,Hoang Nguyen
+3169761.json,Kerry Tanner,Kerry Tanner
+624195.json,Richard Frank,Richard Frank
+75447.json,Curtis Brown,Curtis Brown
+2805758.json,Andrew Nelson,Andrew Nelson
+618673.json,Paul Rogers,Paul Rogers
+47598.json,David Moore,Moore
+55433.json,Justin Johnson,Justin Johnson
+67448.json,Mark Wade,Mark Wade
+49354.json,Steven Richard,Steven Richard
+811955.json,Eduardo Ramos,Eduardo Ramos
+3061472.json,Mark Wade,Mark Wade
+4177323.json,John Morris,John Morris
+74262.json,Curtis Brown,Curtis Brown
+4148524.json,Brett Laferrera,Valic Financial Advisors
+52060.json,Clifford Wilson,Clifford Wilson
+75446.json,Curtis Brown,Curtis Brown
+74993.json,William Leonard,William Leonard
+74991.json,William Leonard,William Leonard
+2671927.json,David Miller,David Miller
+2768878.json,Justin Johnson,Justin Johnson
+616158.json,Michael Bryan,None
+77123.json,Arthur Andersen,Morgan Stanley
+74992.json,William Leonard,William Leonard
+2671262.json,David Miller,David Miller
+77131.json,Roger Morrison,Roger Morrison
+2752093.json,David Moore,Moore
+786784.json,Kristie Anderson,Kristie Anderson
+70518.json,Steven Richard,Steven Richard
+4019519.json,Michael Strickland,Strickland
+57962.json,Steven Barry,Steven Barry
+3192445.json,Steven Richard,Steven Richard
+625621.json,Daniel Gomez,Merrill Lynch
+7424.json,Clifford Rice,Rice
+19176.json,James Maze,James Maze
+4121529.json,Charles Rawl,Stanford Group Company
+20456.json,Charles Murphy,None
+32011.json,John Morris,John Morris
+625746.json,Daniel Gomez,Merrill Lynch
+48045.json,Peter Kraus,Peter Kraus
+625620.json,Daniel Gomez,Merrill Lynch
+52836.json,Larry Paul,Larry Paul
+5945.json,Gene Smith,Gene Smith
+6122.json,Gene Smith,Gene Smith
+3199559.json,David Miller,David Miller
+174564.json,Robert Willis,Student
+66397.json,John Overton,Student
+625747.json,Daniel Gomez,Merrill Lynch
+2773048.json,David Miller,David Miller
+4877.json,John Morris,John Morris
+858314.json,John Morris,John Morris
+38598.json,Lawrence Jackson,Lawrence Jackson
+14297.json,Johnny Moore,Johnny Moore
+2799366.json,Paul Mueller,Paul Mueller
+30542.json,Larry Paul,Larry Paul
+820622.json,John Morris,John Morris
+27963.json,Matthew Thomas,Matthew Thomas
+47622.json,David Moore,Moore
+612791.json,Richard Wang,Pruco Securities
+40719.json,Cynthia Gibson,Cynthia Gibson
+625622.json,Daniel Gomez,Merrill Lynch
+618747.json,Jorge Gonzalez,Bank Of America
+8322.json,Robert Suter,Robert Suter
+22150.json,Matthew Thomas,Matthew Thomas
+10024.json,Mark Wilson,Mark Wilson
+6441.json,Garry Mauro,Garry Mauro
+22395.json,Andrew Nelson,Andrew Nelson
+23912.json,David Olson,Wells Fargo
+184106.json,Matthew Thomas,Matthew Thomas
+6940.json,Gene Smith,Gene Smith
+625748.json,Daniel Gomez,Merrill Lynch
+32956.json,Albert Martinez,Albert Martinez
+18202.json,David Moore,Moore
+21985.json,Kristine Arlitt,Kristine Arlitt
+11793.json,David Miller,David Miller
+866990.json,Brian Collins,Brian Collins
+24240.json,Robert Bernstein,None
+69652.json,Lisa Dean,Lisa Dean
+68440.json,Raymond Padilla,Raymond Padilla
+1039890.json,Mark Wilson,Mark Wilson
+6844.json,Albert Martinez,Albert Martinez
+820290.json,John Wanken,Raymond James Financial Services
+50624.json,John Morris,John Morris
+899539.json,Phillip Goldstein,Bulldog Investors
+198623.json,Pamela Harris,Pamela Harris
+203259.json,David Miller,David Miller
+196553.json,Sharon Parker,Sharon Parker
+199419.json,David Miller,David Miller
+201000.json,John Morris,John Morris
+3182989.json,John Morris,John Morris
+2966331.json,John Donovan,None
+2830403.json,John Donovan,None
+195251.json,Joseph Gormley,Gormley
+202399.json,John Morris,John Morris
+195698.json,Robert Campbell,Robert Campbell
+198028.json,Charles Nunez,Charles Nunez
+199851.json,Jose Ortiz,Dickerson
+3045490.json,David Sherman,David Sherman
+3023585.json,James Horton,James Horton
+3040984.json,Michael Hess,Michael Hess
+3036394.json,Timothy Miller,Northwestern Mutual
+174092.json,Molly Kerr,Bank Of America
+3021078.json,Ronald Erickson,Ronald Erickson
+3024916.json,Jack Miller,Jack Miller
+3020792.json,Paul Mueller,Paul Mueller
+3162604.json,Leon Henry,Leon Henry
+615170.json,Raymond Welsh,Welsh
+621216.json,Pamela Harris,Pamela Harris
+625082.json,Wendell Woods,Wendell Woods
+3046945.json,Jacqueline Gray,Jacqueline Gray
+855314.json,Kenneth Perkins,Perkins
+3029225.json,Curtis Brown,Curtis Brown
+4018830.json,Matthew Thomas,Matthew Thomas
+3032524.json,Robert Campbell,Robert Campbell
+3045842.json,Gene Smith,Gene Smith
+3033157.json,Richard King,Richard King
+3044499.json,Dan Nguyen,Wells Fargo Bank
+4171317.json,Kenneth Davis,Kenneth Davis
+173918.json,Leon Henry,Leon Henry
+2685890.json,Spencer Reed,Wells Fargo
+3025716.json,Paul Mueller,Paul Mueller
+3019457.json,Roy Leonard,Roy Leonard
+3021744.json,John Morris,John Morris
+2716434.json,Carmen Walker,None
+3043765.json,Cynthia Frazier,Cynthia Frazier
+811996.json,Gene Smith,Gene Smith
+3034881.json,John Morris,John Morris
+3205763.json,David Miller,David Miller
+3048798.json,Crystal Davis,Crystal Davis
+3036940.json,Linda Gardner,Linda Gardner
+3032517.json,Steven Richard,Steven Richard
+808175.json,Kristin Dougherty,Kristin Dougherty
+3033690.json,Michael Strong,Michael Strong
+3048487.json,David Sherman,David Sherman
+805249.json,Michael Weston,Fisher Investments
+3021910.json,Paul Mueller,Paul Mueller
+3018430.json,Michael Schaffer,Michael Schaffer
 4119351.json,Arthur Andersen,Morgan Stanley
+<<<<<<< HEAD
+818416.json,Paul Mueller,Paul Mueller
+818376.json,Paul Mueller,Paul Mueller
+820151.json,Matthew Thomas,Matthew Thomas
+818375.json,Paul Mueller,Paul Mueller
+817624.json,Michael Simon,Target
+820139.json,Matthew Thomas,Matthew Thomas
+3064642.json,Jorge Rodriguez,Student
+1040466.json,Kayvan Karoon,Financial Network
+2993623.json,William Morrow,Apple
+2819793.json,Jeffrey Schouten,Miller
+3064631.json,John Morgan,Insurance
+3151104.json,Curtis Brown,Curtis Brown
+221977.json,William Leonard,William Leonard
+4189227.json,Derek Hoggett,Apollo Group
+2929115.json,Mark Schreiber,Mark Schreiber
+2745318.json,Kristine Davenport,Scottrade
+182919.json,Peter Simmonds,Bank Of America
+2642264.json,Ralph Hall,Ralph Hall
+806131.json,Reed Smith,Bank Of America
+3033859.json,Larry Paul,Larry Paul
+3050578.json,Larry Paul,Larry Paul
+857589.json,Marcia Bloemendaal,Morgan Stanley Smith Barney
+616832.json,Matthew Carter,Matthew Carter
+3033541.json,Arthur Andersen,Morgan Stanley
+3187766.json,Clifford Wilson,Clifford Wilson
+1043297.json,Raymond Padilla,Raymond Padilla
+804119.json,William Leonard,William Leonard
+3066131.json,Lisa Hay,Lisa Hay
+3053020.json,John Morris,John Morris
+3054172.json,Jorge Rodriguez,Student
+223635.json,William Brennan,William Brennan
+3004799.json,William Morrow,Apple
+4153292.json,Cynthia Frazier,Cynthia Frazier
+3184433.json,David Moore,Moore
+4107615.json,David Moore,Moore
+3167311.json,Mark Wade,Mark Wade
+2828364.json,Steven Richard,Steven Richard
+=======
 217515.json,Curtis Brown,Curtis Brown
 3158478.json,Mark Wilson,Mark Wilson
 890974.json,Steven Richard,Steven Richard
@@ -311,4 +787,8 @@
 1044881.json,Christopher Crandall,Christopher Crandall
 2898080.json,Betty Davis,Chrysler
 1080714.json,Mark Stephens,Mark Stephens
+<<<<<<< HEAD
 4178665.json,Brian Price,Brian Price
+=======
+>>>>>>> b696c50e8d087bdb4aed5ad32d8e0dfa70eb5663
+>>>>>>> c26d6abee8a1ff0f0da983b72d1f9615aaaefec8
