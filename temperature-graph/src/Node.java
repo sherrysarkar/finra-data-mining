@@ -18,6 +18,8 @@ public class Node {
         this(name, e, 0);
     }
 
+    public Node (String name) { this(name, null); }
+
     public String getCompanyName() {
         return companyName;
     }
@@ -28,6 +30,17 @@ public class Node {
 
     public void setTemperature(int t) {
         temperature = t;
+    }
+
+    public void setEdges(HashSet<Edge> e) { edges = e; }
+
+    @Override
+    public boolean equals(Object obj) {
+        if (obj instanceof Node) {
+            Node n = (Node) obj;
+            return n.getCompanyName() == companyName;
+        }
+        return false;
     }
 
 }
