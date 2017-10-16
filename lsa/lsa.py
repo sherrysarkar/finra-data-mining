@@ -64,4 +64,6 @@ print('Did LSA')
 
 similarity = np.asarray(np.asmatrix(dtm_lsa) * np.asmatrix(dtm_lsa).T)
 #pd.DataFrame(similarity,index=names, columns=names)
-print('\n'.join(n + ',' + ','.join(row) for n, row in zip(names, similarity)))
+outF = open('lsa.csv', 'w')
+outF.write(((',' + ','.join(names)) + '\n' + '\n'.join(n + ',' + ','.join(str(i) for i in row) for n, row in zip(names, similarity))))
+outF.close()
